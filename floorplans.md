@@ -1,5 +1,4 @@
 # Buildings/Floor Plans
-- [Back](https://github.com/12345678-Nope-IP-23232323/extendedmaster113/tree/main)
 ## Triton Center
 ### Zone 1
 - **S:** Service Basement
