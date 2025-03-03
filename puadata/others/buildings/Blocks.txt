@@ -1,44 +1,37 @@
-E000..E07F; First Party Buildings
-E080..E0FF; Third Party Buildings
+E000..E07F; ElevatorMaster113 Buildings
+E080..E0FF; ElevatorMaster111 Buildings
 E100..E1FF; Eventhorizon5 Buildings
-E200..E2FF; Buildings
-E300..E3FF; Buildings
-E400..F4FF; Buildings
-E500..E5FF; Buildings
-E600..E6FF; Buildings
-E700..E7FF; Buildings
-E800..E8FF; Buildings
-E900..E9FF; Buildings
-EA00..EAFF; Buildings
-EB00..EBFF; Buildings
-EC00..ECFF; Buildings
-ED00..EDFF; Buildings
-EE00..EEFF; Buildings
-EF00..EFFF; Buildings
-F000..F0FF; Buildings
-F100..F1FF; Buildings
-F200..F2FF; Buildings
-F300..F3FF; Buildings
-F400..F4FF; Buildings
-F500..F5FF; Buildings
-F600..F6FF; Fourth Party Buildings
-F700..F7FF; Fictional Buildings
-F800..F8FF; Miscellaneous Buildings
-F0000..F0FFF; First Party Buildings Supplement
-F1000..F1FFF; Third Party Buildings Supplement
-F2000..F2FFF; Buildings Supplement
-F3000..F3FFF; Buildings Supplement
-F4000..F4FFF; Buildings Supplement
-F5000..F5FFF; Buildings Supplement
-F6000..F6FFF; Buildings Supplement
-F7000..F7FFF; Buildings Supplement
-F8000..F9FFF; Buildings Supplement
-F9000..F9FFF; Buildings Supplement
-FA000..FAFFF; Buildings Supplement
-FB000..FBFFF; Buildings Supplement
-FC000..FCFFF; Buildings Supplement
-FD000..FDFFF; Buildings Supplement
-FE000..FEFFF; Buildings Supplement
-FF000..FFFFF; Buildings Supplement
+E200..E2FF; Elevator1512 Buildings
+E300..E3FF; Escalatorgeek881 Buildings
+E400..F4FF; Mn10 Buildings
+E500..E5FF; M72 Buildings
+E600..E6FF; Sumosoftinc Buildings
+E700..E7FF; EGR1312 Buildings
+E800..E8FF; Skyscraper Simulator Showcase Buildings
+E900..E9FF; RandomUser Buildings
+EA00..EAFF; Elevator1209 Buildings
+EB00..EBFF; LF Buildings
+EC00..ECFF; HappyPizza64 Buildings
+ED00..EDFF; joao84704 Buildings
+EE00..EEFF; Buildings-EE
+EF00..EFFF; Buildings-EF
+F000..F0FF; Buildings-F0
+F100..F1FF; Buildings-F1
+F200..F2FF; Buildings-F2
+F300..F3FF; Buildings-F3
+F400..F4FF; Buildings-F4
+F500..F5FF; Buildings-F5
+F600..F6FF; Buildings-F6
+F700..F7FF; Buildings-F7
+F800..F8FF; Other People Buildings
+F0000..F0FFF; Hello Project Buildings
+F1000..F2FFF; North Amercian Buildings
+F3000..F4FFF; European Buildings
+F5000..F6FFF; Asian Buildings
+F7000..F8FFF; Japanese Buildings
+F9000..FAFFF; South American Buildings
+FB000..FCFFF; African Buildings
+FD000..FEFFF; Oceanic Buildings
+FF000..FFFFF; Other People Buildings Supplement
 
 # EOF
