@@ -1,37 +1,37 @@
-E000..E07F; Generic Flags
-E080..E0FF; Signal Flags
-E100..E3FF; ISO Country Code Flags
-E400..F4FF; North American Flags
-E500..E5FF; British Flags
-E600..E6FF; Scandinavian Flags
-E700..E7FF; Iberian Flags
-E800..E8FF; Western European Flags-A
-E900..E9FF; Western European Flags-B
-EA00..EAFF; Western European Flags-C
-EB00..EBFF; Eastern European Flags-A
-EC00..ECFF; Eastern European Flags-B
-ED00..EDFF; Eastern European Flags-C
-EE00..EEFF; Asian Flags-A
-EF00..EFFF; Asian Flags-B
-F000..F0FF; South American Flags
-F100..F1FF; African Flags
-F200..F2FF; Oceanic Flags
-F300..F3FF; Miscellaneous Subdivision Flags
-F400..F4FF; Constructed Language Flags
-F500..F5FF; Pride Flags
-F600..F6FF; Sports Flags
-F700..F7FF; Mika City Flags
-F800..F8FF; Miscellaneous Flags
-F0000..F0FFF; Generic Flags Supplement
-F1000..F1FFF; Signal Flags Supplement
-F2000..F3FFF; North American Flags Supplement
-F4000..F5FFF; European Flags Supplement
-F6000..F7FFF; Asian Flags Supplement
-F8000..F9FFF; South American Flags Supplement
-FA000..FBFFF; African Flags Supplement
-FC000..FCFFF; Oceanic Flags Supplement
-FD000..FDFFF; Miscellaneous Subdivision Flags Supplement
-FE000..FEFFF; Constructed Language Flags Supplement
-FF000..FFFFF; Pride Flags Supplement
+E000..E07F; First Party Buildings
+E080..E0FF; Third Party Buildings
+E100..E3FF; IRL Buildings
+E400..F4FF; Buildings
+E500..E5FF; Buildings
+E600..E6FF; Buildings
+E700..E7FF; Buildings
+E800..E8FF; Buildings
+E900..E9FF; Buildings
+EA00..EAFF; Buildings
+EB00..EBFF; Buildings
+EC00..ECFF; Buildings
+ED00..EDFF; Buildings
+EE00..EEFF; Buildings
+EF00..EFFF; Buildings
+F000..F0FF; Buildings
+F100..F1FF; Buildings
+F200..F2FF; Buildings
+F300..F3FF; Buildings
+F400..F4FF; Buildings
+F500..F5FF; Buildings
+F600..F6FF; Fourth Party Buildings
+F700..F7FF; Fictional Buildings
+F800..F8FF; Miscellaneous Buildings
+F0000..F0FFF; Third Party Buildings Supplement
+F1000..F1FFF; IRL Buildings Supplement
+F2000..F3FFF; Buildings Supplement
+F4000..F5FFF; Buildings Supplement
+F6000..F7FFF; Buildings Supplement
+F8000..F9FFF; Buildings Flags Supplement
+FA000..FBFFF; Buildings Flags Supplement
+FC000..FCFFF; Buildings Flags Supplement
+FD000..FDFFF; Buildings Supplement
+FE000..FEFFF; Buildings Supplement
+FF000..FFFFF; Buildings Supplement
 
 # EOF
