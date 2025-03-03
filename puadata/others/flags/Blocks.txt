@@ -1,7 +1,7 @@
 E000..E07F; Generic Flags
 E080..E0FF; Signal Flags
 E100..E3FF; ISO Country Code Flags
-E400..F4FF; North American Flags
+E400..E4FF; North American Flags
 E500..E5FF; British Flags
 E600..E6FF; Scandinavian Flags
 E700..E7FF; Iberian Flags
