@@ -24,14 +24,14 @@ F500..F5FF; Buildings-F5
 F600..F6FF; Buildings-F6
 F700..F7FF; Buildings-F7
 F800..F8FF; Other People Buildings
-F0000..F0FFF; Hello Project Buildings
-F1000..F2FFF; North Amercian Buildings
-F3000..F4FFF; European Buildings
-F5000..F6FFF; Asian Buildings
-F7000..F8FFF; Japanese Buildings
-F9000..FAFFF; South American Buildings
-FB000..FCFFF; African Buildings
-FD000..FEFFF; Oceanic Buildings
-FF000..FFFFF; Other People Buildings Supplement
+F0000..F1FFF; Kreative Media Buildings
+F2000..F3FFF; North Amercian Buildings
+F4000..F5FFF; European Buildings
+F6000..F7FFF; Asian Buildings
+F8000..F9FFF; Japanese Buildings
+FA000..FBFFF; South American Buildings
+FC000..FDFFF; African Buildings
+FE000..FEFFF; Oceanic Buildings
+FF000..FFFFF; Supplemental Buildings
 
 # EOF
