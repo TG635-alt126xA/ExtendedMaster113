@@ -1,6 +1,8 @@
 E000..E07F; First Party Buildings
 E080..E0FF; Third Party Buildings
-E100..E3FF; IRL Buildings
+E100..E1FF; EH Buildings
+E200..E2FF; Buildings
+E300..E3FF; Buildings
 E400..F4FF; Buildings
 E500..E5FF; Buildings
 E600..E6FF; Buildings
@@ -22,14 +24,19 @@ F500..F5FF; Buildings
 F600..F6FF; Fourth Party Buildings
 F700..F7FF; Fictional Buildings
 F800..F8FF; Miscellaneous Buildings
-F0000..F0FFF; Third Party Buildings Supplement
-F1000..F1FFF; IRL Buildings Supplement
-F2000..F3FFF; Buildings Supplement
-F4000..F5FFF; Buildings Supplement
-F6000..F7FFF; Buildings Supplement
-F8000..F9FFF; Buildings Flags Supplement
-FA000..FBFFF; Buildings Flags Supplement
-FC000..FCFFF; Buildings Flags Supplement
+F0000..F0FFF; First Party Buildings Supplement
+F1000..F1FFF; Third Party Buildings Supplement
+F2000..F2FFF; Buildings Supplement
+F3000..F3FFF; Buildings Supplement
+F4000..F4FFF; Buildings Supplement
+F5000..F5FFF; Buildings Supplement
+F6000..F6FFF; Buildings Supplement
+F7000..F7FFF; Buildings Supplement
+F8000..F9FFF; Buildings Supplement
+F9000..F9FFF; Buildings Supplement
+FA000..FAFFF; Buildings Supplement
+FB000..FBFFF; Buildings Supplement
+FC000..FCFFF; Buildings Supplement
 FD000..FDFFF; Buildings Supplement
 FE000..FEFFF; Buildings Supplement
 FF000..FFFFF; Buildings Supplement
