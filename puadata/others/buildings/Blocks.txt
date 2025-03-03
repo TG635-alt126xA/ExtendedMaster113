@@ -1,7 +1,3 @@
-@filename-txt FONTS/VEXILLO/Blocks.txt
-@generate-txt FONTS/VEXILLO/Blocks.txt
-@import fragments/header-blocks.txt
-
 E000..E07F; Generic Flags
 E080..E0FF; Signal Flags
 E100..E3FF; ISO Country Code Flags
