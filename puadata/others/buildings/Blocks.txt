@@ -3,7 +3,7 @@ E080..E0FF; Hello Project Buildings
 E100..E1FF; Eventhorizon5 Buildings
 E200..E2FF; Elevator1512 Buildings
 E300..E3FF; Escalatorgeek881 Buildings
-E400..F4FF; Mn10 Buildings
+E400..E4FF; Mn10 Buildings
 E500..E5FF; M72 Buildings
 E600..E6FF; Sumosoftinc Buildings
 E700..E7FF; EGR1312 Buildings
