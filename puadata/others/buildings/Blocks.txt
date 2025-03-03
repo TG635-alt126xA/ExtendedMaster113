@@ -1,6 +1,6 @@
 E000..E07F; First Party Buildings
 E080..E0FF; Third Party Buildings
-E100..E1FF; EH Buildings
+E100..E1FF; Eventhorizon5 Buildings
 E200..E2FF; Buildings
 E300..E3FF; Buildings
 E400..F4FF; Buildings
