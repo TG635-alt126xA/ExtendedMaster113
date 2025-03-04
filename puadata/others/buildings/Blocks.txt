@@ -1,10 +1,9 @@
-E000..E07F; ElevatorMaster113 Buildings
-E080..E0FF; Hello Project Buildings
-E100..E1FF; Eventhorizon5 Buildings
-E200..E2FF; Elevator1512 Buildings
-E300..E3FF; Escalatorgeek881 Buildings
-E400..E4FF; Mn10 Buildings
-E500..E5FF; M72 Buildings
+E000..E0FF; Eventhorizon5 Buildings
+E100..E1FF; Elevator1512 Buildings
+E200..E2FF; Escalatorgeek881 Buildings
+E300..E3FF; Mn10 Buildings
+E400..E4FF; M72 Buildings
+E500..E5FF; Girls2 Buildings
 E600..E6FF; Sumosoftinc Buildings
 E700..E7FF; EGR1312 Buildings
 E800..E8FF; Skyscraper Simulator Showcase Buildings
@@ -13,8 +12,8 @@ EA00..EAFF; Elevator1209 Buildings
 EB00..EBFF; LF Buildings
 EC00..ECFF; HappyPizza64 Buildings
 ED00..EDFF; joao84704 Buildings
-EE00..EEFF; Buildings-EE
-EF00..EFFF; Buildings-EF
+EE00..EEFF; RyureyHouse Buildings
+EF00..EFFF; Smileage Buildings
 F000..F0FF; Buildings-F0
 F100..F1FF; Buildings-F1
 F200..F2FF; Buildings-F2
@@ -24,14 +23,7 @@ F500..F5FF; Buildings-F5
 F600..F6FF; Buildings-F6
 F700..F7FF; Buildings-F7
 F800..F8FF; Other People Buildings
-F0000..F1FFF; Japanese Buildings
-F2000..F3FFF; North Amercian Buildings
-F4000..F5FFF; European Buildings
-F6000..F7FFF; Asian Buildings
-F8000..F9FFF; South Amercian Buildings
-FA000..FBFFF; African Buildings
-FC000..FDFFF; Oceanic Buildings
-FE000..FEFFF; Constructed Buildings
-FF000..FFFFF; Supplemental Buildings
+F0000..F01FF; ElevatorMaster113 Buildings
+FF000..FFFFF; Buildings Supplement
 
 # EOF
