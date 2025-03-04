@@ -24,5 +24,6 @@ F500..F5FF; Buildings-F5
 F600..F6FF; Buildings-F6
 F700..F7FF; Buildings-F7
 F800..F8FF; Buildings-F8
+F0000..F01FF; Buildings Supplement
 
 # EOF
