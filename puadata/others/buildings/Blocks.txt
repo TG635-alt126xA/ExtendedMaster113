@@ -1,10 +1,9 @@
-E000..E07F; General Buildings
-E080..E0FF; Supplemental Buildings
-E100..E1FF; Eventhorizon5 Buildings
-E200..E2FF; Elevator1512 Buildings
-E300..E3FF; Escalatorgeek881 Buildings
-E400..E4FF; Mn10 Buildings
-E500..E5FF; M72 Buildings
+E000..E0FF; Evenihorizon5 Buildings
+E100..E1FF; Elevator1512 Buildings
+E200..E2FF; Escalatorgeek881 Buildings
+E300..E3FF; Mn10 Buildings
+E400..E4FF; M72 Buildings
+E500..E5FF; SouthKoreanElevators Buildings
 E600..E6FF; Sumosoftinc Buildings
 E700..E7FF; EGR1312 Buildings
 E800..E8FF; Skyscraper Simulator Showcase Buildings
