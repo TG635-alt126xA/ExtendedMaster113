@@ -1,6 +1,6 @@
 Numbers,Name,Group
-70,AKB48,Stage48
-71~98,(Future Logos),Stage48
+48,AKB48,Stage48
+49~98,<reserved for Future Logos>,Stage48
 99,Morning Musume,HELLO! PROJECT
 100,Morning Musume '14~'26,HELLO! PROJECT
 101,Berryz Kobo,HELLO! PROJECT
@@ -14,5 +14,7 @@ Numbers,Name,Group
 109,Ocha Norma,HELLO! PROJECT
 110,Rosy Chronicle,HELLO! PROJECT
 111,Tapioka Musume,HELLO! PROJECT
-112~147,(Future Logos),HELLO! PROJECT
+112~147,<reserved for Future Logos>,HELLO! PROJECT
 148,Hello! Project Kenshuusei,HELLO! PROJECT
+149,<reserved for Future Logos>,HELLO! PROJECT
+150~199,<reserved for Past Logos>,HELLO! PROJECT
