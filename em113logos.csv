@@ -1,5 +1,4 @@
 Number,Logos
-0,Intro
 1,Coca-Cola
 2,MasterCard
 3,Nissan
@@ -58,17 +57,77 @@ Number,Logos
 60,Taco Bell
 61,Motorola
 62,PlayStation
-63,Screen Gems
-64,Klasky Csupo
+63,QWER
+64,Asus
+65,Megafon
+66,XL
+67,Gameloft
+68,Lego
+69,Tostem
+70,Movistar
+71,Cartoon Network
+72,Spin Master Entertainment
+73,Kirin
+74,Kagome
+75,Talking Tom
+76,Empire Today
+77,Turkcell
+78,Peugeot
+79,Facebook
+80,Twitter
+81,Skype
+82,Dek and Upin And Tamanegi
+83,MTC
+84,Life
+85,Xbox One
+86,Windows 7
+87,Windows XP
+88,Windows Productions
+89,Windows 8
+90,Nusantara TV
+91,Blu-ray Disc
+92,Namco
+93,EBay
+94,Starbucks
+95,Beeline
+96,Roblox
+97,CNN
+98,ABC
+99,Screen Gems
+100,Klasky Csupo
 101,Morning Musume '25
 102,Angerme
-103,Juice=Juice
-104,Tsubaki Factory
-105,Beyooooonds
-106,Ocha Norma
-107,Rosy Chronicle
-800,TVRI Nasional
-801,TVRI Daerah
-802,TVRI World
-803,TVRI Sport
-9999,Outro
+103,Ocha Norma
+104,Nintendo Wii
+105,Nintendo Wii U
+106,Nintendo DS
+107,Nintendo 3DS
+108,Xiaomi
+109,Toshiba
+110,Lenovo
+111,Huawei
+112,Ubisoft
+113,Lifecell
+114,Telenor
+115,Russia 1
+116,PlayStation Portable
+117,Sony
+118,Garuda TV
+119,Discord
+120,Lay's
+121,Nintendo GameCube
+122,Nokia
+123,Blackberry
+124,GSK
+125,Cadillac
+126,Central
+127,SEGA
+128,Philips
+129,Nintendo Switch
+130,Sega Dreamcast
+131,Nick on CBS
+132,4Kids Entertainment
+134,Juice=Juice
+135,Tsubaki Factory
+136,Beyooooonds
+999,Rosy Chronicle
