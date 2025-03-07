@@ -1,208 +1,256 @@
-ID Number,Unlockable Logos
-1,Coca-Cola
-2,MasterCard
-3,Nissan
-4,LG
-5,Acer
-6,HP
-7,Verizon
-8,Panasonic
-9,T-Mobile
-10,Paramount
-12,McDonald‘s
-13,Pepsi
-14,Mountain Dew
-15,Target
-16,FedEx
-17,Google
-18,BMW
-19,Toyota
-20,Opel
-21,FOX
-22,KFC
-23,Big Idea
-24,Danone
-25,Doritos
-26,Audi
-27,Skoda
-28,Mazda
-29,Intel
-30,Renault
-32,Samsung
-34,Microsoft
-35,Xbox 360
-36,Microsoft Edge
-37,Apple
-38,Yahoo!
-39,M&M's
-40,Subway
-41,YouTube
-42,HBO
-43,Burger King
-44,Maestro
-45,Cirrus
-46,Mondex
-47,AT&T
-48,OMation
-49,Nickelodeon
-50,NTT
-51,BP
-52,Shell
-53,Fanta
-54,Sprite
-55,Coca-Cola Zero
-56,DVD Video
-57,Dominos
-58,Barney
-59,Cinar
-60,Taco Bell
-61,Motorola
-62,PlayStation
-63,Peugeot
-64,Asus
-65,Megafon
-66,XL
-67,Gameloft
-68,Lego
-69,Tostem
-70,Movistar
-71,Cartoon Network
-72,Spin Master Entertainment
-73,Kirin
-74,Kagome
-75,Talking Tom
-76,Empire Today
-77,Turkcell
-78,Lensa Indonesia
-79,Facebook
-80,Twitter
-81,Skype
-82,MTC
-83,Life
-84,Xbox
-85,Xbox One
-86,Windows 7
-87,Windows XP
-88,Windows Productions
-89,Windows 8
-90,Wubway
-91,Blu-ray Disc
-92,Namco
-93,EBay
-94,Starbucks
-95,Beeline
-96,Roblox
-97,CNN
-98,ABC
-99,Screen Gems
-100,Klasky Csupo
-101,Morning Musume '25
-102,Angerme
-103,Ocha Norma
-104,Nintendo Wii
-105,Nintendo Wii U
-106,Nintendo DS
-107,Nintendo 3DS
-108,Xiaomi
-109,Discovery Kids
-110,Trans 7
-111,Toshiba
-112,Lenovo
-113,Huawei
-114,Lifecell
-115,Telenor
-116,Russia 1
-117,PlayStation Portable
-118,Sony
-119,Discord
-120,Lay's
-121,Nintendo GameCube
-122,Nokia
-123,Blackberry
-124,GSK
-125,Cadillac
-126,Central
-127,SEGA
-128,Philips
-129,Nintendo Switch
-130,Sega Dreamcast
-131,Nick on CBS
-132,4Kids Entertainment
-134,Universal
-135,Sprint
-136,QWER
-137,ME:I
-138,Fremantle
-139,NBC
-140,GBN
-141,Chromebook
-142,Bing
-143,Federator Incorporated
-144,Neversoft
-145,AMD Phentom 64-Bit
-146,Screenplay Films
-147,Coca-Cola Telecommunications
-148,Trivago
-149,TDK
-150,LazyTown
-151,Eheya
-152,UR
-153,Girls²
-154,Juice=Juice
-155,Nvidia
-156,Kicona
-157,Kobuta
-158,Valfer Video
-159,Filmtown Video
-160,Brother
-161,Sony Xperia
-162,Chugai
-163,Dacia
-164,Seat
-165,Tsubaki Factory
-166,Windows 11
-167,Kick Buttowski
-168,Portfolio Entertainment
-169,Meta
-170,PopCap
-171,Nusantara TV
-172,YouTube Kids
-173,Plissbury
-174,Google Chrome
-175,Google Chromium
-176,Phineas and Ferb
-177,MosoGourment
-178,Visa
-179,PayPal
-180,The Garfield Show
-181,Beyooooonds
-182,HTC
-183,Hyundai
-184,KIA
-185,Jeep
-186,Subaru
-187,Pixar
-188,Nintendo GameBoy
-189,Battle for Dream Island
-190,Ford
-191,UPS
-192,Vit
-194,Jaguar
-195,Vans
-196,Studio Canal
-197,Suzuki
-198,Noggin
-199,MTM
-200,Rosy Chronicle
-201,PlayStation 1
-202,Instagram
-203,Pirelli
-204,Corus Entertainment
-205,Ubisoft
-206,Eldorado
-207,Netflix
-208,Mojang Stodios
-209,The Curiosity Company
-210,Spiffy Pictures
-211,Rankin Bass
-212,Dairy Queen
+ID Number,Logos,Unlockable
+1,Coca-Cola,No
+2,MasterCard,No
+3,Nissan,No
+4,LG,No
+5,Acer,No
+6,HP,No
+7,Verizon,No
+8,Panasonic,No
+9,T-Mobile,No
+10,Paramount,No
+11,Volkswagen,No
+12,McDonald‘s,No
+13,Pepsi,No
+14,Mountain Dew,No
+15,Target,No
+16,FedEx,No
+17,Google,No
+18,BMW,No
+19,Toyota,No
+20,Opel,No
+21,FOX,No
+22,KFC,No
+23,Big Idea,No
+24,Danone,No
+25,Doritos,No
+26,Audi,No
+27,Skoda,No
+28,Mazda,No
+29,Intel,No
+30,Renault,No
+31,Citoren,No
+32,Samsung,No
+33,Datsun,No
+34,Microsoft,No
+35,Xbox 360,No
+36,Microsoft Edge,No
+37,Apple,No
+38,Yahoo!,No
+39,M&M's,No
+40,Subway,No
+41,YouTube,No
+42,HBO,No
+43,Burger King,No
+44,Maestro,No
+45,Cirrus,No
+46,Mondex,No
+47,AT&T,No
+48,OMation,No
+49,Nickelodeon,No
+50,NTT,No
+51,BP,No
+52,Shell,No
+53,Fanta,No
+54,Sprite,No
+55,Coca-Cola Zero,No
+56,DVD Video,No
+57,Dominos,No
+58,Barney,No
+59,Cinar,No
+60,Taco Bell,No
+61,Motorola,No
+62,PlayStation,No
+63,Peugeot,Yes
+64,Asus,Yes
+65,Megafon,Yes
+66,XL,Yes
+67,Gameloft,Yes
+68,Lego,Yes
+69,Tostem,Yes
+70,Movistar,Yes
+71,Cartoon Network,Yes
+72,Spin Master Entertainment,Yes
+73,Kirin,Yes
+74,Kagome,Yes
+75,Talking Tom,Yes
+76,Empire Today,Yes
+77,Turkcell,Yes
+78,Lensa Indonesia,Yes
+79,Facebook,Yes
+80,Twitter,Yes
+81,Skype,Yes
+82,MTC,Yes
+83,Life,Yes
+84,Xbox,Yes
+85,Xbox One,Yes
+86,Windows 7,Yes
+87,Windows XP,Yes
+88,Windows Productions,Yes
+89,Windows 8,Yes
+90,Wubway,Yes
+91,Blu-ray Disc,Yes
+92,Namco,Yes
+93,EBay,Yes
+94,Starbucks,Yes
+95,Beeline,Yes
+96,Roblox,Yes
+97,CNN,Yes
+98,ABC,Yes
+99,Screen Gems,Yes
+100,Klasky Csupo,Yes
+101,Morning Musume,Yes
+102,Angerme,Yes
+103,Ocha Norma,Yes
+104,Nintendo Wii,Yes
+105,Nintendo Wii U,Yes
+106,Nintendo DS,Yes
+107,Nintendo 3DS,Yes
+108,Xiaomi,Yes
+109,Discovery Kids,Yes
+110,Trans 7,Yes
+111,Toshiba,Yes
+112,Lenovo,Yes
+113,Huawei,Yes
+114,Lifecell,Yes
+115,Telenor,Yes
+116,Russia 1,Yes
+117,PlayStation Portable,Yes
+118,Sony,Yes
+119,Discord,Yes
+120,Lay's,Yes
+121,Nintendo GameCube,Yes
+122,Nokia,Yes
+123,Blackberry,Yes
+124,GSK,Yes
+125,Cadillac,Yes
+126,Central,Yes
+127,SEGA,Yes
+128,Philips,Yes
+129,Nintendo Switch,Yes
+130,Sega Dreamcast,Yes
+131,Nick on CBS,Yes
+132,4Kids Entertainment,Yes
+134,Universal,Yes
+135,Sprint,Yes
+136,QWER,Yes
+137,ME:I,Yes
+138,Fremantle,Yes
+139,NBC,Yes
+140,GBN,Yes
+141,Chromebook,Yes
+142,Bing,Yes
+143,Federator Incorporated,Yes
+144,Neversoft,Yes
+145,AMD Phentom 64-Bit,Yes
+146,Screenplay Films,Yes
+147,Coca-Cola Telecommunications,Yes
+148,Trivago,Yes
+149,TDK,Yes
+150,LazyTown,Yes
+151,Eheya,Yes
+152,UR,Yes
+153,Girls²,Yes
+154,Juice=Juice,Yes
+155,Nvidia,Yes
+156,Kicona,Yes
+157,Kobuta,Yes
+158,Valfer Video,Yes
+159,Filmtown Video,Yes
+160,Brother,Yes
+161,Sony Xperia,Yes
+162,Chugai,Yes
+163,Dacia,Yes
+164,Seat,Yes
+165,Tsubaki Factory,Yes
+166,Windows 11,Yes
+167,Kick Buttowski,Yes
+168,Portfolio Entertainment,Yes
+169,Meta,Yes
+170,PopCap,Yes
+171,Nusantara TV,Yes
+172,YouTube Kids,Yes
+173,Plissbury,Yes
+174,Google Chrome,Yes
+175,Google Chromium,Yes
+176,Phineas and Ferb,Yes
+177,MosoGourment,Yes
+178,Visa,Yes
+179,PayPal,Yes
+180,The Garfield Show,Yes
+181,Beyooooonds,Yes
+182,HTC,Yes
+183,Hyundai,Yes
+184,KIA,Yes
+185,Jeep,Yes
+186,Subaru,Yes
+187,Pixar,Yes
+188,Nintendo GameBoy,Yes
+189,Battle for Dream Island,Yes
+190,Ford,Yes
+191,UPS,Yes
+192,Vit,Yes
+194,Jaguar,Yes
+195,Vans,Yes
+196,Studio Canal,Yes
+197,Suzuki,Yes
+198,Noggin,Yes
+199,MTM,Yes
+200,Rosy Chronicle,Yes
+201,PlayStation 1,Yes
+202,Instagram,Yes
+203,Pirelli,Yes
+204,Corus Entertainment,Yes
+205,Ubisoft,Yes
+206,Eldorado,Yes
+207,Netflix,Yes
+208,Mojang Stodios,Yes
+209,The Curiosity Company,Yes
+210,Spiffy Pictures,Yes
+211,Rankin Bass,Yes
+212,Dairy Queen,Yes
+213,IGS,Yes
+214,Capcom,Yes
+215,Sony Pictures Television,Yes
+216,CBS Paramount Television,Yes
+217,Guild Home Video,Yes
+218,Sony Wonder,Yes
+219,Berryz Kobo,Yes
+220,Random Home Video,Yes
+221,Slai O'lai,Yes
+222,Children Television Workshop,Yes
+223,Pickwick Video,Yes
+224,CBC,Yes
+225,7Up,Yes
+226,Disney+,Yes
+227,Honda,Yes
+228,P&G,Yes
+229,Tide,Yes
+230,Steam,Yes
+231,Unilever,Yes
+232,SC Johnson,Yes
+233,Metronome,Yes
+234,Videunion Barcelona,Yes
+235,Fritos,Yes
+236,Fries King,Yes
+237,Firefox,Yes
+238,AMD,Yes
+239,Intel VIIV,Yes
+240,Merecedes Benz,Yes
+241,AMD Turion 64-Bit,Yes
+242,Intel Extreme Edition,Yes
+243,Intel Play,Yes
+244,Vodafone,Yes
+245,MTV,Yes
+246,Wikipedia,Yes
+247,Rovio,Yes
+248,BBC,Yes
+249,Canon,Yes
+250,Britt,Yes
+251,Pinterest,Yes
+252,JVC,Yes
+253,QuickTime,Yes
+254,ATI Radeon,Yes
+255,Prima Entertainment,Yes
+256,Mejier,Yes
+257,Clockwork Zoo,Yes
