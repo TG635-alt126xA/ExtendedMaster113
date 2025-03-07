@@ -1,15 +1,16 @@
-Number,Name,Native Name
-100,Morning Musume,モーニング娘。
-101,Berryz Kobo,ベリーズ工房
-102,C-ute,°C-ute
-103,S/mileage,スマイレージ
-104,Angerme,アンジュルム
-105,Juice=Juice,ジュースジュース
-106,Country Girls,カントリー・ガールズ
-107,Kobushi Factory,こぶしファクトリー
-108,Tsubaki Factory,つばきファクトリー
-109,Beyooooonds,ビヨーンズ
-110,Ocha Norma,オチャノーマ
-111,Rosy Chronicle,ロジークロニクル
-112,Tapioka Musume,タピオカ娘。
-150,Hello! Project Kenshuusei,ハロプロ研修生
+Number,Name,Native Name,Group
+99,Morning Musume,モーニング娘。,HELLO! PROJECT
+100,Morning Musume '14~'26,モーニング娘。'14~'26,HELLO! PROJECT
+101,Berryz Kobo,ベリーズ工房,HELLO! PROJECT
+102,C-ute,°C-ute,HELLO! PROJECT
+103,S/mileage,スマイレージ,HELLO! PROJECT
+104,Angerme,アンジュルム,HELLO! PROJECT
+105,Juice=Juice,ジュースジュース,HELLO! PROJECT
+106,Country Girls,カントリー・ガールズ,HELLO! PROJECT
+107,Kobushi Factory,こぶしファクトリー,HELLO! PROJECT
+108,Tsubaki Factory,つばきファクトリー,HELLO! PROJECT
+109,Beyooooonds,ビヨーンズ,HELLO! PROJECT
+110,Ocha Norma,オチャノーマ,HELLO! PROJECT
+111,Rosy Chronicle,ロジークロニクル,HELLO! PROJECT
+112,Tapioka Musume,タピオカ娘。,HELLO! PROJECT
+148,Hello! Project Kenshuusei,ハロプロ研修生,HELLO! PROJECT
