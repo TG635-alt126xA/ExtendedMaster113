@@ -29,7 +29,7 @@ ID Number,Logos,Unlockable
 28,Mazda,No
 29,Intel,No
 30,Renault,No
-31,Citoren,No
+31,Citroen,No
 32,Samsung,No
 33,Datsun,No
 34,Microsoft,No
@@ -258,10 +258,8 @@ ID Number,Logos,Unlockable
 257,Clockwork Zoo,Yes
 258,Anima Estudios,Yes
 260,Endemol,Yes
-261,Battle for B.F.D.I.,Yes
-262,Steven Universe,Yes
-263,Windows 10,Yes
-264,°C-ute,Yes
+261,Steven Universe,Yes
+262,Windows 10,Yes
 265,YTV,Yes
 266,Fritos Movies,Yes
 267,Carlton Video,Yes
@@ -282,3 +280,5 @@ ID Number,Logos,Unlockable
 282,Disney XD,Yes
 283,Wildbrain,Yes
 284,Repsol,Yes
+285,Oddbods,Yes/No
+286,°C-ute,Yes
