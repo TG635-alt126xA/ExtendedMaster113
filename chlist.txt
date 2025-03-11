@@ -1,6 +1,6 @@
 LOCAL & INHOUSE
 
-2	Inro Channel
+2	Intro Channel
 99	TVRI1 HD
 100	Metro TV HD
 101	SEA Today HD
@@ -16,7 +16,7 @@ LOCAL & INHOUSE
 114	Kompas TV HD
 115	BTV HD
 116	JAK-TV
-117	BeritaSatu / IDTV HD
+117	BeritaSatu HD
 118	RTV HD
 119	IDX Channel
 120	DAAI TV HD
