@@ -1,13 +1,12 @@
-ID Number,Logos
-101,Morning Musume
-102,Angerme
-103,Ocha Norma
-136,QWER
-137,ME:I
-153,Girls²
-154,Juice=Juice
-165,Tsubaki Factory
-181,Beyooooonds
-200,Rosy Chronicle
-219,Berryz Kobo
-286,°C-ute
+Number,Name,Status
+101,Morning Musume,Implemented
+219,Berryz Kobo,Planned
+286,°C-ute,Planned
+102,Angerme,Planned
+154,Juice=Juice,Planned
+832,Country Girls,Planned
+833,Kobushi Factory,Planned
+165,Tsubaki Factory,Planned
+181,Beyooooonds,Planned
+103,Ocha Norma,Planned
+200,Rosy Chronicle,Planned
