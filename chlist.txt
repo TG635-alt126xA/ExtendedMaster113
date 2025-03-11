@@ -1,6 +1,6 @@
 LOCAL & INHOUSE
 
-2	Intro Channel
+2	Info Channel
 99	TVRI1 HD
 100	Metro TV HD
 101	SEA Today HD
