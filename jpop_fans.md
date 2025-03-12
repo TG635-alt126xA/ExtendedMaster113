@@ -1,4 +1,5 @@
 # Hana Kajitsu (Haruka Shimazaki)
-![e1a8ed16-2712-4ecd-944a-558230d5dfef](https://github.com/user-attachments/assets/83c8db42-9cf6-4980-829a-108414a9f163)
+![Hana](https://github.com/user-attachments/assets/dc4e9715-6a74-46f8-8bcf-069c5af2c337)
 # Dukuma Hanazawa (Sayaka Yamamoto)
+![Dukuma](https://github.com/user-attachments/assets/67160063-5ffa-4402-9782-37961145ab13)
 # Ryosei Youki (Mayu Watanabe)
