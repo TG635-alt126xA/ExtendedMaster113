@@ -1,5 +1,5 @@
 # Hana Kajitsu (果実花)
-[Hana](https://deepai.org/gallery-item/42fa8b4d8a4b4f96a48f4d4a202677ea/hana-kajitsu-guo-shi-hua-red-in-j-pop-girl-e27c9f.jpg.html)
+![17417912116706665830012655394701](https://github.com/user-attachments/assets/428c65de-5906-4bcb-8eb9-3bd43116d354)
 * Seiyuu: Haruka Shimazaki
 # Dukuma Yamaguchi (山口豆久真)
 * Seiyuu: Sayaka Yamamoto
