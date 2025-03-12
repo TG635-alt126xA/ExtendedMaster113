@@ -2,5 +2,5 @@
 * Seiyuu: Haruka Shimazaki
 # Dukuma Yamaguchi (山口豆久真)
 * Seiyuu: Sayaka Yamamoto
-# Nima Youki (容器仁馬)
+# Nimazid Youki (容器二魔寺)
 * Seiyuu: Mayu Watanabe
