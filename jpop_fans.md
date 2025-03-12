@@ -4,5 +4,5 @@
 # Dukuma (豆久真)
 ![Dukuma](https://github.com/user-attachments/assets/67160063-5ffa-4402-9782-37961145ab13)
 * Seiyuu: Sayaka Yamamoto
-# Nima (𖹛𖹫𖹠𖹭 or ニマ)
+# Nima Youki (容器仁馬)
 * Seiyuu: Mayu Watanabe
