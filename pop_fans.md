@@ -1,4 +1,4 @@
-# J-Pop Girls Members-Ext
+# J-Pop Members
 ## タピオカ娘。(#001)
 ### Hana
 ![17417912116706665830012655394701](https://github.com/user-attachments/assets/428c65de-5906-4bcb-8eb9-3bd43116d354)
@@ -27,4 +27,4 @@
 ![Nuno](https://images.deepai.org/art-image/f03f888b869c41eaa31462c5a7fc9038/nuno-yamaguchi-green-in-j-pop-girl-red-shorts-white-i.jpg)
 * Full Name: Nuno Yamaguchi
 ## モーニング娘。(#004)
-# K-Pop Girls Members-Ext
+# K-Pop Members
