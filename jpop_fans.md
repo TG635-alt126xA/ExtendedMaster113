@@ -11,6 +11,7 @@
 * Nationality: Japanese
 * Seiyuu: Mayu Watanabe
 # Makura Kajitsu
+![Makura](https://images.deepai.org/art-image/ffb0a25a67794c0980952d6d8de57912/makura-kajitsu-purple-in-j-pop-girl-yellow-shorts-pin.jpg)
 # ???
 # ???
 # ???
