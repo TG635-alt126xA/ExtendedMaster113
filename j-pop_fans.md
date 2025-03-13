@@ -1,4 +1,4 @@
-# Members/Current
+# Current
 ## ぴうぱや娘。(#001)
 ### Hana Kajitsu
 ### Dukuma Abinzy
@@ -14,6 +14,6 @@
 ### Erina Ikuta
 ## アンジュルム (#007)
 ## ももいろクローバーZ (#008)
-# Members/Withdrawn
+# Withdrawn
 ## ベリーズ工房 (#005)
 ## キュート (#006)
