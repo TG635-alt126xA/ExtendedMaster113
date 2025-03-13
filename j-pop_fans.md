@@ -1,4 +1,4 @@
-# J-Pop Members
+# J-Pop Members/Current
 ## ぴうぱや娘。(#001)
 ### Hana Kajitsu
 ### Dukuma Abinzy
@@ -12,5 +12,8 @@
 ## AKB48 (#003)
 ## モーニング娘。(#004)
 ### Erina Ikuta
-## スマイリージ/アンジュルム (#007)
+## アンジュルム (#007)
 ## ももいろクローバーZ (#008)
+# J-Pop Members/Withdrawn
+## ベリーズ工房 (#005)
+## キュート (#006)
