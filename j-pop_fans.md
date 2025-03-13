@@ -1,6 +1,6 @@
-# J-Pop Members
-## AKB48 (#008)
-## JKT48 (#009)
+# J-Pop Members (Ending with 48)
+## AKB48 (#001)
+# J-Pop Members (Ending with 娘。)
 ## ぴうぱや娘。(#010)
 ## タピオカ娘。(#011)
 ### Hana
@@ -30,4 +30,4 @@
 ![Nuno](https://images.deepai.org/art-image/f03f888b869c41eaa31462c5a7fc9038/nuno-yamaguchi-green-in-j-pop-girl-red-shorts-white-i.jpg)
 * Full Name: Nuno Yamaguchi
 ## モーニング娘。(#014)
-# K-Pop Members
+# J-Pop Members (Other)
