@@ -1,4 +1,4 @@
-# J-Pop Girls Members (Status)
+# J-Pop Girls Members-Ext (Status)
 ## タピオカ娘。(Implemented)
 ### Hana
 ![17417912116706665830012655394701](https://github.com/user-attachments/assets/428c65de-5906-4bcb-8eb9-3bd43116d354)
@@ -12,7 +12,7 @@
 ![17418478734857225918386135253921](https://github.com/user-attachments/assets/3d3e73e2-4f59-48be-a2c7-d80cc3f7e725)
 * Full Name: Nimazid Youki
 * Remix Character: Yuzuha Oda
-## 色物体娘。(Partially)
+## 色物体 (Partially)
 ### Kyasaba
 ![17418513215427000218656362181644](https://github.com/user-attachments/assets/a99815fd-727f-4363-b0f2-7eb275dc67da)
 * Full Name: Kyassaba Hanazawa
@@ -35,6 +35,3 @@
 * Remix Character: ???
 ## SSÛRAKI↑GIRLS (Reserved)
 ## モーニング娘。(Reserved)
-## アンジュルム (Reserved)
-## OCHA NORMA (Reserved)
-## ロジークロニクル (Reserved)
