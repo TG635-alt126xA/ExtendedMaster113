@@ -19,7 +19,9 @@
 # 花澤夏葉
 ![17418513215427000218656362181644](https://github.com/user-attachments/assets/a99815fd-727f-4363-b0f2-7eb275dc67da)
 * Full Name (English): Kyassaba Hanazawa
-# ???
+# Koromo Yamaguchi
+![17418516993675349591920302031850](https://github.com/user-attachments/assets/757aa4f4-0416-4325-813f-ce7fcda20e56)
+* Full Name (English): Koromo Yamaguchi
 # ???
 # ???
 # ???
