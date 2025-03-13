@@ -1,6 +1,4 @@
-# J-Pop Members (Ending with 48)
-## AKB48 (#003)
-# J-Pop Members (Ending with 娘。)
+# J-Pop Members
 ## ぴうぱや娘。(#001)
 ### Hana Kajitsu
 ### Dukuma Abinzy
@@ -11,6 +9,8 @@
 ### Koromo Yamaguchi
 ### Makura Kajitsu
 ### Nuno Yamaguchi
+## AKB48 (#003)
 ## モーニング娘。(#004)
 ### Erina Ikuta
-# J-Pop Members (Other)
+## スマイリージ/アンジュルム (#007)
+## ももいろクローバーZ (#008)
