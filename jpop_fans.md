@@ -22,11 +22,11 @@
 ## Number 6
 ![17418513215427000218656362181644](https://github.com/user-attachments/assets/a99815fd-727f-4363-b0f2-7eb275dc67da)
 * Full Name: Kyassaba Hanazawa
-* Remix Character: ???
+* Remix Character: Misaki Tsuruya
 ## Number 7
 ![17418516993675349591920302031850](https://github.com/user-attachments/assets/757aa4f4-0416-4325-813f-ce7fcda20e56)
 * Full Name: Koromo Yamaguchi
-* Remix Character: Luigi
+* Remix Character: Inori Minase
 ## Number 8
 ![17418519095813080036640283851185](https://github.com/user-attachments/assets/7b69d609-6f4c-4677-b160-1f7450a0f965)
 * Full Name: Kasa Tachibana
