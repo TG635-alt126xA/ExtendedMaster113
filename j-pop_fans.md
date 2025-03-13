@@ -33,5 +33,5 @@
 ![Nuno](https://images.deepai.org/art-image/f03f888b869c41eaa31462c5a7fc9038/nuno-yamaguchi-green-in-j-pop-girl-red-shorts-white-i.jpg)
 * Full Name: Nuno Yamaguchi
 * Remix Character: ???
-## SSÛRAKI↑GIRLS (Planned)
+## Capium Dopitel (Planned)
 ## モーニング娘。(Planned)
