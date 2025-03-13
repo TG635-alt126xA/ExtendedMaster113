@@ -5,7 +5,7 @@
 * キャッサバ
   * Music Video
   * Promotion Edit
-* 桃色のキャッサバ、橙色の傘、空色の衣、紫の枕、緑の布
+* MDSMM no KKKMN (Replaced from 桃色のキャッサバ、橙色の傘、空色の衣、紫の枕、緑の布)
   * Music Video
   * Promotion Edit
 # S/mileage (now ANGERME)
