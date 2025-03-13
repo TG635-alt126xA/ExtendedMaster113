@@ -1,5 +1,8 @@
 # J-Pop Members
-## タピオカ娘。(#001)
+## AKB48 (#008)
+## JKT48 (#009)
+## ぴうぱや娘。(#010)
+## タピオカ娘。(#011)
 ### Hana
 ![17417912116706665830012655394701](https://github.com/user-attachments/assets/428c65de-5906-4bcb-8eb9-3bd43116d354)
 * Full Name: Hana Kajitsu
@@ -9,7 +12,7 @@
 ### Nimazid
 ![17418478734857225918386135253921](https://github.com/user-attachments/assets/3d3e73e2-4f59-48be-a2c7-d80cc3f7e725)
 * Full Name: Nimazid Youki
-## 色物体 (#002)
+## 色物体娘。(#012)
 ### Kyasaba
 ![17418513215427000218656362181644](https://github.com/user-attachments/assets/a99815fd-727f-4363-b0f2-7eb275dc67da)
 * Full Name: Kyassaba Hanazawa
@@ -26,5 +29,5 @@
 ### Nuno
 ![Nuno](https://images.deepai.org/art-image/f03f888b869c41eaa31462c5a7fc9038/nuno-yamaguchi-green-in-j-pop-girl-red-shorts-white-i.jpg)
 * Full Name: Nuno Yamaguchi
-## モーニング娘。(#004)
+## モーニング娘。(#014)
 # K-Pop Members
