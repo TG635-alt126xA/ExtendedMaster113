@@ -95,8 +95,6 @@
     AddTextRange 0, 99, BlackLit, ButtonLit%number%, nimbus_sans.ttf, 47, %number%, -1, -1, -1, -1, center, center, 255, 255, 255
     AddText Black, ButtonSD, nimbus_sans.ttf, 47, SD, -1, -1, -1, -1, center, center, 255, 255, 255
     AddText BlackLit, ButtonLitSD, nimbus_sans.ttf, 47, SD, -1, -1, -1, -1, center, center, 255, 255, 255
-    AddText Black, ButtonNe, nimbus_sans.ttf, 47, S, -1, -1, -1, -1, center, center, 255, 255, 255
-    AddText Black, ButtonNeNe, nimbus_sans.ttf, 47, SD, -1, -1, -1, -1, center, center, 255, 255, 255
     AddText Black, ButtonA, nimbus_sans.ttf, 47, A, -1, -1, -1, -1, center, center, 255, 255, 255
     AddText Black, ButtonXX, nimbus_sans.ttf, 47, XX, -1, -1, -1, -1, center, center, 255, 255, 255
     AddText Black, Button<A, nimbus_sans.ttf, 47, <A, -1, -1, -1, -1, center, center, 255, 255, 255
