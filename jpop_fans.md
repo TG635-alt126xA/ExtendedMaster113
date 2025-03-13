@@ -1,5 +1,5 @@
 # J-Pop Girls Members-Ext (Status)
-## タピオカ娘。(Implemented)
+## タピオカ娘。(In-Progress)
 ### Hana
 ![17417912116706665830012655394701](https://github.com/user-attachments/assets/428c65de-5906-4bcb-8eb9-3bd43116d354)
 * Full Name: Hana Kajitsu
@@ -12,7 +12,7 @@
 ![17418478734857225918386135253921](https://github.com/user-attachments/assets/3d3e73e2-4f59-48be-a2c7-d80cc3f7e725)
 * Full Name: Nimazid Youki
 * Remix Character: Yuzuha Oda
-## 色物体 (Partially)
+## 色物体 (Completed)
 ### Kyasaba
 ![17418513215427000218656362181644](https://github.com/user-attachments/assets/a99815fd-727f-4363-b0f2-7eb275dc67da)
 * Full Name: Kyassaba Hanazawa
@@ -33,5 +33,5 @@
 ![Nuno](https://images.deepai.org/art-image/f03f888b869c41eaa31462c5a7fc9038/nuno-yamaguchi-green-in-j-pop-girl-red-shorts-white-i.jpg)
 * Full Name: Nuno Yamaguchi
 * Remix Character: ???
-## SSÛRAKI↑GIRLS (Reserved)
-## モーニング娘。(Reserved)
+## SSÛRAKI↑GIRLS (Planned)
+## モーニング娘。(Planned)
