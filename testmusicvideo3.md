@@ -13,7 +13,7 @@
   * Version 3 (Music Video)
   * Version 4 (Music Video)
 # S/mileage (now ANGERME)
-* スマイレージ 『有頂天LOVE』 (MV)
+* 有頂天LOVE (MV)
 # Template
 * ??? 『???』 (???)
 # Others
