@@ -10,7 +10,7 @@
 ## Number 3
 ![17418478734857225918386135253921](https://github.com/user-attachments/assets/3d3e73e2-4f59-48be-a2c7-d80cc3f7e725)
 * Full Name: Nimazid Youki
-* Remix Character: Peach
+* Remix Character: Yuzuha Oda
 # J-Pop Girls Members/色物体娘
 ## Kyasaba
 ![17418513215427000218656362181644](https://github.com/user-attachments/assets/a99815fd-727f-4363-b0f2-7eb275dc67da)
