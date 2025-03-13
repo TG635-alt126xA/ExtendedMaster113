@@ -2,7 +2,7 @@
 ![17417912116706665830012655394701](https://github.com/user-attachments/assets/428c65de-5906-4bcb-8eb9-3bd43116d354)
 
 * Seiyuu: Haruka Shimazaki
-# Dukuma Yamaguchi (山口都久間)
+# Dukuma Abinzy (阿比地都久間)
 ![1741848682327105314179133076758](https://github.com/user-attachments/assets/322b40fe-9125-4c93-a548-88155648bcf6)
 
 * Seiyuu: Sayaka Yamamoto
