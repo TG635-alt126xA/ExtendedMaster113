@@ -14,7 +14,7 @@
 ## Number 4
 ![Makura](https://images.deepai.org/art-image/ffb0a25a67794c0980952d6d8de57912/makura-kajitsu-purple-in-j-pop-girl-yellow-shorts-pin.jpg)
 * Full Name: Makura Kajitsu
-* Remix Character: ???
+* Remix Character: Wario
 ## Number 5
 ![Nuno](https://images.deepai.org/art-image/f03f888b869c41eaa31462c5a7fc9038/nuno-yamaguchi-green-in-j-pop-girl-red-shorts-white-i.jpg)
 * Full Name: Nuno Yamaguchi
@@ -30,4 +30,4 @@
 ## Number 8
 ![17418519095813080036640283851185](https://github.com/user-attachments/assets/7b69d609-6f4c-4677-b160-1f7450a0f965)
 * Full Name: Kasa Tachibana
-* Remix Character: ???
+* Remix Character: Toa Harada
