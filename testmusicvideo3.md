@@ -5,4 +5,5 @@
 # Test: S/mileage (now ANGERME)
 * スマイレージ 『有頂天LOVE』 (MV)
 # Test: Others
-[いちご大好き(AI Music Video) - J-POP SUNO AI](https://www.youtube.com/watch?v=6QrJNHNd4DA)
+* [いちご大好き(AI Music Video) - J-POP SUNO AI](https://www.youtube.com/watch?v=6QrJNHNd4DA)
+* and More
