@@ -3,4 +3,6 @@
 * キャッサバ (MV)
 * 桃色のキャッサバ、橙色の傘、空色の衣、紫の枕、緑の布 (MV)
 # Test: S/mileage (now ANGERME)
-* 有頂天LOVE (MV)
+* スマイレージ 『有頂天LOVE』 (MV)
+# Test: Others
+[いちご大好き(AI Music Video) - J-POP SUNO AI](https://www.youtube.com/watch?v=6QrJNHNd4DA)
