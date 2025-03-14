@@ -7,9 +7,10 @@
   * Music Video
   * Promotion Edit
   * Dance Shot Ver.
-# H!P
+# Hello! Project
 ## S/mileage (now ANGERME)
 * 有頂天LOVE (MV)
-# Others
+# Suno AI
 * [いちご大好き(AI Music Video)](https://www.youtube.com/watch?v=6QrJNHNd4DA)
-* and More
+# Others
+* QWER - Discord
