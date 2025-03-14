@@ -2,7 +2,7 @@
 ## Tapioka Musume
 * 傘の女 (now in Girls²)
 * キャッサバ (now in Juice=Juice)
-* タマリダンス (previously 桃色のキャッサバ、橙色の傘、空色の衣、紫の枕、緑の布)
+* タマリダンス (previously 桃色のキャッサバ、橙色の傘、空色の衣、紫の枕、緑の布, now in Irobuttai Musume and Rosy Chronicle)
   * Music Video
   * Promotion Edit
   * Dance Shot Ver.
