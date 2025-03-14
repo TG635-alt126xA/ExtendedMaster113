@@ -1,8 +1,8 @@
 # ReservedFilterSweeps5471
 ## Tapioka Musume
-* 傘の女
-* キャッサバ
-* タマリダンス (previously 桃色のキャッサバ、橙色の傘、空色の衣、紫の枕、緑の布, now in ANGERME)
+* 傘の女 (now in Girls²)
+* キャッサバ (now in Juice=Juice)
+* タマリダンス (previously 桃色のキャッサバ、橙色の傘、空色の衣、紫の枕、緑の布)
   * Music Video
   * Promotion Edit
   * Dance Shot Ver.
