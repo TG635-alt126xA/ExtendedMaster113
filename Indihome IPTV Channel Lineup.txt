@@ -27,6 +27,7 @@ LOCAL & INHOUSE
 123	JTV SBY
 124	Antara TV HD
 125	MOJI HD
+127	Youkimachi TV
 128	Nusantara TV HD
 129	iNews HD
 130	rri NET
@@ -97,7 +98,7 @@ ENTERTAINMENT & INTERNATIONAL
 533	CCTV 4
 534	Citra Drama HD
 535	Citra Dangdut HD
-536	GEM HD
+536	KAGOME CHANNEL / GEM HD
 537	ONE HD
 538	Zhejiang TV
 539	Shenzen TV
@@ -195,4 +196,4 @@ All channels are able to timeshift & catch-up for 7D, except:
 -	Horizon Sports HD
 -	NHK World Japan HD
 
-UPDATED:	JAN 2025
+UPDATED:	MAR 2025
