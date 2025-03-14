@@ -9,10 +9,29 @@
 ### Koromo Yamaguchi
 ### Makura Kajitsu
 ### Nuno Yamaguchi
-## AKB48 (#003)
 ## モーニング娘。(#004)
 ### Erina Ikuta
-## ベリーズ工房 (#005, formerly)
-## キュート (#006, formerly)
+### Ayumi Ishida
+### Sakura Oda
+### Miki Nonaka
+### Maria Makino
+### Akane Haga
+### Reina Yokoyama
+### Rio Kitagawa
+### Homare Okamura
+### Mei Yamazaki
+### Rio Sakurai
+### Haruka Inoue
+### Ako Yumigeta
 ## アンジュルム (#007)
-## ももいろクローバーZ (#008)
+### Rikako Sasaki
+### Moe Kamikokuryo
+### Ayano Kawamura
+### Layla Ise
+### Rin Hashisako
+### Rin Kawana
+### Shion Tamenaga
+### Wakana Matsumoto
+### Yuki Hirayama
+### Yukiho Shimoitani
+### Hana Goto
