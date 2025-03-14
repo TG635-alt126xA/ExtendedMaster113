@@ -129,7 +129,6 @@ SPORTS & JAPANESE
 700	AllPlay Sports
 701	SPOTV HD
 702	SPOTV 2 HD
-703	Sportstars 4 HD
 704	Fight Sports HD
 705	Champions TV 1 HD
 706	Champions TV 2 HD
@@ -140,11 +139,7 @@ SPORTS & JAPANESE
 711	W Sport HD
 714	Horizon Sports HD
 754	KAGOME CHANNEL
-758	Sportstars 2 HD
-759	Sportstars 3 HD
 771	UP-FRONT CHANNEL
-773	Soccer Channel HD
-774	Sportstars HD
 775	ANGERME TV
 
 NEWS, RELIGION, & DOLBY
@@ -198,6 +193,9 @@ All channels are able to timeshift & catch-up for 7D, except:
 -	HITS Movies HD
 -	AllPlay Sports
 -	Horizon Sports HD
+-	KAGOME CHANNEL
+-	UP-FRONT CHANNEL
+-	ANGERME TV
 -	NHK World Japan HD
 
 UPDATED:	MAR 2025
