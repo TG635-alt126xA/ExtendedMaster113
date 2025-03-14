@@ -3,7 +3,7 @@
 * 傘の女 (now in Girls²)
 * キャッサバ (now in Juice=Juice)
 ## Irobuttai Musume
-* タマリダンス feat. モーニング娘。 (Original by 桃色のキャッサバ、橙色の傘、空色の衣、紫の枕、緑の布)
+* 桃色のキャッサバ feat. モーニング娘。 (Original by 桃色のキャッサバ、橙色の傘、空色の衣、紫の枕、緑の布)
   * Music Video
   * Promotion Edit
   * Dance Shot Ver.
