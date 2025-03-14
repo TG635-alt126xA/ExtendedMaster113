@@ -27,7 +27,6 @@ LOCAL & INHOUSE
 123	JTV SBY
 124	Antara TV HD
 125	MOJI HD
-127	TVRI Jateng HD
 128	Nusantara TV HD
 129	iNews HD
 130	rri NET
@@ -98,7 +97,6 @@ ENTERTAINMENT & INTERNATIONAL
 533	CCTV 4
 534	Citra Drama HD
 535	Citra Dangdut HD
-536	Youkimachi TV
 537	ONE HD
 538	Zhejiang TV
 539	Shenzen TV
@@ -126,11 +124,12 @@ MOVIES
 620	IMC HD
 621	Galaxy Premium HD
 
-SPORTS, JAPANESE, FICTIONAL, & ELEVATORS
+SPORTS & JAPANESE
 
 700	AllPlay Sports
 701	SPOTV HD
 702	SPOTV 2 HD
+703	Sportstars 4 HD
 704	Fight Sports HD
 705	Champions TV 1 HD
 706	Champions TV 2 HD
@@ -140,27 +139,12 @@ SPORTS, JAPANESE, FICTIONAL, & ELEVATORS
 710	VOLI TV HD
 711	W Sport HD
 714	Horizon Sports HD
-750	IDL3K
-751	GaruGaru Channel
-752	South Korean Elevator Channel
-753	Elevator1512 Productions
 754	KAGOME CHANNEL
-756	Sumosoftinc.
-757	TG97 Elevators
-759	CNN Dek and Upin And Tamanegi
-760	Kone News TV
-761	TVRI 61
-762	TVRI 62
-765	OMAKE CHANNEL
-766	EM113 Channel 1
-767	EM113 Channel 2
-768	EM113 Channel 3
-769	EM113 Channel 4
-770	EM113 Channel 5
 771	UP-FRONT CHANNEL
-772	NP1C
-775	ANGERME TV
-777	Elevator Satellite / TRG Lifts
+773	Soccer Channel HD
+774	Sportstars HD
+775	Sportstars 2 HD
+776	Sportstars 3 HD
 
 NEWS, RELIGION, & DOLBY
 
