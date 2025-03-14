@@ -3,9 +3,12 @@
 * 傘の女
 * キャッサバ
 * タマリダンス (previously 桃色のキャッサバ、橙色の傘、空色の衣、紫の枕、緑の布, and Tamari Dance) (fixed by MBear227)
+  * Music Audio
   * Music Video
-  * Morning Musume Cover
-  * Morning Musume Cover (MV)
+  * Girls² Cover
+  * Girls² Cover (MV)
+  * Juice=Juice Cover
+  * Juice=Juice Cover (MV)
 # H!P
 ## S/mileage (now ANGERME)
 * 有頂天LOVE (MV)
