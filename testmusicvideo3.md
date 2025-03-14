@@ -2,7 +2,7 @@
 ## Tapioka Musume
 * 傘の女
 * キャッサバ
-* タマリダンス (previously 桃色のキャッサバ、橙色の傘、空色の衣、紫の枕、緑の布) (fixed by MBear227 and Hello! Project)
+* タマリダンス (previously 桃色のキャッサバ、橙色の傘、空色の衣、紫の枕、緑の布, now in ANGERME) (fixed by MBear227)
   * Music Video
   * Promotion Edit
   * Dance Shot Ver.
