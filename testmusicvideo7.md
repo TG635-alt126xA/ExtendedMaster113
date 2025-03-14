@@ -1,9 +1,9 @@
 # ReservedFilterSweeps5471
 ## Tapioka Musume
 * 傘の女 (now in Girls²)
-* キャッサバ (now in Juice=Juice)
+* キャッサバ (feat. パフューム)
 ## Irobuttai Musume
-* 桃色のキャッサバ、橙色の傘、空色の衣、紫の枕、緑の布 (feat. モーニング娘。)
+* 桃色のキャッサバ、橙色の傘、空色の衣、紫の枕、緑の布 (feat. モーニング娘。'25)
   * Music Video
   * Promotion Edit
   * Dance Shot Ver.
