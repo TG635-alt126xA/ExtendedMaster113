@@ -1,15 +1,15 @@
 # Members
-## ぴうぱや娘。(#001)
+## #001
 ### Hana Kajitsu
 ### Dukuma Abinzy
 ### Nimazid Youki
-## 色物体娘。(#002)
+## #002
 ### Kyasaba Hanazawa
 ### Kasa Tachibana
 ### Koromo Yamaguchi
 ### Makura Kajitsu
 ### Nuno Yamaguchi
-## モーニング娘。(#004)
+## #004
 ### Erina Ikuta
 ### Ayumi Ishida
 ### Sakura Oda
@@ -23,7 +23,7 @@
 ### Rio Sakurai
 ### Haruka Inoue
 ### Ako Yumigeta
-## アンジュルム (#007)
+## #007
 ### Rikako Sasaki
 ### Moe Kamikokuryo
 ### Ayano Kawamura
