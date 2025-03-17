@@ -193,8 +193,6 @@ Cut Landscape, -20, -1, -20, 20, 1, 20, false, true
     ID = %floor%
     Name = Floor %floor%
     Type = Office
-    Height = 10
-    InterfloorHeight = 2.24
 <EndFloor>
 <Floor 4>
     ID = %floor%
@@ -216,7 +214,6 @@ Cut Landscape, -20, -1, -20, 20, 1, 20, false, true
 <Floor 6>
     ID = 7
     Name = Floor 7
-    Type = Office
 <EndFloor>
 <Floor 7>
     ID = 9
