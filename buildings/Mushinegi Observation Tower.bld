@@ -185,6 +185,7 @@ Cut Landscape, -20, -1, -20, 20, 1, 20, false, true
 
 # Custom Floors
 <Floor 0>
+    ID = LL
     Name = Lower Level
     Type = Lobby
 <EndFloor>
@@ -212,9 +213,14 @@ Cut Landscape, -20, -1, -20, 20, 1, 20, false, true
     Height = 22.24
     InterfloorHeight = 2.24
 <EndFloors>
+<Floor 6>
+    ID = 7
+    Name = Floor 7
+    Type = Office
+<EndFloor>
 <Floor 7>
-    ID = %floor%
-    Name = Floor %floor%
+    ID = 9
+    Name = Floor 9
     Type = Office
     Height = 10
     InterfloorHeight = 2.24
