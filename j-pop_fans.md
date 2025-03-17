@@ -35,3 +35,5 @@
 ### Yuki Hirayama
 ### Yukiho Shimoitani
 ### Hana Goto
+## #041
+![Oberi Okaime](https://images.deepai.org/art-image/13b9ce323c7641c2800aadf9c6613e73/oberi-pink-okaime-blue-in-j-pop-girl-69324e.jpg)
