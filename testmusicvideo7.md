@@ -14,3 +14,4 @@
 * [いちご大好き(AI Music Video)](https://www.youtube.com/watch?v=6QrJNHNd4DA)
 # Others
 * QWER - Discord
+* Girls² - Centimeter (センチメートル)
