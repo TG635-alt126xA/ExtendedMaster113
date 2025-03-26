@@ -1,7 +1,7 @@
 # Members
 ## ![AKB48](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/AKB48_logo(pink).png) (Reserved)
 ## ![Berryz Kobo](https://upload.wikimedia.org/wikipedia/fr/1/16/Logo_Berryz_Kobo.jpg) (Reserved)
-## [BEYOOOOONDS](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/BEYOOOOONDS-logotransparentneg.png) (Reserved)
+## ![BEYOOOOONDS](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/BEYOOOOONDS-logotransparentneg.png) (Reserved)
 ## ![C-ute](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/Cute.svg) (Reserved)
 ## EM113 Girls (In-Progress)
 ### Hana Kajitsu
