@@ -39,7 +39,7 @@
 ### Yukiho Shimoitani
 ### Hana Goto
 ## ![Momoiro](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/Momoiro_Clover_Z_logo.png) (Reserved)
-## Oberi Okaime (In-Progress)
+## ![Oberi Okaime](https://github.com/user-attachments/assets/9b3cae2f-a386-449c-b2ac-42294ba76e65) (In-Progress)
+### Oberi & Okaime
 ![Sample](https://images.deepai.org/art-image/13b9ce323c7641c2800aadf9c6613e73/oberi-pink-okaime-blue-in-j-pop-girl-69324e.jpg)
-### Oberi
-### Okaime
+## ![OCHA NORMA](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/OCHANORMALogo2022.png) (Reserved)
