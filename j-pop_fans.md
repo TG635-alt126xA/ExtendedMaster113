@@ -1,9 +1,9 @@
 # Members
-## ??? (In-Progress)
+## EM113 Girls (In-Progress)
 ### Hana Kajitsu
 ### Dukuma Abinzy
 ### Nimazid Youki
-## Irobuttai Musume (In-Progress)
+## Irobuttai Musume (Partial)
 ### Kyasaba Hanazawa
 ### Kasa Tachibana
 ### Koromo Yamaguchi
@@ -24,8 +24,8 @@
 ### Rio Sakurai
 ### Haruka Inoue
 ### Ako Yumigeta
-## ![Berryz Kobo](https://upload.wikimedia.org/wikipedia/fr/1/16/Logo_Berryz_Kobo.jpg)
-## ![C-ute](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/Cute.svg)
+## ![Berryz Kobo](https://upload.wikimedia.org/wikipedia/fr/1/16/Logo_Berryz_Kobo.jpg) (Reserved)
+## ![C-ute](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/Cute.svg) (Reserved)
 ## ![S/mileage](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/ANGERMElogo-katakana.png) (Completed)
 ### Rikako Sasaki
 ### Moe Kamikokuryo
@@ -39,7 +39,6 @@
 ### Yukiho Shimoitani
 ### Hana Goto
 ## ![Momoiro](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/Momoiro_Clover_Z_logo.png) (Reserved)
-## ![QWER](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/QWER_logo.svg) (Reserved)
 ## Oberi Okaime (In-Progress)
 ![Sample](https://images.deepai.org/art-image/13b9ce323c7641c2800aadf9c6613e73/oberi-pink-okaime-blue-in-j-pop-girl-69324e.jpg)
 ### Oberi
