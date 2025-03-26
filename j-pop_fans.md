@@ -1,4 +1,7 @@
 # Members
+## ![AKB48](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/AKB48_logo(pink).png) (Reserved)
+## ![Berryz Kobo](https://upload.wikimedia.org/wikipedia/fr/1/16/Logo_Berryz_Kobo.jpg) (Reserved)
+## ![C-ute](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/Cute.svg) (Reserved)
 ## EM113 Girls (In-Progress)
 ### Hana Kajitsu
 ### Dukuma Abinzy
@@ -9,7 +12,7 @@
 ### Koromo Yamaguchi
 ### Makura Kajitsu
 ### Nuno Yamaguchi
-## ![AKB48](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/AKB48_logo(pink).png) (Reserved)
+## ![Momoiro](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/Momoiro_Clover_Z_logo.png) (Reserved)
 ## ![Momusu](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/MorningMusumeLogo.png) (Completed)
 ### Erina Ikuta
 ### Ayumi Ishida
@@ -24,8 +27,7 @@
 ### Rio Sakurai
 ### Haruka Inoue
 ### Ako Yumigeta
-## ![Berryz Kobo](https://upload.wikimedia.org/wikipedia/fr/1/16/Logo_Berryz_Kobo.jpg) (Reserved)
-## ![C-ute](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/Cute.svg) (Reserved)
+## ![OCHA NORMA](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/OCHANORMALogo2022.png) (Reserved)
 ## ![S/mileage](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/ANGERMElogo-katakana.png) (Completed)
 ### Rikako Sasaki
 ### Moe Kamikokuryo
@@ -38,8 +40,3 @@
 ### Yuki Hirayama
 ### Yukiho Shimoitani
 ### Hana Goto
-## ![Momoiro](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/Momoiro_Clover_Z_logo.png) (Reserved)
-## ![Oberi Okaime](https://github.com/user-attachments/assets/9b3cae2f-a386-449c-b2ac-42294ba76e65) (In-Progress)
-### Oberi & Okaime
-![Sample](https://images.deepai.org/art-image/13b9ce323c7641c2800aadf9c6613e73/oberi-pink-okaime-blue-in-j-pop-girl-69324e.jpg)
-## ![OCHA NORMA](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/OCHANORMALogo2022.png) (Reserved)
