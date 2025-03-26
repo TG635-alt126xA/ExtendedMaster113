@@ -1,0 +1,109 @@
+MOVIES
+
+9	HITS Movies HD***
+10	Galaxy HD***
+11	Galaxy Premium HD
+12	IMC HD
+15	Zee Bioskop*
+
+KIDS
+
+52	CBeebies HD (id)
+54	ZooMoo HD*
+55	Nick HD* (id)
+56	Nick Jr HD*** (id)
+
+KNOWLEDGE
+
+101	Discovery HD*
+103	Animal Planet HD*
+105	Discovery Asia HD*
+106	History HD*
+107	Love Nature UHD*
+108	Crime Investigation HD*
+
+LIFESTYLE
+
+150	HGTV HD*
+151	AFN HD*
+152	TLC HD*
+153	BBC Lifestyle HD
+
+ENTERTAINMENT
+
+201	AXN HD*
+203	ONE HD*
+205	ROCK Ent. HD*
+206	Animax HD*
+208	HITS HD**
+209	ROCK Action HD*
+210	Lifetime HD*
+211	GEM HD*
+251	MTV Live HD*
+
+NEWS & INTERNATIONAL
+
+350	BBC News HD
+351	Bloomberg TV HD*
+400	CNA HD
+401	Al Jazeera EN HD*
+402	CGTN HD
+403	France 24 EN HD
+404	RT HD
+405	France 24 FR
+406	VOA TV HD
+407	TRT World HD
+408	TRT Arabic
+409	Euronews
+450	NHK World Japan HD
+451	CCTV 4
+452	TV5 Monde Asie
+453	Arirang TV
+454	DW HD
+455	Xing Kong
+456	ABC Australia HD
+457	Sansha TV
+
+RELIGION & LOCAL
+
+500	Rodja TV
+501	Quran TV
+502	U Channel
+503	Salam TV
+505	GMS Channel
+550	TRANS TV HD*
+551	TRANS 7 HD*
+552	Lejel Home Shopping
+553	TVOne HD*
+554	Metro TV HD*
+555	MDTV HD*
+556	Kompas TV HD*
+557	TVRI1 HD*
+558	BTV HD*
+559	SCTV HD*
+560	IVM HD*
+561	RTV HD*
+562	MOJI HD*
+564	Living Ent. (Lejel)
+565	JTV SBY*
+566	JAK-TV*
+567	K-Drama (Lejel)
+568	DAAI TV HD
+571	Nusantara TV HD
+572	Bali TV
+573	SEA Today HD*
+574	Elshinta TV
+576	IDX Channel - relay K-Vision
+
+Inactive channels:
+
+575	TIC
+
+*) Catchup available for current day & 1D before (yesterday)
+**) Catchup available for current day & 7D before (full)
+***) Catchup available for current day & 3D before
+
+ALL RELIGION-LOCAL & CATCHUP-ABLE CHANNELS CAN USE TIMESHIFT (REWIND) MAX. 2 HOURS, except:
+-	Nusantara TV
+
+MyRepublic IPTV using adaptive bitrate, so it may takes time to be able to display native channel resolution, or if the internet connection is unstable, the broadcasts may be interrupted and the quality will decrease.
