@@ -138,9 +138,7 @@ SPORTS & JAPANESE
 710	VOLI TV HD
 711	W Sport HD
 714	Horizon Sports HD
-754	KAGOME CHANNEL
 771	UP-FRONT CHANNEL
-775	ANGERME TV
 
 NEWS, RELIGION, & DOLBY
 
@@ -193,9 +191,7 @@ All channels are able to timeshift & catch-up for 7D, except:
 -	HITS Movies HD
 -	AllPlay Sports
 -	Horizon Sports HD
--	KAGOME CHANNEL
 -	UP-FRONT CHANNEL
--	ANGERME TV
 -	NHK World Japan HD
 
 UPDATED:	MAR 2025
