@@ -1,15 +1,16 @@
 # Members
-## ???
+## ??? (In-Progress)
 ### Hana Kajitsu
 ### Dukuma Abinzy
 ### Nimazid Youki
-## ¿Irobuttai Musume?
+## Irobuttai Musume (In-Progress)
 ### Kyasaba Hanazawa
 ### Kasa Tachibana
 ### Koromo Yamaguchi
 ### Makura Kajitsu
 ### Nuno Yamaguchi
-## ![Morning Musume](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/MorningMusumeLogo.png)
+## ![AKB48](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/AKB48_logo(pink).png) (Reserved)
+## ![Momusu](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/MorningMusumeLogo.png) (Completed)
 ### Erina Ikuta
 ### Ayumi Ishida
 ### Sakura Oda
@@ -23,7 +24,7 @@
 ### Rio Sakurai
 ### Haruka Inoue
 ### Ako Yumigeta
-## ![ANGERME](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/ANGERMElogo-katakana.png)
+## ![S/mileage](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/ANGERMElogo-katakana.png) (Completed)
 ### Rikako Sasaki
 ### Moe Kamikokuryo
 ### Ayano Kawamura
@@ -35,7 +36,9 @@
 ### Yuki Hirayama
 ### Yukiho Shimoitani
 ### Hana Goto
-## ???
+## ![Momoiro](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/Momoiro_Clover_Z_logo.png) (Reserved)
+## ![QWER](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/QWER_logo.svg) (Reserved)
+## Oberi Okaime (In-Progress)
 ![Sample](https://images.deepai.org/art-image/13b9ce323c7641c2800aadf9c6613e73/oberi-pink-okaime-blue-in-j-pop-girl-69324e.jpg)
 ### Oberi
 ### Okaime
