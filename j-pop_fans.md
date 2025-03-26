@@ -24,6 +24,8 @@
 ### Rio Sakurai
 ### Haruka Inoue
 ### Ako Yumigeta
+## ![Berryz Kobo](https://upload.wikimedia.org/wikipedia/fr/1/16/Logo_Berryz_Kobo.jpg)
+## ![C-ute](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/Cute.svg)
 ## ![S/mileage](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/ANGERMElogo-katakana.png) (Completed)
 ### Rikako Sasaki
 ### Moe Kamikokuryo
