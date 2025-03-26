@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="827px" height="1122px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 827 1122"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="Livello">
+  <metadata id="Layer"/>
+  <path style="fill:#AAAAAA" d="M0 860l0 262 827 0 0 -169c-26,-24 -10,-45 -117,-115 -39,-26 -17,-44 -81,-89 -12,-8 -27,-15 -37,-23 -2,-35 0,-40 12,-66 8,-18 13,-37 20,-56 19,-6 28,-1 51,-43l35 -63c14,-15 13,-30 9,-56l-19 -10c2,-44 35,-78 35,-128 -1,-53 -8,-99 -29,-140 -53,-105 -237,-172 -338,-98 -9,7 -41,34 -46,36 -11,4 -23,2 -34,7 -9,4 -18,12 -27,17 -103,62 -70,99 -66,123 2,13 2,29 4,40l8 35c2,14 3,23 3,40l-16 12c-6,11 7,126 10,150 3,25 9,21 10,46 1,47 -2,57 15,96 12,27 29,54 35,75 -14,15 -35,26 -52,42 -20,19 -18,30 -53,40 -50,14 -106,24 -159,35z"/>
+ </g>
+</svg>
