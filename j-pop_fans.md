@@ -7,12 +7,16 @@
 ### Hana Kajitsu
 ### Dukuma Abinzy
 ### Nimazid Youki
+## ![Fairies](https://commons.m.wikimedia.org/wiki/File:Fairies_logo.svg) (Reserved)
+## ![Girls²](https://github.com/user-attachments/assets/1977b48e-b3af-4565-a8e1-76ccb2f0eb0f) (Reserved)
+## ![Hello! Project](https://commons.m.wikimedia.org/wiki/File:H!P_logo.svg) (Partial)
 ## Irobuttai Musume (Partial)
 ### Kyasaba Hanazawa
 ### Kasa Tachibana
 ### Koromo Yamaguchi
 ### Makura Kajitsu
 ### Nuno Yamaguchi
+## ![L'Arc-en-Criel](https://commons.m.wikimedia.org/wiki/File:L%27Arc-en-Ciel_logo_(2020).svg) (Reserved)
 ## ![Momoiro Clover Z](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/Momoiro_Clover_Z_logo.png) (Reserved)
 ## ![Morning Musume](https://upload.wikimedia.org/wikipedia/commons/e/ea/%E3%83%A2%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E5%A8%98%E3%80%82%E5%B9%B4%E4%BB%A3%E7%84%A1%E3%81%97ver%E3%83%AD%E3%82%B4.jpg) (Complete)
 ### Erina Ikuta
@@ -28,8 +32,10 @@
 ### Rio Sakurai
 ### Haruka Inoue
 ### Ako Yumigeta
+## ![MORE MORE JUMP!](https://commons.m.wikimedia.org/wiki/File:MORE_MORE_JUMP!_simplified_wordmark.svg) (Reserved)
 ## ![Nimazid Musume](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/OCHANORMALogo2022.png) (Partial)
 ### Madoka Saito
+## ![NiziU](https://commons.m.wikimedia.org/wiki/File:Logo_of_NiziU.svg) (Reserved)
 ## ![Perfume](https://upload.wikimedia.org/wikipedia/commons/8/8e/Perfume_logo_vector.svg) (Reserved)
 ## ![S/mileage](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/ANGERMElogo-katakana.png) (Complete)
 ### Rikako Sasaki
@@ -43,4 +49,5 @@
 ### Yuki Hirayama
 ### Yukiho Shimoitani
 ### Hana Goto
+## ![Tapioka Musume](https://github.com/user-attachments/assets/89c24eba-94c2-4975-8922-a6894b1ae428) (Reserved)
 ## ![Tsubaki Factory](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/%E3%81%A4%E3%81%B0%E3%81%8D%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%83%AD%E3%82%B4.jpg) (Reserved)
