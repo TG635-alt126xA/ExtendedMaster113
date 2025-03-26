@@ -28,7 +28,8 @@
 ### Rio Sakurai
 ### Haruka Inoue
 ### Ako Yumigeta
-## ![Nimazid Musume](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/OCHANORMALogo2022.png) (Reserved)
+## ![Nimazid Musume](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/OCHANORMALogo2022.png) (Partial)
+### Madoka Saito
 ## ![Perfume](https://upload.wikimedia.org/wikipedia/commons/8/8e/Perfume_logo_vector.svg) (Reserved)
 ## ![S/mileage](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/ANGERMElogo-katakana.png) (Complete)
 ### Rikako Sasaki
