@@ -1,28 +1,37 @@
 LOCAL, EM113, INHOUSE & RELIGION
 
-78	IVM HD
-79	TV9 Malaysia
-83	iNews HD
-85	South Korean Elevator Channel
-87	TRANS TV HD
+1	RCTV HD
+2	GTV HD
+3	MNCTV HD
+4	iNews HD
+5	South Korean Elevator Channel
+6	TRANS TV HD
+7	TRANS 7 HD
+8	SCTV HD
+9	IVM HD
+10	ANTV HD
+11	RTV HD
+12	tvOne HD
+13	Kompas TV HD
+14	Metro TV HD
+15	BTV HD
+16	TVRI1 HD
+17	SEA Today HD
+18	DAAI TV HD
+19	BeritaSatu HD
+23	MDTV HD
+24	JTV
+25	Jak TV HD
+26	Bali TV HD
+27	Bandung TV HD
+28	TV9 Nusantara HD
+29	Tawaf TV HD
+30	VTV HD
+31	CNN Indonesia HD
+32	CNBC Indonesia HD
+33	tvMu HD
+34	Nusantara TV HD
+35	Garuda TV HD
+36	MosoGourment
+37	TV9 Malaysia HD
 88	OMAKE CHANNEL
-89	SCTV HD
-90	Garuda TV HD
-91	MosoGourment
-92	Nusantara TV HD
-93	Quran TV HD
-94	TV13 HD
-96	UP-FRONT CHANNEL
-97	tvOne HD
-100	IDX Channel HD
-103	BTV HD
-105	Tawaf TV HD
-106	Kompas TV HD
-107	Metro TV HD
-110	TRANS 7 HD
-112	DAAI TV HD
-114	RTV HD
-115	ANTV HD
-116	MDTV HD
-118	TVRI1 HD
-119	VTV HD
