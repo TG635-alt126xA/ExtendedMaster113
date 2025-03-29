@@ -1,7 +1,8 @@
-LOCAL & JAPANESE TV
+LOCAL, RELIGION & STAGE48
 
 1	TVRI1 HD
 2	RTV HD
+3	RCTI HD
 4	TV13
 5	MDTV / BN Channel HD
 6	Magna Channel HD
@@ -17,12 +18,16 @@ LOCAL & JAPANESE TV
 16	JTV HD
 17	Garuda TV HD
 18	Nusantara TV HD
+41	Rodja TV HD
 45	iNews HD
+46	MNCTV HD
+47	GTV HD
+48	Channel 48 HD
 
 MOVIES
 
-46	HITS Movies HD
-47	Galaxy HD
-48	Galaxy Premium HD
-49	IMC HD
-50	Zee Bioskop
+76	HITS Movies HD
+77	Galaxy HD
+78	Galaxy Premium HD
+79	IMC HD
+80	Zee Bioskop
