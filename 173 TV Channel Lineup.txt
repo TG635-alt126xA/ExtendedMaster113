@@ -1,16 +1,27 @@
-LOCAL
+LOCAL & JAPANESE TV
 
-1	Metro TV HD
-2	Nusantara TV HD
-3	Magna Channel HD
-4	BN Channel HD
-5	MDTV HD
-6	TRANS TV HD
-7	TRANS 7 HD
-8	SCTV HD
-9	IVM HD
+1	TVRI1 HD
+2	RTV HD
+4	MDTV HD
+5	Magna Channel HD
+6	SCTV HD
+7	IVM HD
+8	TRANS 7 HD
+9	TRANS TV HD
 10	ANTV HD
-11	RTV HD
+11	BTV HD
 12	tvOne HD
-98	TVRI2 HD
-99	TVRI1 HD
+13	Kompas TV HD
+14	Metro TV HD
+15	iNews HD
+16	JTV HD
+38	Nusantara TV HD
+45	Garuda TV HD
+
+MOVIES
+
+46	HITS Movies HD
+47	Galaxy HD
+48	Galaxy Premium HD
+49	IMC HD
+50	Zee Bioskop
