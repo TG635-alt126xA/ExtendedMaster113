@@ -1,10 +1,10 @@
-LOCAL, EM113, INHOUSE & RELIGION
+LOCAL, FICTIONAL, JAPANESE & INHOUSE
 
 1	RCTV HD
 2	GTV HD
 3	MNCTV HD
 4	iNews HD
-5	South Korean Elevator Channel
+5	TV13
 6	TRANS TV HD
 7	TRANS 7 HD
 8	SCTV HD
@@ -30,8 +30,13 @@ LOCAL, EM113, INHOUSE & RELIGION
 31	CNN Indonesia HD
 32	CNBC Indonesia HD
 33	tvMu HD
-34	Nusantara TV HD
-35	Garuda TV HD
-36	MosoGourment
-37	TV9 Malaysia HD
-88	OMAKE CHANNEL
+36	NHK-G
+37	NHK-E
+38	Nusantara TV HD
+39	Garuda TV HD
+40	TV Asahi
+41	Nipoon TV
+42	TBS
+43	TV Tokyo
+44	Fuji TV
+45	Jawa Pos TV HD
