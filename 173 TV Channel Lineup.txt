@@ -3,3 +3,7 @@ STANDARD (SD)
 1	BTV
 2	BeritaSatu
 3	TV13
+
+HD
+
+400	TV13
