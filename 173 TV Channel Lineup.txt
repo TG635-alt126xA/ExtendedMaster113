@@ -1,20 +1,27 @@
 STANDARD (SD)
 
-1	TVRI1
-2	RTV
-3	Nusantara TV
-5	MDTV
-6	Magna Channel
-7	SCTV
-9	IVM
-10	TRANS 7 (Discontinued)
-11	TRANS TV (Discontinued)
-12	ANTV
-13	BTV
-14	TVOne
-15	Metro TV
-16	Kompas TV
-17	iNews
-18	JTV SBY
-19	BeritaSatu
-45	Garuda TV
+99	TVRI1
+100	JAK-TV
+101	Singkawang Vision TV
+102	RTV
+103	RCTI
+104	MDTV
+105	MNCTV
+106	Magna Channel
+107	SCTV
+108	UP-FRONT CHANNEL
+109	IVM
+110	TRANS 7
+111	TRANS TV
+112	ANTV
+113	BTV
+114	TVOne
+115	Metro TV
+116	Kompas TV
+117	iNews
+118	JTV SBY
+119	BeritaSatu
+120	DAAI TV
+121	GTV
+124	Nusantara TV
+125	Garuda TV
