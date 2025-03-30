@@ -2,10 +2,10 @@ STANDARD (SD)
 
 1	TVRI1
 2	RTV
-3	MDTV
-4	TRANS TV (Unlockable)
-5	TRANS 7 (Unlockable)
-6	Magna Channel
+3	Magna Channel
+4	MDTV
+5	TRANS TV (Unlockable)
+6	TRANS 7 (Unlockable)
 7	BTV
 8	OMAKE CHANNEL
 9	BeritaSatu
