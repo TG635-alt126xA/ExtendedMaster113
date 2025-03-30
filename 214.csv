@@ -1,12 +1,12 @@
-Number,,Name,Type
-1,,BTV,Terrestrial
-2,,BeritaSatu,News
+Number,,Name,Languages/Type
+1,,BTV,Indonesian
+2,,BeritaSatu,Indonesian
 98,,E-Girls,J-Pop
 99,,Imase,J-Pop
-100,,Nusantara TV,Terrestrial
-101,,iNews,News
+100,,Nusantara TV,Indonesian
+101,,iNews,Indonesian
 171,,QWER,K-Pop
-173,,GTV,Terrestrial
+173,,GTV,Indonesian
 178,,AKB48,J-Pop
 179,,Perfume,J-Pop
 180,,Morning Musume,J-Pop
@@ -14,6 +14,6 @@ Number,,Name,Type
 182,,SPOTV 2,Sports
 183,,ANGERME,J-Pop
 184,,Momoiro Clover Z,J-Pop
-185,,Garuda TV,Terrestrial
-287,,TVRI1,Terrestrial
+185,,Garuda TV,Indonesian
+287,,TVRI1,Indonesian
 299,,BEYOOOOONDS,J-Pop
