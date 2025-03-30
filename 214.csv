@@ -1,20 +1,20 @@
-Number,,Name,Languages/Type
-6,,Trans TV,Indonesian
-7,,Trans 7,Indonesian
-8,,SCTV,Indonesian
-9,,IVM,Indonesian
-10,,ANTV,Indonesian
-11,,MDTV,Indonesian
-12,,TVOne,Indonesian
-13,,Metro TV,Indonesian
-14,,Kompas TV,Indonesian
-15,,BTV,Indonesian
-16,,TVRI1,Indonesian
-41,,Rodja TV,Indonesian
-42,,jawapos TV,Indonesian
-45,,Garuda TV,Indonesian
-53,,GTV,Indonesian
-65,,iNews,Indonesian
-297,,SPOTV,Sports
-298,,SPOTV 2,Sports
-299,,RTV,Indonesian
+Number,,Name,Languages/Type,Status
+6,,Trans TV,Indonesian,Discontinued
+7,,Trans 7,Indonesian,Discontinued
+8,,SCTV,Indonesian,Free
+9,,IVM,Indonesian,Free
+10,,ANTV,Indonesian,Free
+11,,MDTV,Indonesian,Free
+12,,TVOne,Indonesian,Free
+13,,Metro TV,Indonesian,Free
+14,,Kompas TV,Indonesian,Free
+15,,BTV,Indonesian,Free
+16,,TVRI1,Indonesian,Free
+41,,Rodja TV,Indonesian,Free
+42,,jawapos TV,Indonesian,Free
+45,,Garuda TV,Indonesian,Free
+53,,GTV,Indonesian,Premium
+65,,iNews,Indonesian,Premium
+297,,SPOTV,Sports,Premium
+298,,SPOTV 2,Sports,Premium
+299,,RTV,Indonesian,Free
