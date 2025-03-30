@@ -2,4 +2,4 @@ STANDARD (SD)
 
 7	BTV
 8	OMAKE CHANNEL
-9	BertiaSatu
+9	BeritaSatu
