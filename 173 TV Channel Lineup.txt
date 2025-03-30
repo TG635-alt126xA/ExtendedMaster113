@@ -1,5 +1,5 @@
 STANDARD (SD)
 
 7	BTV
-8	OMAKE CHANNEL
 9	BeritaSatu
+13	TV13
