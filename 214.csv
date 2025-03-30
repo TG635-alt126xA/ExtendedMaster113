@@ -1,20 +1,6 @@
-Number,,Name,Languages/Type,Status
-3,,RTV,Indonesian,Free
-4,,RCTI,Indonesian,Premium
-5,,MDTV,Indonesian,Free
-6,,MNCTV,Indonesian,Premium
-7,,SCTV,Indonesian,Free
-8,,IVM,Indonesian,Free
-9,,Trans 7,Indonesian,Discontinued
-10,,Trans TV,Indonesian,Discontinued
-11,,ANTV,Indonesian,Free
-12,,BTV,Indonesian,Free
-13,,TVOne,Indonesian,Free
-14,,Metro TV,Indonesian,Free
-15,,Kompas TV,Indonesian,Free
-16,,TVRI1,Indonesian,Free
-17,,SEA Today,Indonesian,Free
-18,,BeritaSatu,Indonesian,Free
-45,,Garuda TV,Indonesian,Free
-53,,GTV,Indonesian,Premium
-65,,iNews,Indonesian,Premium
+Number,Quality,Name,Languages/Type
+550,SD,Alco Sans,Fonts
+551,SD,Constructium,Fonts
+552,SD,Fairfax,Fonts
+553,HD,Fairfax HD,Fonts
+554,SD,Kreative Square,Fonts
