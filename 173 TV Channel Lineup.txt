@@ -2,19 +2,20 @@ STANDARD (SD)
 
 1	TVRI1
 2	RTV
-3	Magna Channel
-4	MDTV
-5	TRANS TV (Unlockable)
-6	TRANS 7 (Unlockable)
-7	BTV
+3	Nusantara TV
+5	MDTV
+6	Magna Channel
+7	SCTV
 8	OMAKE CHANNEL
-9	BeritaSatu
-10	SCTV
-11	IVM
+9	IVM
+10	TRANS 7 (Unlockable)
+11	TRANS TV (Unlockable)
 12	ANTV
-13	TV13
+13	BTV
 14	TVOne
 15	Metro TV
 16	Kompas TV
-17	Garuda TV
-45	iNews
+17	iNews
+18	JTV SBY
+19	BeritaSatu
+45	Garuda TV
