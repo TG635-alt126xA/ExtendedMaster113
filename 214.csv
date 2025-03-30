@@ -1,20 +1,19 @@
-Virtual,,Name
-95,,Mie Oriential
-97,,Slai O'lai
-98,,Vit
-99,,Imase
-100,,Nusantara TV
-101,,iNews
-117,,QWER
-176,,Garuda TV
-177,,Apetito
-178,,AKB48
-180,,Morning Musume
-181,,SPOTV (formerly Berryz Kobo)
-182,,SPOTV 2 (formerly C-ute)
-183,,Global TV (now GTV)
-184,,ANGERME
-185,,Momoiro Clover Z
-187,,Perfume
-188,,E-Girls
-299,,BEYOOOOONDS
+Number,,Name,Type
+1,,BTV,Terrestrial (formerly News)
+2,,BeritaSatu,News
+99,,Imase,J-Pop
+100,,Nusantara TV,Terrestrial
+101,,iNews,News
+171,,QWER,K-Pop
+176,,Garuda TV,Terrestrial (formerly Entertainment)
+177,,TVRI1,Terrestrial
+178,,AKB48,J-Pop
+180,,Morning Musume,J-Pop
+181,,SPOTV (formerly Berryz Kobo),Sports (formerly J-Pop)
+182,,SPOTV 2 (formerly C-ute),Sports (formerly J-Pop)
+183,,GTV,Terrestrial
+184,,ANGERME,J-Pop
+185,,Momoiro Clover Z,J-Pop
+187,,Perfume,J-Pop
+188,,E-Girls,J-Pop
+299,,BEYOOOOONDS,J-Pop
