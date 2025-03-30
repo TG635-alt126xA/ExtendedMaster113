@@ -3,7 +3,6 @@ LOCAL
 2	Mozaik Channel / Non Stop Entertainment on Indihome
 87	Max Stream HD
 88	AllPlay Ent HD
-89	LAPONE Entertainment TV
 99	TVRI1 HD
 100	Metro TV HD
 101	SEA Today HD
@@ -18,7 +17,7 @@ LOCAL
 112	MDTV / NET. HD
 114	Kompas TV HD
 115	BTV HD
-116	Jak TV HD
+116	JAK-TV HD
 117	BeritaSatu / IDTV HD
 118	QWER
 119	IDX Channel
@@ -94,6 +93,7 @@ ENTERTAINMENT & INTERNATIONAL
 519	NHK World Premium HD
 523	K+ HD
 524	New TV Comprehensive HD
+525	LAPONE Entertainment TV
 526	New TV Finance
 527	Dunia Lain HD
 531	ABC Australia HD
