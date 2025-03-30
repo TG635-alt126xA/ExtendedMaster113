@@ -1,4 +1,4 @@
-LOCAL
+LOCAL & INHOUSE
 
 2	Mozaik Channel / Non Stop Entertainment on Indihome
 87	Max Stream HD
@@ -167,3 +167,14 @@ NEWS, RELIGION, & DOLBY
 860	TV MUI
 870	Hope Channel Indonesia
 871	U Channel
+887	rri NET HD
+891	HBO HD - Dolby
+892	HBO Signature HD - Dolby
+893	HBO Hits HD - Dolby
+894	HBO Family HD - Dolby
+895	Cinemax HD - Dolby
+898	Tawaf TV
+
+OTHERS
+
+917	Channel Jowo HD
