@@ -6,10 +6,9 @@ STANDARD (SD)
 5	MDTV
 6	Magna Channel
 7	SCTV
-8	OMAKE CHANNEL
 9	IVM
-10	TRANS 7 (Unlockable)
-11	TRANS TV (Unlockable)
+10	TRANS 7 (Discontinued)
+11	TRANS TV (Discontinued)
 12	ANTV
 13	BTV
 14	TVOne
