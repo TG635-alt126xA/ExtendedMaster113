@@ -1,15 +1,19 @@
-ID,Name,Current Name
-INTV,Inspira TV,Inspira TV
-INTV2,Inspira TV Jakarta,Inspira TV Jakarta
-INTV3,Inspira TV Yogyakarta,Garuda TV Yogyakarta
-INTV4,Inspira TV Banjarmasin,BTV Banjarmasin
-INTV5,Inspira TV Medan,BTV Medan
-INTV6,Inspira TV Batam,BTV Batam
-INTV7,Inspira TV Lampung,Davika TV
-INTV8,Inspira TV Makassar,Sin Po TV Makassar
-INTV9,Inspira TV Pekanbaru,Sin Po TV Pekanbaru
-INTV10,Inspira TV Aceh,RTV Aceh
-INTV11,Inspira TV Cilacap,TV13
-INTV12,Inspira TV Purwokerto,tvMu Banyumas
-INTV13,Inspira TV Surabaya,–
-INTV14,Inspira TV Semarang,–
+ID,Name
+INTV1,Inspira TV
+INTV2,Inspira TV Jakarta
+INTV3,Inspira TV Yogyakarta (Garuda TV Yogyakarta)
+INTV4,Inspira TV Banjarmasin (BTV Banjarmasin)
+INTV5,Inspira TV Medan (BTV Medan)
+INTV6,Inspira TV Batam (BTV Batam)
+INTV7,Inspira TV Lampung (Davika TV)
+INTV8,Inspira TV Makassar (Sin Po TV Makassar)
+INTV9,Inspira TV Pekanbaru (Sin Po TV Pekanbaru)
+INTV10,Inspira TV Aceh (RTV Aceh)
+NSTV1,Nusantara TV
+NSTV2,Nusantara TV Bali
+NSTV3,Nusantara TV Lampung
+NSTV4,Nusantara TV Medan
+NSTV5,Nusantara TV Yogyakarta
+NSTV6,Nusantara TV Bandung
+NSTV7,Nusantara TV Padang
+NSTV8,Nusantara TV Batam
