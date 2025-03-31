@@ -1,21 +1,21 @@
 ???,???,???
-1,Test Channel,Local
-100,RCTI,Terrestrial
-101,GTV,Terrestrial
-102,MNCTV,Terrestrial
+2,BTV,Terrestrial
+99,TVRI,Terrestrial
+100,JAK-TV,Terrestrial
+101,RTV,Terrestrial
+102,RCTI,Terrestrial
 103,MDTV,Terrestrial
-104,Metro TV,Terrestrial
-105,tvOne,Terrestrial
-106,Trans TV,Terrestrial
+104,MNCTV,Terrestrial
+105,SCTV,Terrestrial
+106,Indosiar,Terrestrial
 107,Trans 7,Terrestrial
-108,ANTV,Terrestrial
-109,iNews,Terrestrial
-110,SCTV,Terrestrial
-111,Kompas TV,Terrestrial
-112,Indosiar,Terrestrial
-113,Garuda TV,Terrestrial
-114,Nusantara TV,Terrestrial
-115,BTV,Terrestrial
-116,RTV,Terrestrial
-117,BeritaSatu,News
-118,TVRI,Terrestrial
+108,Trans TV,Terrestrial
+109,ANTV,Terrestrial
+110,Garuda TV,Terrestrial
+111,tvOne,Terrestrial
+112,Metro TV,Terrestrial
+113,Kompas TV,Terrestrial
+114,iNews,Terrestrial
+115,Nusantara TV,Terrestrial
+525,GTV,Terrestrial
+800,BeritaSatu,News
