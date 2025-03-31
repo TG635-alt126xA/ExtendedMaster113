@@ -1,19 +1,21 @@
 ???,???,???
-1,TVRI,Current
-2,JakTV,Current
-3,RTV,Current
-4,MDTV,Current
-5,Magna Channel,Current
-6,SCTV,Current
-7,Indosiar,Current
-8,Trans 7,Empty
-9,Trans TV,Empty
-10,ANTV,Current
-11,BTV,Current
-12,tvOne,Current
-13,Metro TV,Current
-14,Kompas TV,Current
-15,iNews,Current
-16,JTV SBY,Current
-17,BeritaSatu,Current
-45,Garuda TV,Current
+1,Test Channel,Local
+100,RCTI,Terrestrial
+101,GTV,Terrestrial
+102,MNCTV,Terrestrial
+103,MDTV,Terrestrial
+104,Metro TV,Terrestrial
+105,tvOne,Terrestrial
+106,Trans TV,Terrestrial
+107,Trans 7,Terrestrial
+108,ANTV,Terrestrial
+109,iNews,Terrestrial
+110,SCTV,Terrestrial
+111,Kompas TV,Terrestrial
+112,Indosiar,Terrestrial
+113,Garuda TV,Terrestrial
+114,Nusantara TV,Terrestrial
+115,BTV,Terrestrial
+116,RTV,Terrestrial
+117,BeritaSatu,News
+118,TVRI,Terrestrial
