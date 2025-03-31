@@ -1,14 +1,18 @@
-Number,Name,Code
-1,モーニング娘。,MM
-2,モーニング娘。'14~'25,MM2
-3,ベリーズ工房,BK
-4,キュート,CU
-5,スマイレージ,SM
-6,アンジュルム,AG
-7,Juice=Juice,JJ
-8,カントリー・ガールズ,CG
-11,こぶしファクトリー,KF
-12,つばきファクトリー,TF
-13,BEYOOOOONDS,BY
-14,OCHA NORMA,OC
-15,ロージークロニクル,RS
+Code,Name,
+MM,モーニング娘。,
+MM2,モーニング娘。'14~'25,
+BK,ベリーズ工房,
+CU,キュート,
+SM,スマイレージ,
+AG,アンジュルム,
+JJ,Juice=Juice,
+CG,カントリー・ガールズ,
+KF,こぶしファクトリー,
+TF,つばきファクトリー,
+BY,BEYOOOOONDS,
+OC,OCHA NORMA,
+RS,ロージークロニクル,
+QA,Tapioka Musume,
+QB,Private Use,
+QC,Private Use,
+QD,Private Use,
