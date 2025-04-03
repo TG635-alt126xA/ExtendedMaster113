@@ -1,6 +1,8 @@
 Channel Number,Channel Name
+0,Channel Info
 1,TVRI1
 2,RTV
+3,Channel List
 4,MDTV
 5,Magna Channel
 6,SCTV
@@ -8,14 +10,14 @@ Channel Number,Channel Name
 8,TRANS 7
 9,TRANS TV
 10,ANTV
-11,???
+11,BN Channel
 12,tvOne
 13,Metro TV
 14,Kompas TV
 15,BTV
 16,JTV SBY
-17,Channel Jowo
+17,BeritaSatu
 18,Nusantara TV
-19,BeritaSatu
+19,IDX Channel
 45,Garuda TV
 65,iNews
