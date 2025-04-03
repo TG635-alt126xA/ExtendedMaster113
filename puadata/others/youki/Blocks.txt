@@ -1,0 +1,2 @@
+F4000..F405F; Youkinese
+F4600..F467F; Youkinese Supplement
