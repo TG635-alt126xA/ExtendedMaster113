@@ -1,13 +1,22 @@
-No. Saluran,Nama Saluran,Kategori
-1,???,Inhouse
-393,NHK World,TV Internasional
-397,Al Jazeera English,Berita
-571,TVRI,TV Nasional
-572,Trans TV,TV Nasional
-573,Trans 7,TV Nasional
-574,RTV,TV Nasional
-575,ANTV,TV Nasional
-576,Metro TV,TV Nasional
-577,tvOne,TV Nasional
-578,MDTV,TV Nasional
-579,Garuda TV,TV Nasional
+No. Saluran,Nama Saluran,Pemilik
+1,???,Independen
+3,Magna Channel,Media Group
+4,BN Channel,Media Group
+800,TVRI1,TVRI
+802,RTV,Rajawali Corpora
+803,RCTI,MNC Media
+804,BTV,B Universe
+805,MDTV,MD Entertainment
+806,MNCTV,MNC Media
+807,SCTV,SCM Media
+808,Indosiar,SCM Media
+809,Trans 7,Trans Media
+810,Trans TV,Trans Media
+811,ANTV,Visi Media Asia
+812,Ryurey TV,SinemArt
+813,tvOne,Visi Media Asia
+814,GTV,MNC Media
+815,Metro TV,Media Group
+816,Kompas TV,KG Media
+817,iNews,MNC Media (melalui iNews Media Group)
+818,Garuda TV,Digdaya Media Nusantara
