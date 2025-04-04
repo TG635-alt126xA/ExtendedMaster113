@@ -1,23 +1,8 @@
 Channel Number,Channel Name
 0,Channel Info
-1,TVRI1
-2,RTV
-3,Channel List
-4,MDTV
-5,Magna Channel
-6,SCTV
-7,IVM
-8,TRANS 7
-9,TRANS TV
-10,ANTV
-11,BN Channel
-12,tvOne
-13,Metro TV
-14,Kompas TV
-15,BTV
-16,JTV SBY
-17,BeritaSatu
-18,Nusantara TV
-19,IDX Channel
-45,Garuda TV
-65,iNews
+90,Channel List
+91,Today‘s Channel
+99,TVRI1
+110,RTV
+111,Serangga TV
+112,MDTV
