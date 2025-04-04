@@ -8,7 +8,7 @@ Channel Number,Channel Name
 8,TRANS 7
 9,TRANS TV
 10,SCTV
-11,Indosiar
+11,IVM
 12,QWER
 13,ANTV
 14,tvOne
@@ -34,7 +34,7 @@ Channel Number,Channel Name
 38,Nusantara TV
 44,TV9
 45,Garuda TV
-47,Al Quran Al Kareem
+47,Quran TV
 48,Sunnah TV
 50,West Java Network
 51,AXN
@@ -46,7 +46,7 @@ Channel Number,Channel Name
 62,JAK-TV
 65,iNews
 72,TLC
-76,Asian Food Network
+76,AFN
 81,Fashion TV
 101,Discovery
 105,Animal Planet
@@ -112,7 +112,85 @@ Channel Number,Channel Name
 287,HBO Hits
 288,HBO Family
 290,Cinemax
+305,HBO HD
+306,HBO Hits HD
+307,HBO Family HD
+308,HBO Signature HD
+310,Cinemax HD
+311,Celestial Movies HD
+312,ROCK Action HD
+313,Warner TV HD
+318,Eurosport HD
+321,Champions TV 1 HD
+322,Champions TV 2 HD
+323,Champions TV 3 HD
+324,HITS NOW HD
+325,HITS Movies HD
+326,HITS HD
+329,SPOTV HD
+330,SPOTV 2 HD
+332,AXN HD
+335,ROCK Ent. HD
+336,KIX HD
+337,CinemaWorld HD
+338,ONE HD
+339,tvN HD
+341,NHK World Japan HD
+342,Animax HD
+343,tvN Movies HD
+347,DMAX HD
+349,Crime Investigation HD
+350,TV5 Monde Asie HD
+351,AFN HD
+353,TLC HD
+354,HGTV HD
+355,Food Network HD
+356,MTV 90s HD
+358,MTV Live HD
+359,Lifetime HD
+360,Discovery HD
+364,Discovery Asia HD
+365,History HD
+366,Global Trekker HD
+368,Love Nature HD
+369,Animal Planet HD
+370,Cartoon Network HD
+372,Cartoonito HD
+373,Kartoon Channel HD
+374,Dreamworks HD
+375,Horee! HD
+376,Citra Bioskop HD
+377,Citra Dangdut HD
+378,Citra Drama HD
+379,Citra Ent. HD
+380,IMC HD
+381,Galaxy HD
+382,Galaxy Premium HD
+389,GMS Channel HD
+391,Reformed 21 HD
+393,DW HD
+394,Arirang TV HD
+395,BBC News HD
+396,CNNI HD
+397,FOX News HD
+398,RT HD
+399,Bloomberg TV HD
+400,TRT World HD
+402,CNA HD
+403,Al Jazeera EN HD
+404,KBS World HD
+405,CGTN Documentary HD
+410,Citra Muslim HD
+411,MDTV HD
+412,Metro TV HD
+413,SCTV HD
+414,IVM HD
+415,IDX Channel HD
+416,SEA Today HD
+417,Kompas TV HD
+418,BTV HD
+419,BeritaSatu HD
 510,Catchplay+
 900,Highlights
-998,Music Video HD
-999,Channel List HD
+999,Music Video HD
+1000,Channel List HD
