@@ -1,13 +1,13 @@
 Channel Number,Channel Name
-1,TVRI1 HD
+1,QWER 4K
 2,Music Video
 3,Channel List
 4,Lejel Home Shopping
 5,MDTV
 6,BTV
 7,Metro TV
-8,TRANS TV
-9,TRANS 7
+8,TRANS 7
+9,TRANS TV
 10,SCTV
 11,Indosiar
 12,QWER
@@ -50,5 +50,6 @@ Channel Number,Channel Name
 76,Asian Food Network
 81,Fashion TV
 510,Catchplay+
+900,Highlights
 998,Music Video HD
 999,Channel List HD
