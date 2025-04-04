@@ -1,5 +1,7 @@
 Channel Number,Channel Name
-3,BTV
+1,BTV
+2,BeritaSatu
+3,First Lifestyle
 4,Lejel Home Shopping
 5,MDTV
 7,Metro TV
@@ -11,12 +13,18 @@ Channel Number,Channel Name
 16,TVRI1
 17,JTV SBY
 18,QWER
-19,BeritaSatu
+19,Jakarta Globe News Ch.
 21,Reformed 21
+23,Kairos
+24,SPH Channel
+25,LIMA / Liga Mahasiswa
 26,MOJI
 27,DAAI TV
 28,Nusantara TV
 29,EWTN
+30,Karaoke Channel
+33,Balai Kota Jakarta
+34,Balai Kota Bandung
 35,RTV
 37,Sindonews TV
 44,TV9 Nusantara
@@ -35,6 +43,7 @@ Channel Number,Channel Name
 72,TLC
 76,AFN
 81,Fashion TV
+85,First Faith
 86,GMS Channel
 101,Discovery
 105,Animal Planet
@@ -46,6 +55,7 @@ Channel Number,Channel Name
 141,Champions TV 1
 142,Champions TV 2
 143,Champions TV 3
+145,First Football / SCTV
 151,Eurosport
 160,Star Gold
 161,Zee Bioskop
@@ -100,6 +110,10 @@ Channel Number,Channel Name
 287,HBO Hits
 288,HBO Family
 290,Cinemax
+300,First Atmos HD
+301,First Highlights HD
+302,Jakarta Globe News Ch. HD
+303,First Lifestyle HD
 305,HBO HD
 306,HBO Hits HD
 307,HBO Family HD
@@ -115,6 +129,7 @@ Channel Number,Channel Name
 324,HITS NOW HD
 325,HITS Movies HD
 326,HITS HD
+327,First Football / SCTV HD
 329,SPOTV HD
 330,SPOTV 2 HD
 332,AXN HD
@@ -144,6 +159,7 @@ Channel Number,Channel Name
 369,Animal Planet HD
 370,Cartoon Network HD
 372,Cartoonito HD
+373,Kartoon Channel HD
 374,Dreamworks HD
 375,Horee! HD
 376,Citra Bioskop HD
@@ -153,6 +169,7 @@ Channel Number,Channel Name
 380,IMC HD
 381,Galaxy HD
 382,Galaxy Premium HD
+385,First Faith HD
 389,GMS Channel HD
 391,Reformed 21 HD
 393,DW HD
@@ -176,10 +193,15 @@ Channel Number,Channel Name
 416,SEA Today HD
 417,Kompas TV HD
 418,BTV HD
-419,BeritaSatu HD
-510,Catchplay+
-700,Love Nature 4K
-701,QWER 4K
-900,Highlights
-999,Music Video HD
-1000,Channel List HD
+419,BeritaSatu / IDTV HD
+510,Catchplay - Preview
+601,Trijaya FM
+602,Delta FM
+603,Radio Sonora
+605,VOA
+606,BBC World Service
+607,Radio Australia
+700,Love Nature UHD
+701,QWER UHD
+900,First Highlights
+999,First Warriors HD
