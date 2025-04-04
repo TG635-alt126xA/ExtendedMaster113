@@ -40,7 +40,7 @@ Channel Number,Channel Name
 51,AXN
 52,Animax
 53,GTV
-57,Rock Action
+57,ROCK Action
 60,Euronews
 61,TBN Asia
 62,JAK-TV
@@ -48,6 +48,7 @@ Channel Number,Channel Name
 72,TLC
 76,AFN
 81,Fashion TV
+86,GMS Channel
 101,Discovery
 105,Animal Planet
 124,Nick Jr
@@ -156,7 +157,6 @@ Channel Number,Channel Name
 369,Animal Planet HD
 370,Cartoon Network HD
 372,Cartoonito HD
-373,Kartoon Channel HD
 374,Dreamworks HD
 375,Horee! HD
 376,Citra Bioskop HD
