@@ -1,19 +1,2 @@
-ID,Name,Status
-INTV-0,Inspira TV,Current
-INTV-1,Inspira TV Jakarta,Current
-INTV-2,Inspira TV Yogyakarta,Replaced
-INTV-3,Inspira TV Banjarmasin,Replaced
-INTV-4,Inspira TV Medan,Replaced
-INTV-5,Inspira TV Batam,Replaced
-INTV-6,Inspira TV Lampung,Replaced
-INTV-7,Inspira TV Makassar,Replaced
-INTV-8,Inspira TV Pekanbaru,Replaced
-INTV-9,Inspira TV Aceh,Replaced
-NSTV-0,Nusantara TV,Current
-NSTV-1,Nusantara TV Bali,Current
-NSTV-2,Nusantara TV Lampung,Current
-NSTV-3,Nusantara TV Medan,Current
-NSTV-4,Nusantara TV Yogyakarta,Current
-NSTV-5,Nusantara TV Bandung,Current
-NSTV-6,Nusantara TV Padang,Planned
-NSTV-7,Nusantara TV Batam,Current
+Number,Name,Formerly Name
+92,Garuda TV,MYTV
