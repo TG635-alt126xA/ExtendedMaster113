@@ -2,7 +2,7 @@ Channel Number,Channel Name
 1,BTV
 2,BeritaSatu
 3,First Lifestyle
-4,Lejel Home Shopping
+4,UP-FRONT CHANNEL
 5,MDTV
 7,Metro TV
 10,SCTV
@@ -12,7 +12,6 @@ Channel Number,Channel Name
 15,Kompas TV
 16,TVRI1
 17,JTV SBY
-18,QWER
 19,Jakarta Globe News Ch.
 21,Reformed 21
 23,Kairos
@@ -102,6 +101,7 @@ Channel Number,Channel Name
 246,France 24 EN
 247,NHK World Premium
 251,ABC Australia
+254,LLTV
 258,RAI Italia
 260,TV5 Monde Asie
 283,Warner TV
@@ -202,6 +202,5 @@ Channel Number,Channel Name
 606,BBC World Service
 607,Radio Australia
 700,Love Nature UHD
-701,QWER UHD
 900,First Highlights
 999,First Warriors HD
