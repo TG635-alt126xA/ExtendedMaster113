@@ -38,7 +38,7 @@ ENTERTAINMENT
 208	HITS HD**
 209	ROCK Action HD*
 210	Lifetime HD*
-211	GEM HD*
+211	Hello! Project Station / GEM HD*
 251	MTV Live HD*
 
 NEWS & INTERNATIONAL
@@ -89,6 +89,7 @@ RELIGION & LOCAL
 566	JAK-TV*
 567	K-Drama (Lejel)
 568	DAAI TV HD
+569	TV4 / MYTV HD
 571	Nusantara TV HD
 572	Bali TV
 573	SEA Today HD*
