@@ -25,14 +25,13 @@ STANDARD (SD)
 46	Kids TV
 47	Dreamworks
 49	Nick
+50	TV4 / MYTV
 78	IVM
-79	Sportstars 6
 80	RCTI
 81	GTV
 82	MNC TV
 83	iNews
 84	Sindonews TV
-85	Sportstars 5
 86	Ent
 87	TRANS TV
 88	Sportstars 4
@@ -122,8 +121,6 @@ HIGH DEFINITION (HDTV)**
 422	Sportstars 2
 423	Sportstars 3
 424	Sportstars 4
-425	Sportstars 5
-426	Sportstars 6
 427	SPOTV
 428	SPOTV 2
 430	RCTI
@@ -173,4 +170,4 @@ Indovision / MNC Vision broadcasts on SES-7 satellite using 10 transponders. How
 **) Channels cannot be displayed on SDTV set-top box (audio only)
 ***) For internal use only (whitelist smartcard & paired set-top box)
 
-UPDATED:	FEB 2025
+UPDATED:	APR 2025
