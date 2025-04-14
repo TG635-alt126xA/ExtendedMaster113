@@ -1,9 +1,9 @@
 LOCAL & INHOUSE
 
-1	Kajitsu Channel / MYTV HD
+1	TVRI1
 2	RTV
 3	RCTI
-4	Kajitsu Channel / MYTV
+4	Kajitsu Channel / MYTV HD
 5	MDTV
 6	MNC TV
 7	SCTV
@@ -17,10 +17,12 @@ LOCAL & INHOUSE
 15	Metro TV
 16	Kompas TV
 17	BTV
-18	TVRI1
+18	JAK-TV
 19	BeritaSatu / IDTV
+20	JTV SBY
 45	iNews
 
 OTHERS
 
 900	List Channel
+901	Kajitsu Channel / MYTV
