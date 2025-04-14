@@ -1,26 +1,26 @@
 LOCAL & INHOUSE
 
 1	Kajitsu Channel / MYTV HD
-2	Potong TV
-3	Salin TV
-4	RTV
+2	RTV
+3	RCTI
+4	Kajitsu Channel / MYTV
 5	MDTV
-6	TRANS TV
-7	TRANS 7
-8	SCTV
-9	IVM
-10	ANTV
-11	Garuda TV
-12	TVOne
-13	Metro TV
-14	Kompas TV
-15	BTV
-16	Mampus TV
-17	JTV SBY
+6	MNC TV
+7	SCTV
+8	IVM
+9	TRANS 7
+10	TRANS TV
+11	ANTV
+12	Garuda TV
+13	TVOne
+14	GTV
+15	Metro TV
+16	Kompas TV
+17	BTV
 18	TVRI1
 19	BeritaSatu / IDTV
 45	iNews
 
 OTHERS
 
-900	Kajitsu Channel / MYTV
+900	List Channel
