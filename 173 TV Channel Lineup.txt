@@ -2,25 +2,24 @@ LOCAL & INHOUSE
 
 1	TVRI1
 2	RTV
-4	Kajitsu Channel / TV4 HD
-5	MDTV
-6	Magna TV
-7	SCTV
-8	IVM
-9	TRANS 7
-10	TRANS TV
-11	ANTV
-12	Garuda TV
-13	TVOne
-15	Metro TV
-16	Kompas TV
-17	BTV
-18	JAK-TV
-19	BeritaSatu / IDTV
-20	JTV SBY
-45	iNews
+3	Info TV
+4	MDTV
+5	Magna TV
+6	SCTV
+7	IVM
+10	ANTV
+11	BTV
+12	TVOne
+13	Metro TV
+14	Kompas TV
+15	iNews
+16	JTV SBY
+17	BeritaSatu / IDTV
+18	Nick Jr
+19	Garuda TV
+20	Nick
 
 OTHERS
 
 900	List Channel
-904	Kajitsu Channel / TV4
+999	Kajitsu Channel
