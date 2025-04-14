@@ -1,21 +1,51 @@
 LOCAL & INHOUSE
 
-2	Resident Info
-3	Garuda TV
+1	OMAKE CHANNEL
+2	Rebung TV
+3	RCTI
 4	TV4 / MYTV
-5	MDTV
-6	BTV
+5	SCTV
+6	Girls2
 7	Metro TV
-10	SCTV
-11	IVM
-13	ANTV
-14	TVOne
-15	Kompas TV
+8	TRANS 7
+9	TRANS TV
+10	Bawang TV
+11	Garuda TV
+12	MDTV
+14	Kompas TV
+15	BTV
 16	TVRI1
-17	iNews
+17	MNC TV
+18	Pisang TV
 19	BeritaSatu / IDTV
+20	Singkong TV
+21	Reformed 21
+22	RTV
+23	ANTV
+24	France 24
+25	Teriak-Teriak TV
+26	MOJI
+27	DAAI TV
+28	Ngaji TV
+29	EWTN
+30	JAK-TV
+31	Lemah TV
+32	Nusantara TV
+33	Cahaya TV
+34	Ryurey TV
+35	Ubi Jalar TV
+36	BN TV
+37	Kamis TV
+40	Magna TV
+41	Rodja TV
+42	Tahilalat TV
+43	Daging Kambing TV
+44	iNews
+45	jawapos TV
+46	Daging Bebek TV
+47	IVM
+49	TVOne
 
 Inactive channels:
 
-8	TRANS 7
-9	TRANS TV
+13	Bloomberg TV Indonesia
