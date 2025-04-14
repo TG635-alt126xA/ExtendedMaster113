@@ -2,10 +2,9 @@ LOCAL & INHOUSE
 
 1	TVRI1
 2	RTV
-3	RCTI
-4	Kajitsu Channel / MYTV HD
+4	Kajitsu Channel / TV4 HD
 5	MDTV
-6	MNC TV
+6	Magna TV
 7	SCTV
 8	IVM
 9	TRANS 7
@@ -13,7 +12,6 @@ LOCAL & INHOUSE
 11	ANTV
 12	Garuda TV
 13	TVOne
-14	GTV
 15	Metro TV
 16	Kompas TV
 17	BTV
@@ -25,4 +23,4 @@ LOCAL & INHOUSE
 OTHERS
 
 900	List Channel
-901	Kajitsu Channel / MYTV
+904	Kajitsu Channel / TV4
