@@ -1,51 +1,45 @@
-LOCAL & INHOUSE
+STANDARD (SD)
 
-1	OMAKE CHANNEL
-2	Rebung TV
 3	RCTI
 4	TV4 / MYTV
-5	SCTV
-6	Girls2
+5	MDTV
+6	BTV
 7	Metro TV
 8	TRANS 7
 9	TRANS TV
-10	Bawang TV
-11	Garuda TV
-12	MDTV
-14	Kompas TV
-15	BTV
+10	SCTV
+11	IVM
+12	CCTV 4
+13	ANTV
+14	TVOne
+15	Kompas TV
 16	TVRI1
 17	MNC TV
-18	Pisang TV
+18	Nick Jr
 19	BeritaSatu / IDTV
-20	Singkong TV
+20	Nick
 21	Reformed 21
-22	RTV
-23	ANTV
 24	France 24
-25	Teriak-Teriak TV
 26	MOJI
 27	DAAI TV
-28	Ngaji TV
 29	EWTN
 30	JAK-TV
-31	Lemah TV
-32	Nusantara TV
-33	Cahaya TV
-34	Ryurey TV
-35	Ubi Jalar TV
-36	BN TV
-37	Kamis TV
+32	Studio Universal
+35	RTV
+37	Sindonews TV
+38	Nusantara TV
+39	TVMU
 40	Magna TV
 41	Rodja TV
-42	Tahilalat TV
-43	Daging Kambing TV
+42	jawapos TV
+43	Bali TV
 44	iNews
-45	jawapos TV
-46	Daging Bebek TV
-47	IVM
-49	TVOne
-
-Inactive channels:
-
-13	Bloomberg TV Indonesia
+45	Garuda TV
+47	Channel Jowo
+49	VTV
+50	TV50
+51	AXN
+52	Animax
+53	GTV
+57	Rock Extreme
+58	Channel Info
