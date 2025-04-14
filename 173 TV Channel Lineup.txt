@@ -1,3 +1,27 @@
-STANDARD (SD)
+INHOUSE
 
-1	BTV
+2	Channel List
+
+SPORTS & LOCAL
+
+704	Fight Sports
+799	TVRI1
+800	JAK-TV
+801	Beras TV
+802	Metro TV
+803	tvOne
+804	TRANS TV
+805	TRANS 7
+806	Magna TV
+807	SCTV
+808	ANTV
+809	IVM
+810	Nusantara TV
+811	Serangga TV
+812	Garuda TV
+814	Kompas TV
+815	BTV
+816	iNews
+817	BeritaSatu / IDTV
+818	RTV
+819	MDTV
