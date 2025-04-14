@@ -16,15 +16,15 @@ LOCAL & INHOUSE
 105	MDTV
 106	Magna TV
 107	SCTV
-108	Tsubaki Factory
+108	ANTV
 109	IVM
 110	Ryurey TV
-111	ANTV
+111	Garuda TV
 113	BTV
 114	Kompas TV
 115	RTV
-117	Garuda TV
+117	iNews
 118	TVRI1
 119	BeritaSatu / IDTV
 120	JTV-SBY
-121	iNews
+121	Reformed 21
