@@ -1,34 +1,21 @@
-1	jawapos TV (SD/HD)
-
 LOCAL & INHOUSE
 
-100	Nusantara TV
-101	JAK-TV
-102	Resident Info
-103	RCTI
-104	TV4 / MYTV
-105	TVOne
-106	Magna TV
-107	Metro TV
-110	SCTV
-111	IVM
-113	ANTV
-114	BTV
-115	Kompas TV
-116	TVRI1
-117	iNews
-119	BeritaSatu / IDTV
-120	DAAI TV
-121	Magna TV
-123	JTV SBY
-124	ANTARA TV
-125	MOJI
-127	VTV
-128	Garuda TV
-129	MDTV
+2	Resident Info
+3	Garuda TV
+4	TV4 / MYTV
+5	MDTV
+6	BTV
+7	Metro TV
+10	SCTV
+11	IVM
+13	ANTV
+14	TVOne
+15	Kompas TV
+16	TVRI1
+17	iNews
+19	BeritaSatu / IDTV
 
-KIDS
+Inactive channels:
 
-300	MNC TV
-301	GTV
-302	RTV
+8	TRANS 7
+9	TRANS TV
