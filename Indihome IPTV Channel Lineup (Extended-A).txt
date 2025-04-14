@@ -14,6 +14,7 @@ LOCAL & INHOUSE
 107	SCTV HD
 108	ANTV HD
 109	IVM HD
+111	Garuda TV HD
 112	MDTV / NET. HD
 114	Kompas TV HD
 115	BTV HD
@@ -30,9 +31,7 @@ LOCAL & INHOUSE
 127	VTV HD
 128	Nusantara TV HD
 129	iNews HD
-130	rri NET. HD
 132	jawapos TV HD
-133	Garuda TV HD
 134	Sindonews TV
 135	CNBC Indonesia HD
 137	Channel Jowo HD
@@ -168,7 +167,6 @@ NEWS, RELIGION, & DOLBY
 860	TV MUI
 870	Hope Channel Indonesia
 871	U Channel
-887	rri NET HD
 891	HBO HD - Dolby
 892	HBO Signature HD - Dolby
 893	HBO Hits HD - Dolby
