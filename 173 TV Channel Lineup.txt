@@ -1,6 +1,22 @@
 LOCAL & INHOUSE
 
-0	Channel Info
-1	Kajitsu Channel
+1	Kajitsu Channel HD
 2	Nusantara TV
-5	MDTV
+3	Salin TV
+4	MDTV
+5	Magna TV
+6	SCTV
+7	IVM
+8	TRANS 7
+9	TRANS TV
+10	ANTV
+11	Garuda TV
+12	TVOne
+13	Metro TV
+14	Kompas TV
+15	BTV
+16	Potong TV
+17	JTV SBY
+18	TVRI1
+19	BeritaSatu / IDTV
+900	Kajitsu Channel
