@@ -24,7 +24,7 @@ STANDARD (SD)
 27	DAAI TV
 29	EWTN
 30	JAK-TV
-32	Studio Universal
+33	Studio Universal
 35	RTV
 37	Sindonews TV
 38	Nusantara TV
@@ -33,13 +33,14 @@ STANDARD (SD)
 41	Rodja TV
 42	jawapos TV
 43	Bali TV
-44	iNews
+44	TV9 Nusantara
 45	Garuda TV
-47	Channel Jowo
+47	TV Tokyo
 49	VTV
 50	TV50
 51	AXN
 52	Animax
 53	GTV
 57	Rock Extreme
-58	Channel Info
+65	iNews
+900	Channel Info
