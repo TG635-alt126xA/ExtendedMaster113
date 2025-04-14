@@ -1,8 +1,8 @@
 LOCAL & INHOUSE
 
-1	Kajitsu Channel HD
+1	Kajitsu Channel / MYTV HD
 2	Nusantara TV
-3	Salin TV
+3	RirTV
 4	MDTV
 5	Magna TV
 6	SCTV
@@ -15,8 +15,8 @@ LOCAL & INHOUSE
 13	Metro TV
 14	Kompas TV
 15	BTV
-16	Potong TV
+16	Mamah TV
 17	JTV SBY
 18	TVRI1
 19	BeritaSatu / IDTV
-900	Kajitsu Channel
+900	Kajitsu Channel / MYTV
