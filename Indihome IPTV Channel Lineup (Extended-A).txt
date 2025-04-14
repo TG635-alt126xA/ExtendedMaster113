@@ -44,7 +44,6 @@ KNOWLEDGE
 204	CGTN Documentary HD
 205	History HD
 207	Discovery HD
-209	TechStorm HD
 210	Discovery Asia HD
 211	Love Nature HD
 
@@ -177,3 +176,23 @@ NEWS, RELIGION, & DOLBY
 OTHERS
 
 917	Channel Jowo HD
+ 
+Indihome TV services can only be accessed with the linked ONT and customer ID number, and is required to use LAN/Eth Port 4 (for the main set-top box) and LAN/Eth Port 1 (for the secondary set-top box) in order to receive the broadcast. However, the set-top box also has a WiFi connection to access other content/applications (especially streaming apps).
+ 
+All channels are able to timeshift & catch-up for 7D, except:
+ 
+-	Mozaik Channel / Non Stop Entertainment on Indihome
+-	Lejel Home Shopping Live
+-	VIVA Group (TVOne & ANTV)
+-	Emtek/SCM Group (SCTV, IVM, MOJI, Mentari TV, Champions TV 1/2/5/6, VOLI TV)
+-	MDTV HD
+-	RTV HD
+-	DAAI TV HD
+-	Dreamworks HD
+-	HBO, HBO Signature, Cinemax, HBO Hits, HBO Family (incl. Dolby ver)
+-	HITS Movies HD
+-	AllPlay Sports
+-	Horizon Sports HD
+-	NHK World Japan HD
+ 
+UPDATED:	APR 2025
