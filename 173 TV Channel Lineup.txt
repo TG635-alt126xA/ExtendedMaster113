@@ -1,27 +1,25 @@
-INHOUSE
+1	Nusantara TV (SD/HD)
 
-2	Channel List
+LOCAL & INHOUSE
 
-SPORTS & LOCAL
-
-704	Fight Sports
-799	TVRI1
-800	JAK-TV
-801	Beras TV
-802	Metro TV
-803	tvOne
-804	TRANS TV
-805	TRANS 7
-806	Magna TV
-807	SCTV
-808	ANTV
-809	IVM
-810	Nusantara TV
-811	Serangga TV
-812	Garuda TV
-814	Kompas TV
-815	BTV
-816	iNews
-817	BeritaSatu / IDTV
-818	RTV
-819	MDTV
+0	Channel Info
+2	Resident Info
+100	TVRI1
+101	Metro TV
+102	jawapos TV
+103	TVOne
+105	MDTV
+106	Magna TV
+107	SCTV
+108	IVM
+109	TRANS 7
+110	TRANS TV
+111	ANTV
+112	Gigi TV
+113	BTV
+114	Kompas TV
+115	iNews
+116	Garuda TV
+117	JTV-SBY
+118	RTV
+119	BeritaSatu
