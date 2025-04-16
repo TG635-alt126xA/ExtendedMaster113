@@ -4,15 +4,11 @@ STANDARD (SD)
 2	RTV
 3	RCTI
 5	MDTV
-6	Magna TV
-7	SCTV
-8	IVM
-9	TRANS 7
-10	TRANS TV
-11	ANTV
-12	CNN Indonesia
-13	TVOne
-14	Metro TV
+7	Metro TV
+10	SCTV
+11	IVM
+13	ANTV
+14	TVOne
 15	Kompas TV
 16	BTV
 17	MNC TV
@@ -27,7 +23,7 @@ STANDARD (SD)
 32	Animax
 33	GTV
 34	Sindonews TV
-35	CNBC Indonesia
+35	Magna TV
 37	Warner TV
 39	Euronews
 40	Momoiro Clover Z
@@ -60,6 +56,6 @@ OTHERS
 
 Inactive channels:
 
-4	Serayu TV
-28	TIC
-63	MYTV
+8	TRANS 7
+9	TRANS TV
+12	MYTV
