@@ -3,7 +3,7 @@ STANDARD (SD)
 1	TVRI1
 2	RTV
 3	Nusantara TV
-4	MDTV
+4	Kajitsu Channel
 5	Magna TV
 6	SCTV
 7	IVM
@@ -15,9 +15,10 @@ STANDARD (SD)
 13	Metro TV
 14	Kompas TV
 15	BTV
-16	JTV SBY
-17	BeritaSatu / IDTV
+16	MDTV
+17	JTV SBY
 18	Nick Jr
+19	BeritaSatu / IDTV
 20	Nick
 21	Bandai Channel - Preview
 22	SPOTV
@@ -33,4 +34,4 @@ OTHERS
 0	Info Channel
 300	Info Channel HD
 900	List Channel
-999	Kajitsu Channel
+999	Kajitsu Channel HD
