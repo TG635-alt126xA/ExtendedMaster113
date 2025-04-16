@@ -17,29 +17,30 @@ STANDARD (SD)
 16	BTV
 17	MNC TV
 19	BeritaSatu / IDTV
-20	jawapos TV
 22	Bali TV
 23	JTV SBY
 24	ANTARA TV
 26	MOJI
 27	DAAI TV
 29	ETWN
-30	CNBC Indonesia
 31	AXN
 32	Animax
 33	GTV
+34	Sindonews TV
+35	CNBC Indonesia
 37	Warner TV
 39	Euronews
 42	Quran TV
 43	Sunnah TV
 45	Garuda TV
-47	Sindonews TV
+47	TBS News
 49	VTV
 57	Rock Action
 60	Ayam Krispi TV
 61	Tritih Lor TV
 62	JAK-TV
 64	iNews
+65	jawapos TV
 66	Nusantara TV
 
 OTHERS
