@@ -4,13 +4,14 @@ STANDARD (SD)
 2	RTV
 3	RCTI
 5	MDTV
+6	MNC TV
 7	Metro TV
 10	SCTV
 11	IVM
 14	TVOne
 15	Kompas TV
 16	BTV
-17	MNC TV
+17	Warner TV
 19	BeritaSatu / IDTV
 22	Bali TV
 23	JTV SBY
@@ -18,21 +19,27 @@ STANDARD (SD)
 26	MOJI
 27	DAAI TV
 29	ETWN
+30	TBS Jaapn
 31	AXN
 32	Animax
 33	GTV
-34	Sindonews TV
+34	TV Asahi
 35	Magna TV
-37	Warner TV
+37	Sindonews TV
 39	Euronews
 40	Momoiro Clover Z
 41	Tahilalat TV
-42	TBS News
+42	TV Tokyo
 44	TV9 Nusantara
 45	Garuda TV
 47	TBN Asia
+48	Fuji TV
+51	Ishikawa TV
+52	Tawaf TV
+53	Nippon TV
 57	ROCK Action
 58	Hotel Promotion
+59	Tokyo MX
 60	Ayam Krispi TV
 61	Tritih Lor TV
 62	JAK-TV
