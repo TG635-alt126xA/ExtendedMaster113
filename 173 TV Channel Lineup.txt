@@ -3,7 +3,6 @@ STANDARD (SD)
 1	TVRI1
 2	RTV
 3	RCTI
-4	Kebumen TV
 5	MDTV
 6	Magna TV
 7	SCTV
@@ -31,16 +30,14 @@ STANDARD (SD)
 35	CNBC Indonesia
 37	Warner TV
 39	Euronews
+40	Momoiro Clover Z
 41	Tahilalat TV
-42	Satelit TV
-43	BMS TV
+42	TBS News
+44	TV9 Nusantara
 45	Garuda TV
 47	TBN Asia
-48	TBS News
-49	Momoiro Clover Z
-57	Rock Action
+57	ROCK Action
 58	Hotel Promotion
-59	VTV
 60	Ayam Krispi TV
 61	Tritih Lor TV
 62	JAK-TV
@@ -54,15 +51,15 @@ HIGH DEFINITION (HDTV)
 
 301	Highlights
 
-Inactive channels:
-
-28	TIC
-63	MYTV
-
 OTHERS
 
-21	ANGERME - Preview
 25	Kajitsu Channel - Preview
-53	Catchplay - Preview
+69	Catchplay - Preview
 900	Highlights
 999	Kajitsu Channel HD - Preview
+
+Inactive channels:
+
+4	Serayu TV
+28	TIC
+63	MYTV
