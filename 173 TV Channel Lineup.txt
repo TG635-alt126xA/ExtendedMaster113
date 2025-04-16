@@ -35,7 +35,7 @@ STANDARD (SD)
 OTHERS
 
 0	Info Channel
-4	List Channel HD
+4	Kajitsu Channel
 300	Info Channel HD
 900	List Channel
 999	Kajitsu Channel HD
