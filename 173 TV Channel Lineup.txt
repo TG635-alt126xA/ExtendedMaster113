@@ -12,8 +12,8 @@ STANDARD (SD)
 11	ANTV
 12	CNN Indonesia
 13	TVOne
-14	Kompas TV
-15	Metro TV
+14	Metro TV
+15	Kompas TV
 16	BTV
 17	MNC TV
 19	BeritaSatu / IDTV
@@ -43,13 +43,15 @@ STANDARD (SD)
 65	jawapos TV
 66	Nusantara TV
 
+HIGH DEFINITION (HDTV)
+
+301	Highlights 301
+
 OTHERS
 
-0	Info Channel
 4	Kajitsu Channel - Preview
 21	Bandai Channel - Preview
 25	EM113 Channel - Preview
 53	Catchplay - Preview
-400	Info Channel HD
-900	List Channel
+900	Highlights 900
 999	Kajitsu Channel HD - Preview
