@@ -1,60 +1,33 @@
-STANDARD (SD)
+LOCAL & INHOUSE
 
-5	MDTV
-7	Metro TV
-10	SCTV
-11	IVM
-12	BTV
-14	TVOne
-15	Kompas TV
-16	TVRI1
-17	JTV SBY
-19	BeritaSatu / IDTV
+18	Hanakei Channel Yogyakarta
+19	Hanakei Channel Purwokerto
+20	Hanakei Channel Cilacap
+21	Hanakei Channel Japanese
 22	Hanakei Channel Malang
-26	MOJI
-27	DAAI TV
-28	Hanakei Channel Yogyakarta
-29	ETWN
-31	Rumah Yeyen TV
+23	Hanakei Channel Tegal
+25	Hanakei Channel Korean
+31	Hanakei Channel Wonosobo
 32	Hanakei Channel Bogor
 33	Hanakei Channel Jakarta
 34	Hanakei Channel Bandung
-35	RTV
+35	Hanakei Channel World
+36	Hanakei Channel English
 37	Sindonews TV
-41	Hanakei Channel Medefaidrin
-42	Hanakei Channel World
-43	Hanakei Channel English
+38	IC3
+39	CCC District 1
+40	Fukumura Village Jakarta
+41	Hanakei Channel Bali
+42	Hanakei Channel Lampung
+43	CCC District 2
+44	Jeruklegi TV
 45	Garuda TV
-62	JAK-TV
-64	iNews
-65	Hanakei Channel Medan
-66	Nusantara TV
-100	Hanakei Channel Bali
-101	Hanakei Channel Lampung
-172	Hanakei Channel Sports
+65	Hanakei Channel Padang
+66	Hanakei Channel Medan
+172	Hanakei Channel Batam
 173	Canal 173
-
-HIGH DEFINITION (HDTV)
-
-1	Canal 173
-
-HELLO PROJECT
-
-500	Morning Musume
-501	ANGERME
-502	OCHA NORMA
-503	Rosy Chronicle
-996	Juice=Juice
-997	Tsubaki Factory
-998	BEYOOOOONDS
 
 OTHERS
 
 510	Catchplay - Preview
 999	Kajitsu Channel - Preview
-
-Inactive channels:
-
-8	TRANS 7
-9	TRANS TV
-13	ANTV
