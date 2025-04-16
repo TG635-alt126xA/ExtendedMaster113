@@ -20,9 +20,9 @@ STANDARD (SD)
 24	ANTARA TV
 26	MOJI
 27	DAAI TV
-28	E1512
+28	Elevator1512
 29	ETWN
-30	Zee Bioskop
+30	Korean Elevator Ch.
 31	AXN
 32	Animax
 33	GTV
@@ -31,8 +31,9 @@ STANDARD (SD)
 36	TVMU
 37	Sindonews TV
 39	Euronews
-40	Elevator Info
+40	Bali TV
 41	Tahilalat TV
+42	Perut TV
 45	Garuda TV
 47	TBN Asia
 48	Tawaf TV
@@ -58,7 +59,7 @@ HELLO PROJECT
 21	ANGERME
 38	Juice=Juice
 43	Rosy Chronicle
-51	OCHA NORMA
+44	OCHA NORMA
 54	Morning Musume
 60	Tsubaki Factory
 
