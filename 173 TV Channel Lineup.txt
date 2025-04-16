@@ -10,50 +10,56 @@ STANDARD (SD)
 9	TRANS 7
 10	TRANS TV
 11	ANTV
-12	BTV
+12	Tamanegi TV
 13	TVOne
 14	Kompas TV
 15	Metro TV
-16	JTV SBY
+16	BTV
 17	BeritaSatu / IDTV
-18	Nick Jr
 19	Animax
-20	Nick
-21	Bandai Channel - Preview
-22	SPOTV
-23	SPOTV 2
-24	Fight Sports
-25	Rocket Chicken
+22	Bali TV
+23	JTV SBY
 26	MOJI
+27	TBS News
 28	AFN
-29	Citra Bioskop
+29	ETWN
 30	Zee Bioskop
 31	AXN
-32	Lifetime
-33	Studio Universal
-34	Celestial Movies
-35	Thrill
-36	KIX
+32	Animax
+33	Lifetime
 37	Warner TV
 39	Euronews
-42	Rodja TV
+40	Momoiro Clover Z
+41	Satelit TV
+42	BMS TV
 43	Quran TV
+44	Sunnah TV
 45	Garuda TV
-46	Serangga TV
-47	Citra Muslim
+46	Ishikawa TV
+47	Sindonews TV
 49	VTV
 50	Magna TV
 51	NHK-G
 52	NHK-E
 53	GTV
+54	TV Asahi
+55	Nippon TV
+56	TBS Japan
+57	Rock Action
+59	TV Tokyo
+62	JAK-TV
+63	Fuji TV
 64	iNews
-65	PassCode - Preview
+65	Tritih Lor TV
 66	Nusantara TV
+67	Tokyo MX
 
 OTHERS
 
 0	Info Channel
 4	Kajitsu Channel
+21	Bandai Channel - Preview
+25	Catchplay - Preview
 300	Info Channel HD
 900	List Channel
 999	Kajitsu Channel HD
