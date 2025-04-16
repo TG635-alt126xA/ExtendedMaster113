@@ -7,7 +7,6 @@ STANDARD (SD)
 7	Metro TV
 10	SCTV
 11	IVM
-13	ANTV
 14	TVOne
 15	Kompas TV
 16	BTV
@@ -59,3 +58,5 @@ Inactive channels:
 8	TRANS 7
 9	TRANS TV
 12	MYTV
+13	ANTV
+36	BN TV
