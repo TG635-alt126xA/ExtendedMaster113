@@ -16,13 +16,17 @@ STANDARD (SD)
 14	Kompas TV
 15	BTV
 16	JTV SBY
-17	Garuda TV
+17	BeritaSatu / IDTV
 18	Nick Jr
-19	BeritaSatu / IDTV
 20	Nick
+21	Bandai Channel - Preview
 22	SPOTV
 23	SPOTV 2
-45	iNews
+24	Fight Sports
+45	Garuda TV
+53	GTV
+64	iNews
+65	PassCode - Preview
 
 OTHERS
 
