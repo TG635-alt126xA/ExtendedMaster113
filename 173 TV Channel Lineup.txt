@@ -1,7 +1,7 @@
 STANDARD (SD)
 
 1	TVRI1
-2	RTV
+2	RTV / FOX Life
 3	Nusantara TV
 4	MDTV
 5	Magna TV
