@@ -1,7 +1,7 @@
 STANDARD (SD)
 
 1	TVRI1
-2	RTV / FOX Life
+2	RTV
 3	Nusantara TV
 4	MDTV
 5	Magna TV
@@ -20,6 +20,8 @@ STANDARD (SD)
 18	Nick Jr
 19	BeritaSatu / IDTV
 20	Nick
+22	SPOTV
+23	SPOTV 2
 45	iNews
 
 OTHERS
