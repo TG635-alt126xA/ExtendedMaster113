@@ -1,52 +1,37 @@
 STANDARD (SD)
 
-2	Titit TV
-3	RCTI
-4	NP1C
 5	MDTV
-6	MNC TV
 7	Metro TV
 10	SCTV
 11	IVM
 12	BTV
 14	TVOne
-15	UF Good Land
-16	Kompas TV
-17	TVRI1
-18	Cartoonito
+15	Kompas TV
+16	TVRI1
+17	JTV SBY
 19	BeritaSatu / IDTV
-22	RTV
-23	JTV SBY
-24	ANTARA TV
+22	Hanakei Channel Malang
 26	MOJI
 27	DAAI TV
-28	Elevator1512
+28	Hanakei Channel Yogyakarta
 29	ETWN
-30	Korean Elevator Ch.
-31	AXN
-32	Animax
-33	GTV
-34	Cartoon Network
-35	Magna TV
-36	TVMU
+31	Rumah Yeyen TV
+32	Hanakei Channel Bogor
+33	Hanakei Channel Jakarta
+34	Hanakei Channel Bandung
+35	RTV
 37	Sindonews TV
-39	Euronews
-40	Bali TV
-41	Tahilalat TV
-42	Perut TV
+41	Hanakei Channel Medefaidrin
+42	Hanakei Channel World
+43	Hanakei Channel English
 45	Garuda TV
-47	TBN Asia
-48	Tawaf TV
-57	ROCK Action
-58	Hotel Promotion
-59	TV9 Nusantara
-61	Tritih Lor TV
 62	JAK-TV
 64	iNews
-65	jawapos TV
+65	Hanakei Channel Medan
 66	Nusantara TV
-67	Quran TV
-68	Sunnah TV
+100	Hanakei Channel Bali
+101	Hanakei Channel Lampung
+172	Hanakei Channel Sports
 173	Canal 173
 
 HIGH DEFINITION (HDTV)
@@ -55,25 +40,21 @@ HIGH DEFINITION (HDTV)
 
 HELLO PROJECT
 
-20	BEYOOOOONDS
-21	ANGERME
-38	Juice=Juice
-43	Rosy Chronicle
-44	OCHA NORMA
-54	Morning Musume
-60	Tsubaki Factory
+500	Morning Musume
+501	ANGERME
+502	OCHA NORMA
+503	Rosy Chronicle
+996	Juice=Juice
+997	Tsubaki Factory
+998	BEYOOOOONDS
 
 OTHERS
 
-46	Kajitsu Channel - Preview
-69	Catchplay - Preview
-900	Highlights
-999	Kajitsu Channel HD - Preview
+510	Catchplay - Preview
+999	Kajitsu Channel - Preview
 
 Inactive channels:
 
 8	TRANS 7
 9	TRANS TV
 13	ANTV
-25	MYTV
-63	GEM
