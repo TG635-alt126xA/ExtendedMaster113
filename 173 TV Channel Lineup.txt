@@ -2,11 +2,6 @@ LOCAL & INHOUSE
 
 37	Sindonews TV
 39	CCC District 1
-40	Fukumura Village Jakarta
 43	CCC District 2
 44	Ryurey House TV
 45	Garuda TV
-
-OTHERS
-
-999	Kajitsu Channel - Preview
