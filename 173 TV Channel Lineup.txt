@@ -1,33 +1,12 @@
 LOCAL & INHOUSE
 
-18	Hanakei Channel Yogyakarta
-19	Hanakei Channel Purwokerto
-20	Hanakei Channel Cilacap
-21	Hanakei Channel Japanese
-22	Hanakei Channel Malang
-23	Hanakei Channel Tegal
-25	Hanakei Channel Korean
-31	Hanakei Channel Wonosobo
-32	Hanakei Channel Bogor
-33	Hanakei Channel Jakarta
-34	Hanakei Channel Bandung
-35	Hanakei Channel World
-36	Hanakei Channel English
 37	Sindonews TV
-38	IC3
 39	CCC District 1
 40	Fukumura Village Jakarta
-41	Hanakei Channel Bali
-42	Hanakei Channel Lampung
 43	CCC District 2
-44	Jeruklegi TV
+44	Ryurey House TV
 45	Garuda TV
-65	Hanakei Channel Padang
-66	Hanakei Channel Medan
-172	Hanakei Channel Batam
-173	Canal 173
 
 OTHERS
 
-510	Catchplay - Preview
 999	Kajitsu Channel - Preview
