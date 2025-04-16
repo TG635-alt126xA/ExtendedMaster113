@@ -4,17 +4,17 @@ STANDARD (SD)
 2	RTV
 3	Nusantara TV
 4	Kajitsu Channel
-5	Magna TV
-6	SCTV
-7	IVM
-8	TRANS 7
-9	TRANS TV
-10	ANTV
-11	Tamanegi TV
-12	TVOne
-13	Metro TV
-14	Kompas TV
-15	BTV
+5	TVOne
+6	Magna TV
+7	SCTV
+8	IVM
+9	TRANS 7
+10	TRANS TV
+11	ANTV
+12	Tamanegi TV
+13	BTV
+14	Metro TV
+15	Kompas TV
 16	MDTV
 17	JTV SBY
 18	Nick Jr
