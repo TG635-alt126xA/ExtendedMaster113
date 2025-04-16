@@ -1,7 +1,5 @@
 STANDARD (SD)
 
-1	TVRI1
-2	RTV
 3	RCTI
 5	MDTV
 6	MNC TV
@@ -11,7 +9,7 @@ STANDARD (SD)
 14	TVOne
 15	Kompas TV
 16	BTV
-17	Warner TV
+17	TVRI1
 19	BeritaSatu / IDTV
 22	Bali TV
 23	JTV SBY
@@ -34,7 +32,6 @@ STANDARD (SD)
 45	Garuda TV
 47	TBN Asia
 48	Fuji TV
-51	Ishikawa TV
 52	Tawaf TV
 53	Nippon TV
 57	ROCK Action
@@ -48,22 +45,36 @@ STANDARD (SD)
 66	Nusantara TV
 67	Quran TV
 68	Sunnah TV
+173	Canal 173
 
 HIGH DEFINITION (HDTV)
 
-301	Highlights
+1	Canal 173
+
+HELLO PROJECT
+
+21	ANGERME
+51	OCHA NORMA
+54	Morning Musume
 
 OTHERS
 
-25	Kajitsu Channel - Preview
+46	Kajitsu Channel - Preview
 69	Catchplay - Preview
 900	Highlights
 999	Kajitsu Channel HD - Preview
 
 Inactive channels:
 
+2	FOX Life
 8	TRANS 7
 9	TRANS TV
-12	MYTV
+12	Quick Chicken
 13	ANTV
+18	Disney Junior
+25	MYTV
 36	BN TV
+49	Nat Geo People
+50	Disney Ch.
+55	FOX
+56	FOX Crime
