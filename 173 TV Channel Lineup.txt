@@ -10,20 +10,22 @@ STANDARD (SD)
 9	TRANS 7
 10	TRANS TV
 11	ANTV
-12	Tamanegi TV
+12	CNN Indonesia
 13	TVOne
 14	Kompas TV
 15	Metro TV
 16	BTV
-17	BeritaSatu / IDTV
-19	Animax
+17	NP1C
+18	OMAKE CHANNEL
+19	BeritaSatu / IDTV
+20	Kebumen TV
 22	Bali TV
 23	JTV SBY
 26	MOJI
 27	TBS News
 28	AFN
 29	ETWN
-30	Zee Bioskop
+30	CNBC Indonesia
 31	AXN
 32	Animax
 33	Lifetime
