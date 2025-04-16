@@ -56,11 +56,12 @@ HIGH DEFINITION (HDTV)
 
 Inactive channels:
 
+28	TIC
 63	MYTV
 
 OTHERS
 
-21	Bandai Channel - Preview
+21	ANGERME - Preview
 25	Kajitsu Channel - Preview
 53	Catchplay - Preview
 900	Highlights
