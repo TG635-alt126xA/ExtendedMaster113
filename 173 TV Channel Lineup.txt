@@ -10,23 +10,41 @@ STANDARD (SD)
 9	TRANS 7
 10	TRANS TV
 11	ANTV
-12	Tritih Lor TV
+12	BTV
 13	TVOne
-14	Metro TV
-15	Kompas TV
-16	BTV
-17	JTV SBY
+14	Kompas TV
+15	Metro TV
+16	JTV SBY
+17	BeritaSatu / IDTV
 18	Nick Jr
-19	BeritaSatu / IDTV
+19	Animax
 20	Nick
 21	Bandai Channel - Preview
 22	SPOTV
 23	SPOTV 2
 24	Fight Sports
+25	Rocket Chicken
+26	MOJI
+28	AFN
+29	Citra Bioskop
+30	Zee Bioskop
+31	AXN
+32	Lifetime
+33	Studio Universal
+34	Celestial Movies
+35	Thrill
+36	KIX
+37	Warner TV
+39	Euronews
+42	Rodja TV
+43	Quran TV
 45	Garuda TV
+46	Serangga TV
+47	Citra Muslim
+49	VTV
 50	Magna TV
-51	AXN
-52	Animax
+51	NHK-G
+52	NHK-E
 53	GTV
 64	iNews
 65	PassCode - Preview
