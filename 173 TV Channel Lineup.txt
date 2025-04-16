@@ -4,7 +4,7 @@ STANDARD (SD)
 2	RTV
 3	RCTI
 5	MDTV
-6	MNC TV
+6	Magna TV
 7	SCTV
 8	IVM
 9	TRANS 7
@@ -15,53 +15,40 @@ STANDARD (SD)
 14	Kompas TV
 15	Metro TV
 16	BTV
-17	NP1C
-18	OMAKE CHANNEL
+17	MNC TV
 19	BeritaSatu / IDTV
-20	Kebumen TV
+20	jawapos TV
 22	Bali TV
 23	JTV SBY
+24	ANTARA TV
 26	MOJI
-27	TBS News
-28	AFN
+27	DAAI TV
 29	ETWN
 30	CNBC Indonesia
 31	AXN
 32	Animax
-33	Lifetime
+33	GTV
 37	Warner TV
 39	Euronews
-40	Momoiro Clover Z
-41	Satelit TV
-42	BMS TV
-43	Quran TV
-44	Sunnah TV
+42	Quran TV
+43	Sunnah TV
 45	Garuda TV
-46	Ishikawa TV
 47	Sindonews TV
 49	VTV
-50	Magna TV
-51	NHK-G
-52	NHK-E
-53	GTV
-54	TV Asahi
-55	Nippon TV
-56	TBS Japan
 57	Rock Action
-59	TV Tokyo
+60	Ayam Krispi TV
+61	Tritih Lor TV
 62	JAK-TV
-63	Fuji TV
 64	iNews
-65	Tritih Lor TV
 66	Nusantara TV
-67	Tokyo MX
 
 OTHERS
 
 0	Info Channel
-4	Kajitsu Channel
+4	Kajitsu Channel - Preview
 21	Bandai Channel - Preview
-25	Catchplay - Preview
-300	Info Channel HD
+25	EM113 Channel - Preview
+53	Catchplay - Preview
+400	Info Channel HD
 900	List Channel
-999	Kajitsu Channel HD
+999	Kajitsu Channel HD - Preview
