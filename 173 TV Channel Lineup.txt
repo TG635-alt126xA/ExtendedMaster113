@@ -1,7 +1,7 @@
 LOCAL & INHOUSE
 
 37	Sindonews TV
-39	CCC District 1
-43	CCC District 2
+39	COC District 1
+43	COC District 2
 44	Ryurey House TV
 45	Garuda TV
