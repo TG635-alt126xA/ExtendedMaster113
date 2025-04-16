@@ -17,27 +17,22 @@ STANDARD (SD)
 26	MOJI
 27	DAAI TV
 29	ETWN
-30	TBS Jaapn
+30	Zee Bioskop
 31	AXN
 32	Animax
 33	GTV
-34	TV Asahi
+34	Cartoon Network
 35	Magna TV
 37	Sindonews TV
 39	Euronews
-40	Momoiro Clover Z
+40	Elevator Info
 41	Tahilalat TV
-42	TV Tokyo
-44	TV9 Nusantara
 45	Garuda TV
 47	TBN Asia
-48	Fuji TV
-52	Tawaf TV
-53	Nippon TV
+48	Tawaf TV
 57	ROCK Action
 58	Hotel Promotion
-59	Tokyo MX
-60	Ayam Krispi TV
+59	TV9 Nusantara
 61	Tritih Lor TV
 62	JAK-TV
 64	iNews
@@ -53,9 +48,13 @@ HIGH DEFINITION (HDTV)
 
 HELLO PROJECT
 
+20	BEYOOOOONDS
 21	ANGERME
+38	Juice=Juice
+43	Rosy Chronicle
 51	OCHA NORMA
 54	Morning Musume
+60	Tsubaki Factory
 
 OTHERS
 
@@ -69,12 +68,17 @@ Inactive channels:
 2	FOX Life
 8	TRANS 7
 9	TRANS TV
-12	Quick Chicken
+12	FOX Family Movies
 13	ANTV
 18	Disney Junior
 25	MYTV
 36	BN TV
+42	FOX Movies
+44	FOX Action Movies
 49	Nat Geo People
 50	Disney Ch.
+52	Disney XD
+53	GEM
 55	FOX
 56	FOX Crime
+63	FX
