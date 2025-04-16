@@ -10,7 +10,7 @@ STANDARD (SD)
 8	TRANS 7
 9	TRANS TV
 10	ANTV
-11	Talas TV
+11	Tamanegi TV
 12	TVOne
 13	Metro TV
 14	Kompas TV
