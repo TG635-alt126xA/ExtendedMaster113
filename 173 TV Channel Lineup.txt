@@ -1,6 +1,6 @@
 LOCAL & INHOUSE
 
-1	Kambing TV
+1	H!
 2	Serangga TV
 3	Ryurey House TV
 4	Garuda TV
@@ -16,8 +16,7 @@ LOCAL & INHOUSE
 14	Kompas TV
 15	TRANS TV
 16	BTV
-17	Pantat TV
+17	RTV
 18	TVRI1
 19	BeritaSatu / IDTV
 23	MDTV
-99	District Channel
