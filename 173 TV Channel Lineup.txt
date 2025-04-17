@@ -1,6 +1,7 @@
 LOCAL & INHOUSE
 
-1	COC District 1
-2	COC District 2
+1	Mie Oriental TV
+2	Tempel TV
 3	Ryurey House TV
 4	Garuda TV
+99	District Channel
