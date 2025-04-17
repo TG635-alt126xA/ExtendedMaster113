@@ -1,8 +1,10 @@
 LOCAL & INHOUSE
 
-1	Mie Oriental TV
-2	Nusantara TV
+1	Kambing TV
+2	Serangga TV
 3	Ryurey House TV
 4	Garuda TV
-5	MDTV
+5	TVRI1
+6	MDTV
+7	Nusantara TV
 99	District Channel
