@@ -4,7 +4,10 @@ LOCAL & INHOUSE
 2	Serangga TV
 3	Ryurey House TV
 4	Garuda TV
-5	TVRI1
-6	MDTV
-7	Nusantara TV
+5	MDTV
+6	TRANS TV
+7	TRANS 7
+8	SCTV
+9	IVM
+98	TVRI1
 99	District Channel
