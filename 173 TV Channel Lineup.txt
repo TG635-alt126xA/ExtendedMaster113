@@ -1,20 +1,20 @@
 LOCAL & INHOUSE
 
-1	H!P
+1	TVRI2
 2	Singkong TV
-3	Bali TV
+3	H!P
 4	Lejel Home Shopping
 5	Damalang TV
-6	SCTV
-7	IVM
+6	Bali TV
+7	Metro TV
 8	TRANS 7
 9	TRANS TV
-10	ANTV
-11	BTV
-12	TVOne
-13	Metro TV
-14	Kompas TV
-15	iNews
+10	SCTV
+11	IVM
+12	BTV
+13	ANTV
+14	TVOne
+15	Kompas TV
 16	TVRI1
 17	JTV SBY
 18	SEA Today
@@ -23,13 +23,11 @@ LOCAL & INHOUSE
 21	GTV
 22	MNCTV
 23	MDTV
-24	Karangtalun TV
-25	Tamanegi TV
 26	Sin Po TV
 27	DAAI TV
-28	MomoClo Z
+28	iNews
 29	Tawaf TV
-30	Village Channel
+30	Garuda TV Surabaya / BBS TV
 31	Ryukent TV
 32	JAK-TV
 33	Bandung TV
