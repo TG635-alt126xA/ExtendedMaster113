@@ -28,21 +28,24 @@ LOCAL & INHOUSE
 25	Bali TV
 26	Sin Po TV
 27	DAAI TV
-28	Antara TV
+28	Euronews
 29	iNews
-30	Euronews
+30	TVMU
 31	Ryukent TV
 32	JAK-TV
-33	Balai Kota Jakarta
-34	Balai Kota Bandung
+33	Rodja TV
+34	TBN Asia
 35	Tawaf TV
 36	MOJI
 37	VTV
 38	Nusantara TV
 39	BN TV
 40	Magna TV
-41	TBN Asia
-42	Rodja TV
-43	TVMU
+41	Banjarnegara TV
+42	Semut TV
+43	Kebumen TV
 44	TV9 Nusantara
 45	Garuda TV
+46	Kroya TV
+47	Satelit TV
+48	BMS TV
