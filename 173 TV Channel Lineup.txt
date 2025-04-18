@@ -1,17 +1,17 @@
 LOCAL & INHOUSE
 
-1	Girls2
-2	Channel List
+1	Channel Info
+2	GL2
 3	H!P
 4	Lejel Home Shopping
 5	TVOne
-6	Bali TV
+6	BTV
 7	Metro TV
 8	TRANS 7
 9	TRANS TV
 10	SCTV
 11	IVM
-12	BTV
+12	Channel List
 13	ANTV
 14	Rocket Chicken
 15	Kompas TV
@@ -24,10 +24,10 @@ LOCAL & INHOUSE
 22	MNC TV
 23	MDTV
 24	France 24 EN
-25	Escalator Mania JP
+25	Bali TV
 26	Sin Po TV
 27	DAAI TV
-28	AFN
+28	Antara TV
 29	iNews
 30	Euronews
 31	Ryukent TV
@@ -40,8 +40,8 @@ LOCAL & INHOUSE
 38	Nusantara TV
 39	BN TV
 40	Magna TV
-41	CNN Indonesia
-42	CNBC Indonesia
+41	TBN Asia
+42	Rodja TV
 43	TVMU
 44	TV9 Nusantara
 45	Garuda TV
