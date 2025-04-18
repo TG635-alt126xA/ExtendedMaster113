@@ -23,6 +23,8 @@ LOCAL & INHOUSE
 21	GTV
 22	MNCTV
 23	MDTV
+24	France 24 EN
+25	Escalator Mania JP
 26	Sin Po TV
 27	DAAI TV
 28	iNews
