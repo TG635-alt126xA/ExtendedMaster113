@@ -1,22 +1,36 @@
 LOCAL & INHOUSE
 
-1	H!
-2	Serangga TV
+1	H!P
+2	Singkong TV
 3	Ryurey House TV
 4	Garuda TV
 5	TRANS 7
-6	IVM
+6	BTV
 7	SCTV
-8	ANTV
-9	RCTI
-10	GTV
-11	MNCTV
+8	Nusantara TV
+9	IVM
+10	ANTV
+11	Damalang TV
 12	TVOne
 13	Metro TV
 14	Kompas TV
 15	TRANS TV
-16	BTV
-17	RTV
+16	iNews
+17	JTV SBY
 18	TVRI1
 19	BeritaSatu / IDTV
+20	RCTI
+21	GTV
+22	MNCTV
 23	MDTV
+24	Karangtalun TV
+25	Tamanegi TV
+26	Sin Po TV
+27	DAAI TV
+28	TV9 Nusantara
+29	Tawaf TV
+30	TVMU
+31	Ryukent TV
+32	JAK-TV
+33	VTV
+34	RTV
