@@ -1,10 +1,10 @@
 LOCAL & INHOUSE
 
-1	PlayStation Video
-2	Rocket Chicken
+1	Girls2
+2	Channel List
 3	H!P
 4	Lejel Home Shopping
-5	MDTV
+5	TVOne
 6	Bali TV
 7	Metro TV
 8	TRANS 7
@@ -13,7 +13,7 @@ LOCAL & INHOUSE
 11	IVM
 12	BTV
 13	ANTV
-14	TVOne
+14	Rocket Chicken
 15	Kompas TV
 16	TVRI1
 17	JTV SBY
@@ -22,7 +22,7 @@ LOCAL & INHOUSE
 20	RCTI
 21	GTV
 22	MNC TV
-23	PassCode
+23	MDTV
 24	France 24 EN
 25	Escalator Mania JP
 26	Sin Po TV
