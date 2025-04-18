@@ -3,14 +3,14 @@ LOCAL & INHOUSE
 1	H!P
 2	Singkong TV
 3	Bali TV
-4	TRANS TV
-5	TRANS 7
-6	BTV
-7	SCTV
-8	Garuda TV
-9	IVM
+4	Lejel Home Shopping
+5	Damalang TV
+6	SCTV
+7	IVM
+8	TRANS 7
+9	TRANS TV
 10	ANTV
-11	Damalang TV
+11	BTV
 12	TVOne
 13	Metro TV
 14	Kompas TV
@@ -27,14 +27,14 @@ LOCAL & INHOUSE
 25	Tamanegi TV
 26	Sin Po TV
 27	DAAI TV
-28	TV9 Nusantara
+28	MomoClo Z
 29	Tawaf TV
-30	TVMU
+30	Village Channel
 31	Ryukent TV
 32	JAK-TV
 33	Bandung TV
 34	RTV
-35	Ayam Kampung TV
+35	Talas TV
 36	MOJI
 37	VTV
 38	Nusantara TV
@@ -42,4 +42,6 @@ LOCAL & INHOUSE
 40	Magna TV
 41	CNN Indonesia
 42	CNBC Indonesia
-43	Inspira TV
+43	TVMU
+44	TV9 Nusantara
+45	Garuda TV
