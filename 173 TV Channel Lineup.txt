@@ -1,6 +1,7 @@
 LOCAL & INHOUSE
 
-1	Channel Info
+0	Channel Info
+1	Channel Info HD
 2	GL2
 3	H!P
 4	Lejel Home Shopping
@@ -11,7 +12,7 @@ LOCAL & INHOUSE
 9	TRANS TV
 10	SCTV
 11	IVM
-12	Channel List
+12	RTV
 13	ANTV
 14	Rocket Chicken
 15	Kompas TV
@@ -23,7 +24,7 @@ LOCAL & INHOUSE
 21	GTV
 22	MNC TV
 23	MDTV
-24	France 24 EN
+24	Bandung TV
 25	Bali TV
 26	Sin Po TV
 27	DAAI TV
@@ -32,8 +33,8 @@ LOCAL & INHOUSE
 30	Euronews
 31	Ryukent TV
 32	JAK-TV
-33	Bandung TV
-34	RTV
+33	Balai Kota Jakarta
+34	Balai Kota Bandung
 35	Tawaf TV
 36	MOJI
 37	VTV
