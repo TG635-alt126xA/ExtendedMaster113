@@ -1,10 +1,10 @@
 LOCAL & INHOUSE
 
-1	TVRI2
-2	Singkong TV
+1	PlayStation Video
+2	Rocket Chicken
 3	H!P
 4	Lejel Home Shopping
-5	Damalang TV
+5	MDTV
 6	Bali TV
 7	Metro TV
 8	TRANS 7
@@ -21,20 +21,20 @@ LOCAL & INHOUSE
 19	BeritaSatu / IDTV
 20	RCTI
 21	GTV
-22	MNCTV
-23	MDTV
+22	MNC TV
+23	PassCode
 24	France 24 EN
 25	Escalator Mania JP
 26	Sin Po TV
 27	DAAI TV
-28	iNews
-29	Tawaf TV
-30	Garuda TV Surabaya / BBS TV
+28	AFN
+29	iNews
+30	Euronews
 31	Ryukent TV
 32	JAK-TV
 33	Bandung TV
 34	RTV
-35	Talas TV
+35	Tawaf TV
 36	MOJI
 37	VTV
 38	Nusantara TV
