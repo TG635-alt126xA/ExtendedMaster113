@@ -1,2 +1,5 @@
-Number,Name,Status
--,Purworejo,Partial
+Channel Type,Status
+SD Channels,Complete
+HD Channels,Partial
+4K Channels,Partial
+8K Channels,Reserved
