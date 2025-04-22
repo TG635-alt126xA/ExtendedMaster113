@@ -1,5 +1,23 @@
-Channel Type,Status
-SD Channels,Complete
-HD Channels,Partial
-4K Channels,Love Nature 4K only
-8K Channels,Reserved
+Channel Filter,Status
+Inhouse,Complete
+Movies,Partial
+Kids,Partial
+Religion,Partial
+Local,Partial
+Hello! Project,Empty
+Entertainment,Partial
+Elevators,Empty
+Knowledge,Partial
+Games,Empty
+Lifestyle,Partial
+Music,Partial
+Sports,Partial
+News,Partial
+International,Partial
+Oriental,Empty
+HD,Partial
+Radio,Partial
+2K,Empty
+4K,Partial
+8K,Empty
+Exclusives,Empty
