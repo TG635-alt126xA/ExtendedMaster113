@@ -1,28 +1,17 @@
-E000..E0FF; Evenihorizon5 Buildings
-E100..E1FF; Elevator1512 Buildings
-E200..E2FF; Escalatorgeek881 Buildings
-E300..E3FF; Mn10 Buildings
-E400..E4FF; M72 Buildings
-E500..E5FF; SouthKoreanElevators Buildings
-E600..E6FF; Sumosoftinc Buildings
-E700..E7FF; EGR1312 Buildings
-E800..E8FF; Skyscraper Simulator Showcase Buildings
-E900..E9FF; RandomUser Buildings
-EA00..EAFF; Elevator1209 Buildings
-EB00..EBFF; LF Buildings
-EC00..ECFF; HappyPizza64 Buildings
-ED00..EDFF; joao84704 Buildings
-EE00..EEFF; ElevatorMaster113 Buildings
-EF00..EFFF; Buildings-EF
-F000..F0FF; Buildings-F0
-F100..F1FF; Buildings-F1
-F200..F2FF; Buildings-F2
-F300..F3FF; Buildings-F3
-F400..F4FF; Buildings-F4
-F500..F5FF; Buildings-F5
-F600..F6FF; Buildings-F6
-F700..F7FF; Buildings-F7
-F800..F8FF; Buildings-F8
-F0000..F01FF; Buildings Supplement
+EE00..EEFF; B Universe Buildings
+EF00..EF7F; Microsoft Buildings
+EF80..EFFF; Private Use Area
+F000..F0FF; Reversed Buildings
+F100..F3FF; IRL Buildings-A
+F400..F4BF; Korean Buildings-A
+F4F0..F4FF; IRL Buildings-B
+F500..F5FF; Japanese Buildings-A
+F600..F6FF; IRL Buildings-C
+F700..F7FF; Kreative Buildings
+F800..F89F; Apple Buildings
+F0000..F02FF; IRL Buildings-D
+F0300..F04FF; Korean Buildings-B
+F0500..F05FF; Japanese Buildings-B
+F0600..F0E7F; IRL Buildings-E
 
 # EOF
