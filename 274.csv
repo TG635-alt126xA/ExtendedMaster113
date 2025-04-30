@@ -1,6 +1,6 @@
 Channel Number,Channel Name
 1,BTV
-2,BeritaSatu / IDTV
+2,BeritaSatu
 3,First Lifestyle
 5,MDTV
 7,Metro TV
@@ -101,7 +101,6 @@ Channel Number,Channel Name
 246,France 24 EN
 247,NHK World Premium
 251,ABC Australia
-254,Hello! Project Station
 258,RAI Italia
 260,TV5 Monde Asie
 283,Warner TV
@@ -138,7 +137,6 @@ Channel Number,Channel Name
 337,CinemaWorld HD
 338,ONE HD
 339,tvN HD
-340,Hello! Project Station HD
 341,NHK World Japan HD
 342,Animax HD
 343,tvN Movies HD
@@ -194,7 +192,7 @@ Channel Number,Channel Name
 416,SEA Today HD
 417,Kompas TV HD
 418,BTV HD
-419,BeritaSatu / IDTV HD
+419,BeritaSatu HD
 510,Catchplay - Preview
 601,Trijaya FM
 602,Delta FM
