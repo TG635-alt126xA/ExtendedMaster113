@@ -1,9 +1,6 @@
 LOCAL & INHOUSE
 
-0	Channel Info
-1	Channel Info HD
-2	GL2
-3	H!P
+1	Channel Info
 4	Lejel Home Shopping
 5	TVOne
 6	BTV
@@ -14,12 +11,11 @@ LOCAL & INHOUSE
 11	IVM
 12	RTV
 13	ANTV
-14	Rocket Chicken
 15	Kompas TV
 16	TVRI1
 17	JTV SBY
 18	SEA Today
-19	BeritaSatu / IDTV
+19	BeritaSatu
 20	RCTI
 21	GTV
 22	MNC TV
@@ -31,21 +27,13 @@ LOCAL & INHOUSE
 28	Euronews
 29	iNews
 30	TVMU
-31	Ryukent TV
 32	JAK-TV
 33	Rodja TV
 34	TBN Asia
 35	Tawaf TV
 36	MOJI
-37	VTV
 38	Nusantara TV
-39	BN TV
 40	Magna TV
-41	Banjarnegara TV
-42	Semut TV
-43	Kebumen TV
 44	TV9 Nusantara
 45	Garuda TV
-46	Kroya TV
-47	Satelit TV
 48	BMS TV
