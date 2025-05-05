@@ -2,12 +2,13 @@
 ## Terrestrial (in Indonesian)
 * Virtual: 17, 38 (melalui Magna Channel), 39 (melalui BN Channel di Makassar)
 ## Satellite/Cable/IPTV
-* Momusu Village Indonesia: 24 (HD)
+* Ryurey House: 11 (HD)
 * First Media: 45 (SD)
+* MNC Vision: 104 (SD)
 * Indihome: 111 (HD)
-* YasaiVision: 114 (HD)
-* MNC Vision: 117 (SD)
+* MyRepublic: 570 (HD)
 * Transvision: 824 (SD/HD)
 ## Internet
 * Vidio: [Click Here](https://www.vidio.com/live/18162-garuda-tv)
 * Wewatch: Click Here
+* Hello! Project: Click Here
