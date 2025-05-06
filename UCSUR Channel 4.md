@@ -1,0 +1,5 @@
+# Batamese
+UCSUR | Character Name
+-- | --
+F4F00 | BATAMESE LETTER K
+F4F01 | BATAMESE LETTER G
