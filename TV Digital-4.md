@@ -4,8 +4,9 @@
 ## Satellite/Cable/IPTV
 * Ryurey House: 11 (HD)
 * First Media: 45 (SD)
-* MNC Vision: 104 (SD)
+* MNC Vision: 79 (SD)
 * Indihome: 111 (HD)
+* K-Vision: 111 (SD)
 * MyRepublic: 570 (HD)
 * Transvision: 824 (SD/HD)
 ## Internet
