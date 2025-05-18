@@ -1,8 +1,8 @@
-# TV Digital-B
-* Indihome
-* First Media
-* Transvision
-# TV Digital-A
+# ???
+* Trans TV
+* Trans7
+* QWER
+# TV Digital
 * [TV Digital-1](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-1.md)
 * [TV Digital-2](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-2.md)
 * [TV Digital-3](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-3.md)
@@ -19,7 +19,7 @@ First|Last|Block|Status|Compatibility / Comments
 E000|E07F|Tengwar|Reserved|As defined in the UCSUR
 E080|E0FF|Cirth|Reserved|As defined in the UCSUR
 E100|E14F|Engsvanyali|Reserved|As defined in the UCSUR
-E150|E18F|Kinya|Reserved|As defined in the UCSUR
+E150|E1AF|Kinya|Reserved|As defined in the UCSUR
 E1B0|E1CF|Ilianore|Reserved|As defined in the UCSUR
 E1D0|E1FF|Syai|Reserved|As defined in the UCSUR
 E200|E26F|Verdurian|Reserved|As defined in the UCSUR
@@ -27,7 +27,7 @@ E270|E28F|aUI|Reserved|As defined in the UCSUR
 E290|E2CF|ARIB Compatibility|Reserved|As in Nishiki-Teki
 E300|E33F|Mizarian|Reserved|As defined in the UCSUR
 E340|E35F|Zirinka|Reserved|As defined in the UCSUR
-E360|E3AF|TATV Compatibility|Reserved|
+E360|E3AF|Hello Project Symbols|Reserved|Morning Musume
 E3B0|E3FF|Olaetyan|Reserved|As defined in the UCSUR
 E400|E42F|Biblos Compatibility|Reserved|E3B0 – E42F in Nishiki-Teki, compacted due to clash with Olaetyan
 E430|E4FF|Phonetic Extensions Appendix|Reserved|E900 – E9CF in Nishiki-Teki, relocated due to clash with Glaitha-A and Glaitha-B
@@ -37,7 +37,7 @@ E5C0|E5DF|Gargoyle|Reserved|As defined in the UCSUR
 E5E0|E5FF|Ophidian|Reserved|As defined in the UCSUR
 E630|E64F|Seussian Latin Extensions|Reserved|As defined in the UCSUR
 E650|E67F|Sylabica|Reserved|As defined in the UCSUR
-E680|E6CF|Ewellic|Reserved|As in Catrinity
+E680|E6CF|Ewellic|Reserved|As in Nishiki-Teki and Catrinity
 E6D0|E6EF|Amlin|Reserved|As defined in the UCSUR
 E6F0|E73F|Unifon Extended|Reserved|As defined in the UCSUR
 E740|E76F|Unifon|Reserved|As defined in the UCSUR
@@ -49,7 +49,7 @@ E890|E8DF|Aurebesh|Reserved|As defined in the UCSUR
 E8E0|E8FF|Tonal and Duodenal|Reserved|As in Nishiki-Teki and Catrinity, Tonal from UCSUR
 E900|E97F|Glaitha-A|Reserved|As defined in the UCSUR
 E980|E9DF|Glaitha-B|Reserved|As defined in the UCSUR
-E9E0|E9FF|Javanese Appendix|Reserved|
+E9E0|E9FF|Technical Symbols Appendix-B|Reserved|
 EA00|EACF|Latin Extended Appendix-A|Reserved|As in Nishiki-Teki and Catrinity
 EAD0|EAFF|MUFI Compatibility-B|Reserved|As in Nishiki-Teki and Catrinity
 EB00|EB3F|Orokin|Reserved|As defined in the UCSUR
@@ -81,11 +81,11 @@ F550|F57F|Mathematical Symbols Appendix|Reserved|As in Nishiki-Teki and Catrinit
 F580|F58F|Various Symbols-B|Reserved|As in Nishiki-Teki, replaces Geomantic Figures
 F590|F5FF|Various Symbols-A|Reserved|As in Nishiki-Teki and Catrinity, with some additions
 F600|F6FF|Geometric Shapes and Technical Symbols Appendix|Reserved|As in Nishiki-Teki and Catrinity
-F700|F7FF|Kreative Compatibility-A|Reserved|As in Nishiki-Teki and Catrinity
+F700|F7FF|Kreative Compatibility|Reserved|As in Nishiki-Teki and Catrinity
 F800|F87F|Apple Compatibility|Reserved|As in Nishiki-Teki and Catrinity
 F880|F89F|Technical Symbols Appendix-A|Reserved|As in Nishiki-Teki and Catrinity
 F8A0|F8CF|Aiha|Reserved|As defined in the UCSUR
-F8D0|F8FF|Klingon|Reserved|As defined in the UCSUR
+F8D0|F8FF|Klingon|Reserved|As defined in the UCSUR, plus Apple Logo
 ### Supplementary Private Use Area-A
 First|Last|Block|Status|Compatibility / Comments
 --|--|--|--|--
@@ -95,16 +95,17 @@ F0210|F02DF|Cardo Compatibility|Reserved|As in Nishiki-Teki and Catrinity
 F0300|F04FF|Control Pictures Appendix-A|Reserved|As in Catrinity, with some additions
 F0600|F08FF|Number Forms Appendix-A|Reserved|As in Nishiki-Teki and Catrinity, with some additions
 F0900|F09FF|Enclosed Alphanumerics Appendix-A|Reserved|As in Nishiki-Teki and Catrinity, with some additions
-F0A00|F0CFF|Enclosed CJK Letters Appendix|Reserved|As in Nishiki-Teki
+F0A00|F0CFF|Enclosed CJK Letters Appendix-A|Reserved|As in Nishiki-Teki
 F0D00|F0DFF|Partially Enclosed Alphanumerics|Reserved|As in Catrinity
 F0E70|F16AF|Pikto|Reserved|As defined in the UCSUR
 F16B0|F16DF|Derani|Reserved|As defined in the UCSUR
-F16E0|F16FF|Kreative Compatibility-B|Reserved|As in Constructium
 F1700|F18FF|Semtog|Reserved|As defined in the UCSUR
 F1900|F19FF|Sitelen Pona|Reserved|As defined in the UCSUR
+F1A00|F1AFF|Sitelen Pona Extended-A|Reserved|As defined in the UCSUR
 F1B00|F1C3F|Shidinn|Reserved|As defined in the UCSUR
 F1C40|F1C7F|Titi Pula|Reserved|As defined in the UCSUR
 F1C80|F1C9F|Sitelen Pona Radicals|Reserved|As defined in the UCSUR
+F1F00|F1FFF|Sitelen Pona Extended-B|Reserved|As defined in the UCSUR
 F2000|F267F|Sadalian|Reserved|As defined in the UCSUR
 F2680|F26AF|Quikscript|Reserved|As defined in the UCSUR
 F2700|F27FF|Hacm|Reserved|As defined in the UCSUR
