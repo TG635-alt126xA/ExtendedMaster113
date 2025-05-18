@@ -1,13 +1,17 @@
-# TV Kabel
-* First Media
+# TV Digital-B
 * Indihome
-# TV Digital
+* First Media
+* Transvision
+# TV Digital-A
 * [TV Digital-1](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-1.md)
 * [TV Digital-2](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-2.md)
 * [TV Digital-3](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-3.md)
 * [TV Digital-4](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-4.md)
 * [TV Digital-5](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-5.md)
-# EM113 Fonts
+* [TV Digital-6](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-6.md)
+* [TV Digital-7](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-7.md)
+* [TV Digital-8](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-8.md)
+# EM113 Yogyakarta Fonts
 ## Private Use Area Roadmap
 ### Private Use Area
 First|Last|Block|Status|Compatibility / Comments
@@ -23,6 +27,7 @@ E270|E28F|aUI|Reserved|As defined in the UCSUR
 E290|E2CF|ARIB Compatibility|Reserved|As in Nishiki-Teki
 E300|E33F|Mizarian|Reserved|As defined in the UCSUR
 E340|E35F|Zirinka|Reserved|As defined in the UCSUR
+E360|E3AF|TATV Compatibility|Reserved|
 E3B0|E3FF|Olaetyan|Reserved|As defined in the UCSUR
 E400|E42F|Biblos Compatibility|Reserved|E3B0 – E42F in Nishiki-Teki, compacted due to clash with Olaetyan
 E430|E4FF|Phonetic Extensions Appendix|Reserved|E900 – E9CF in Nishiki-Teki, relocated due to clash with Glaitha-A and Glaitha-B
@@ -44,7 +49,7 @@ E890|E8DF|Aurebesh|Reserved|As defined in the UCSUR
 E8E0|E8FF|Tonal and Duodenal|Reserved|As in Nishiki-Teki and Catrinity, Tonal from UCSUR
 E900|E97F|Glaitha-A|Reserved|As defined in the UCSUR
 E980|E9DF|Glaitha-B|Reserved|As defined in the UCSUR
-E9E0|E9FF|Devanagari Extended Appendix|Reserved|
+E9E0|E9FF|Javanese Appendix|Reserved|
 EA00|EACF|Latin Extended Appendix-A|Reserved|As in Nishiki-Teki and Catrinity
 EAD0|EAFF|MUFI Compatibility-B|Reserved|As in Nishiki-Teki and Catrinity
 EB00|EB3F|Orokin|Reserved|As defined in the UCSUR
@@ -110,8 +115,6 @@ F2900|F295F|Visible Speech Extended|Reserved|As defined in the UCSUR
 F5DB0|F5DFF|Ihatemysalf|Reserved|FF330 – FF37F in Kreative, relocated due to clash with Divine Symbols
 F5E00|F5FFF|Kamakawi|Reserved|F000 – F1FF in Kreative, relocated due to clash with MUFI-CYFI-SIL Compatibility from Nishiki-Teki
 F7C00|F7CFF|Kana Appendix-B|Reserved|As in Nishiki-Teki and Catrinity
-F8000|F83FF|Aymara|Reserved|As defined in the UCSUR
-F8400|F85FF|Paucartambo|Reserved|As defined in the UCSUR
 FA750|FA75F|Combining Strokes|Reserved|As in Catrinity
 FC000|FC04F|Chess Symbols Appendix-B|Reserved|As in Nishiki-Teki and Catrinity
 FC100|FC16F|Domino Tiles Appendix|Reserved|As in Nishiki-Teki and Catrinity
