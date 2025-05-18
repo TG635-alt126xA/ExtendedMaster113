@@ -51,7 +51,7 @@ EB00|EB3F|Orokin|Reserved|As defined in the UCSUR
 EB40|EB5F|Standard Galactic|Reserved|As defined in the UCSUR
 EB60|EB9F|Punctuation Appendix-A|Reserved|As in Catrinity, replaces Braille Extended
 EBA0|EBDF|Cistercian Numerals|Reserved|As defined in the UCSUR
-EBE0|EBEF|Runic Appendix|Reserved|As in Catrinity
+EBE0|EBFF|Runic Appendix|Reserved|As in Catrinity
 EC00|EC2F|Cylenian|Reserved|As defined in the UCSUR
 EC30|EC6F|Syrrin|Reserved|As defined in the UCSUR
 EC70|ECEF|Graflect|Reserved|As defined in the UCSUR
