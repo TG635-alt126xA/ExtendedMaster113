@@ -1,5 +1,10 @@
 # ???
+* SCTV
+* Indosiar
+* Garuda TV
 * Trans TV
+* BeritaSatu
+* BTV
 * Trans7
 * QWER
 # TV Digital
@@ -11,7 +16,7 @@
 * [TV Digital-6](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-6.md)
 * [TV Digital-7](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-7.md)
 * [TV Digital-8](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-8.md)
-# EM113 Yogyakarta Fonts
+# EM113 Main Fonts
 ## Private Use Area Roadmap
 ### Private Use Area
 First|Last|Block|Status|Compatibility / Comments
@@ -27,7 +32,6 @@ E270|E28F|aUI|Reserved|As defined in the UCSUR
 E290|E2CF|ARIB Compatibility|Reserved|As in Nishiki-Teki
 E300|E33F|Mizarian|Reserved|As defined in the UCSUR
 E340|E35F|Zirinka|Reserved|As defined in the UCSUR
-E360|E3AF|Hello Project Symbols|Reserved|Morning Musume
 E3B0|E3FF|Olaetyan|Reserved|As defined in the UCSUR
 E400|E42F|Biblos Compatibility|Reserved|E3B0 – E42F in Nishiki-Teki, compacted due to clash with Olaetyan
 E430|E4FF|Phonetic Extensions Appendix|Reserved|E900 – E9CF in Nishiki-Teki, relocated due to clash with Glaitha-A and Glaitha-B
@@ -60,7 +64,7 @@ EBE0|EBFF|Runic Appendix|Reserved|As in Catrinity
 EC00|EC2F|Cylenian|Reserved|As defined in the UCSUR
 EC30|EC6F|Syrrin|Reserved|As defined in the UCSUR
 EC70|ECEF|Graflect|Reserved|As defined in the UCSUR
-ECF0|ECFF|Punctuation Appendix-B|Reserved|
+ECF0|ECFF|Punctuation Appendix-B|Reserved|Phaistos Disc (Seperator (ECF0), Begining of Text (ECF1)), Medefaidrin (Question Mark (ECFF))
 ED00|ED3F|Deini|Reserved|As defined in the UCSUR
 ED40|ED7F|Niji|Reserved|As defined in the UCSUR
 ED80|EDAF|Iranic|Reserved|As defined in the UCSUR
@@ -142,6 +146,7 @@ FF380|FF3BF|Tahano Veno|Reserved|As in Kreative
 FF3C0|FF3FF|Aliphbepf|Reserved|As in Kreative
 FF400|FF51F|Voynich|Reserved|As in Kreative
 FF600|FF64F|Jurgenschmidht|Reserved|As in Kreative
+FF6B0|FF6DF|Carian Appendix|Reserved|
 FF700|FF7FF|Seven-Segment Display Patterns|Reserved|As in Kreative and Nishiki-Teki
 FF800|FF80F|PICO-8 Symbols|Reserved|As in Kreative
 FF810|FF81F|PICO-8 Number Forms|Reserved|As in Kreative
