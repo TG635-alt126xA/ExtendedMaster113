@@ -10,24 +10,25 @@
 # ???
 Number|Drop|Pengganti Sementara
 --|--|--
-16|Youka Girls|Girls²
-17|Aneruwik|Ewellic
+16|NET.|MDTV
+17|Pepsi|Coca-Cola
 18|Disney Junior|Nick Jr.
-19|Disney Channel|Nickelodeon
-20|Tamanegi|Shidinn
-21|Dek And Upin And Tamanegi|Medefaidrin
-22|C-ute|Morning Musume
-25|Singkong|Ihatemysalf
+19|Disney Channel|Kids TV
+20|Disney XD|Nickelodeon
+21|FX|ROCK Extreme (now ROCK Action)
+22|RCTI|PNV Channel
+25|Lenovo Lifts|KONE
 26|ANTV|Garuda TV
-27|tvOne|BeritaSatu
-28|RCTI|Daystar TV
+27|tvOne|IDTV (now BeritaSatu)
+28|FOX|HITS Now
 29|MNCTV|Nusantara TV
 30|GTV|BTV
 31|GEM|GTV
-32|Kabocha Musume|QWER
+32|Youka Girls|QWER
 34|RTV|Magna Channel
 35|Fox Life|RTV
 36|Nat Geo People|BN Channel
+37|TruTV|MNC News (now Sindonews TV)
 # EM113 Main Fonts
 ## Private Use Area Roadmap
 ### Private Use Area
