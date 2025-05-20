@@ -8,16 +8,60 @@
 * [TV Digital-7](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-7.md)
 * [TV Digital-8](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-8.md)
 # ???
-Number|Drop|Pengganti Sementara
---|--|--
-25|MNC Lifts|KONE
-26|ANTV|Garuda TV
-27|tvOne|BeritaSatu
-28|Dena Vardhiana|–
-29|Rima Oktaviana|–
-30|Reyvan Aprilian Vardhiana|Luigi
-31|Ryukent Altezza Vardhiana|Mario
-# EM113 Main Fonts
+* NET. (sekarang menjadi MDTV)
+* Bloomberg TV Indonesia (digabungkan ke Bloomberg Television)
+* Digdaya TV (sekarang menjadi Garuda TV)
+* MNC Lifts (digabungkan ke KONE)
+* Lenovo Lifts (digabungkan ke Diamond Lifts)
+* Pepsi (digabungkan ke Coca-Cola)
+* Kajitsu Channel
+* Yasai Channel
+* Nova Channel (digantikan oleh Sportstars 4)
+* S/mileage (sekarang menjadi ANGERME)
+* C-ute (digabungkan ke Morning Musume)
+* Prima Entertainment TV (digabungkan ke SCTV)
+* MD Entertainment TV (digabungkan ke MDTV)
+* EM113 TV 1 (sebelumnya bernama Kurea TV 1)
+* EM113 TV 2 (sebelumnya bernama Kurea TV 2)
+* EM113 TV 3 (sebelumnya bernama Disney XD Indonesia dan Kurea TV 3)
+* EM113 TV 4 (sebelumnya bernama AXN Beyond, Sony BeTV, Sony GEM, dan GEM)
+* EM113 News
+* EM113 World News (digabungkan ke EM113 News)
+* EM113 Historical
+* EM113 Entertainment
+* EM113 Music
+* EM113 Shop (digantikan oleh QWER)
+* EM113 Muslim (digabungkan ke Al Quran Al Kareem)
+* EM113 Business
+* EM113 Prime
+* EM113 Live
+* EM113 Fried Chicken (digabungkan ke Rocket Chicken)
+* EM113 Mineral Water (digabungkan ke Vit)
+* EM113 Baby
+* EM113 Kids
+* EM113 Sports 1
+* EM113 Sports 2
+* EM113 Sports 3
+* EM113 Sports 4
+* EM113 Sports 5
+* EM113 Football 1
+* EM113 Football 2
+* EM113 Football 3
+* EM113 Infotainment
+* EM113 Lifestyle
+* EM113 Food Travel (digabungkan ke EM113 Lifestyle)
+* EM113 Home Living (digabungkan ke EM113 Lifestyle)
+* EM113 Lemonade (digabungkan ke Ramune)
+* EM113 Lifts
+* EM113 Escalators
+* EM113 Chinese Dictionary (digabungkan ke Zihuzhe)
+* EM113 Japanese Dictionary (digabungkan ke EM113 Nihongo)
+* EM113 Nihongo
+* EM113 Core Fonts
+* EM113 Main Fonts
+* Ryukent TV
+* Tamanegi TV
+# EM113 Core Fonts
 ## Private Use Area Roadmap
 ### Private Use Area
 First|Last|Block|Status|Compatibility / Comments
