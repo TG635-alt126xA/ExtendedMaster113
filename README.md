@@ -1,33 +1,3 @@
-# ???
-* Trans TV (Premium)
-* Trans7 (Premium)
-* Tamanegi TV
-* EM113 TV
-* SCTV
-* Indosiar
-* tvOne
-* Kompas TV
-* ANTV
-* BeritaSatu (formerly IDTV)
-* Metro TV
-* Nusantara TV
-* BN Channel (removed in 2025-01-01)
-* TVMU (added in 2025-01-01)
-* Garuda TV
-* MDTV
-* RTV
-* TVRI
-* BTV
-* Jak TV
-* DAAI TV
-* CNN Indonesia
-* CNBC Indonesia
-* Moji
-* VTV
-* jawaposTV
-* JTV
-* Elshinta TV
-* Magna Channel
 # TV Digital
 * [TV Digital-1](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-1.md)
 * [TV Digital-2](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-2.md)
@@ -37,6 +7,27 @@
 * [TV Digital-6](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-6.md)
 * [TV Digital-7](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-7.md)
 * [TV Digital-8](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-8.md)
+# ???
+Number|Drop|Pengganti Sementara
+--|--|--
+16|Youka Girls|Girls²
+17|Aneruwik|Ewellic
+18|Disney Junior|Nick Jr.
+19|Disney Channel|Nickelodeon
+20|Tamanegi|Shidinn
+21|Dek And Upin And Tamanegi|Medefaidrin
+22|C-ute|Morning Musume
+25|Singkong|Ihatemysalf
+26|ANTV|Garuda TV
+27|tvOne|BeritaSatu
+28|RCTI|Daystar TV
+29|MNCTV|Nusantara TV
+30|GTV|BTV
+31|GEM|GTV
+32|Kabocha Musume|QWER
+34|RTV|Magna Channel
+35|Fox Life|RTV
+36|Nat Geo People|BN Channel
 # EM113 Main Fonts
 ## Private Use Area Roadmap
 ### Private Use Area
@@ -51,6 +42,7 @@ E1D0|E1FF|Syai|Reserved|As defined in the UCSUR
 E200|E26F|Verdurian|Reserved|As defined in the UCSUR
 E270|E28F|aUI|Reserved|As defined in the UCSUR
 E290|E2CF|ARIB Compatibility|Reserved|As in Nishiki-Teki
+E2D0|E2FF|Xaini|Reserved|As defined in the UCSUR
 E300|E33F|Mizarian|Reserved|As defined in the UCSUR
 E340|E35F|Zirinka|Reserved|As defined in the UCSUR
 E3B0|E3FF|Olaetyan|Reserved|As defined in the UCSUR
