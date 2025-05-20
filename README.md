@@ -1,12 +1,33 @@
 # ???
+* Trans TV (Premium)
+* Trans7 (Premium)
+* Tamanegi TV
+* EM113 TV
 * SCTV
 * Indosiar
+* tvOne
+* Kompas TV
+* ANTV
+* BeritaSatu (formerly IDTV)
+* Metro TV
+* Nusantara TV
+* BN Channel (removed in 2025-01-01)
+* TVMU (added in 2025-01-01)
 * Garuda TV
-* Trans TV
-* BeritaSatu
+* MDTV
+* RTV
+* TVRI
 * BTV
-* Trans7
-* QWER
+* Jak TV
+* DAAI TV
+* CNN Indonesia
+* CNBC Indonesia
+* Moji
+* VTV
+* jawaposTV
+* JTV
+* Elshinta TV
+* Magna Channel
 # TV Digital
 * [TV Digital-1](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-1.md)
 * [TV Digital-2](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-2.md)
@@ -53,7 +74,7 @@ E890|E8DF|Aurebesh|Reserved|As defined in the UCSUR
 E8E0|E8FF|Tonal and Duodenal|Reserved|As in Nishiki-Teki and Catrinity, Tonal from UCSUR
 E900|E97F|Glaitha-A|Reserved|As defined in the UCSUR
 E980|E9DF|Glaitha-B|Reserved|As defined in the UCSUR
-E9E0|E9FF|Technical Symbols Appendix-B|Reserved|
+E9E0|E9FF|Hangul Jamo Appendix|Reserved|
 EA00|EACF|Latin Extended Appendix-A|Reserved|As in Nishiki-Teki and Catrinity
 EAD0|EAFF|MUFI Compatibility-B|Reserved|As in Nishiki-Teki and Catrinity
 EB00|EB3F|Orokin|Reserved|As defined in the UCSUR
@@ -146,7 +167,6 @@ FF380|FF3BF|Tahano Veno|Reserved|As in Kreative
 FF3C0|FF3FF|Aliphbepf|Reserved|As in Kreative
 FF400|FF51F|Voynich|Reserved|As in Kreative
 FF600|FF64F|Jurgenschmidht|Reserved|As in Kreative
-FF6B0|FF6DF|Carian Appendix|Reserved|
 FF700|FF7FF|Seven-Segment Display Patterns|Reserved|As in Kreative and Nishiki-Teki
 FF800|FF80F|PICO-8 Symbols|Reserved|As in Kreative
 FF810|FF81F|PICO-8 Number Forms|Reserved|As in Kreative
@@ -160,6 +180,8 @@ First|Last|Block|Status|Compatibility / Comments
 --|--|--|--|--
 100000|1001FF|Control Pictures Appendix-B|Reserved|As in Nishiki-Teki and Catrinity
 100200|1004FF|Custom Emoji|Reserved|As in Catrinity, with some additions
+100500|1005FF|Japanese TV Logos|Reserved|
+100600|1006FF|Indonesian TV Logos|Reserved|
 100D00|100F5F|Alphabetic Presentation Forms Appendix-B|Reserved|As in Catrinity, with some additions
 100F60|100FFF|Code Value Presentation Glyphs|Reserved|As in Nishiki-Teki and Catrinity
 101000|1012FF|Arabic Presentation Forms Appendix-A|Reserved|As in Catrinity
