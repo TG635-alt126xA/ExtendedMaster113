@@ -10,25 +10,13 @@
 # ???
 Number|Drop|Pengganti Sementara
 --|--|--
-16|NET.|MDTV
-17|Pepsi|Coca-Cola
-18|Disney Junior|Nick Jr.
-19|Disney Channel|Kids TV
-20|Disney XD|Nickelodeon
-21|FX|ROCK Extreme (now ROCK Action)
-22|RCTI|PNV Channel
-25|Lenovo Lifts|KONE
+25|MNC Lifts|KONE
 26|ANTV|Garuda TV
-27|tvOne|IDTV (now BeritaSatu)
-28|FOX|HITS Now
-29|MNCTV|Nusantara TV
-30|GTV|BTV
-31|GEM|GTV
-32|Youka Girls|QWER
-34|RTV|Magna Channel
-35|Fox Life|RTV
-36|Nat Geo People|BN Channel
-37|TruTV|MNC News (now Sindonews TV)
+27|tvOne|BeritaSatu
+28|Dena Vardhiana|–
+29|Rima Oktaviana|–
+30|Reyvan Aprilian Vardhiana|Luigi
+31|Ryukent Altezza Vardhiana|Mario
 # EM113 Main Fonts
 ## Private Use Area Roadmap
 ### Private Use Area
