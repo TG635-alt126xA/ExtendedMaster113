@@ -8,12 +8,13 @@
 * [TV Digital-7](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-7.md)
 * [TV Digital-8](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-8.md)
 # ???
-* EM113 TV (sebelumnya bernama Youka Girls dan Kurea TV)
-  * EM113 TV 1
-  * EM113 TV 2
-  * EM113 TV 3
-* EM113 Lifts
-* EM113 Fonts
+* PT Damalang Citra Televisi Indonesia (EM113 TV 1) (sebelumnya bernama DCTI)
+* PT Kurea Masuda Televisi Indonesia (EM113 TV 2) (sebelumnya bernama Youka Girls dan Kurea TV)
+* PT Disney XD Indonesia (EM113 TV 3) (sebelumnya bernama Disney XD Indonesia)
+* PT EM113 Televisi Indonesia (EM113 TV 4)
+* PT Jeruklegi Software Media (EM113 Software)
+* PT Jeruklegi Software Fonts (EM113 Fonts)
+* Berryz Kobo Elevators Ltd. (EM113 Lifts) (sebelumnya bernama Berryz Kobo Elevators)
 # EM113 Core Fonts
 ## Private Use Area Roadmap
 ### Private Use Area
