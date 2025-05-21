@@ -1,19 +1,11 @@
-# TV Digital
-* [TV Digital-1](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-1.md)
-* [TV Digital-2](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-2.md)
-* [TV Digital-3](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-3.md)
-* [TV Digital-4](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-4.md)
-* [TV Digital-5](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-5.md)
-* [TV Digital-6](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-6.md)
-* [TV Digital-7](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-7.md)
-* [TV Digital-8](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-8.md)
-# ???
-* PT Damalang Citra Televisi Indonesia (EM113 TV 1) (sebelumnya bernama DCTI)
-* PT Kurea Masuda Televisi Indonesia (EM113 TV 2) (sebelumnya bernama Youka Girls dan Kurea TV)
-* PT Disney XD Indonesia (EM113 TV 3) (sebelumnya bernama Disney XD Indonesia)
-* PT EM113 Televisi Indonesia (EM113 TV 4)
+# EM113 Corporation Ltd.
+* EM113 Media Ltd. (EM113 Media)
+  * PT Damalang Citra Televisi Indonesia (DCTI)
+  * PT EM113 Televisi Indonesia (EM113 TV) (sebelumnya bernama Youka Girls dan Korea TV)
+  * PT Ryurey House Televisi (Ryurey House TV)
+  * PT EM113 Televisi Network (iNews) (dijual ke iNews Media Group)
 * PT Jeruklegi Software Media (EM113 Software)
-* PT Jeruklegi Software Fonts (EM113 Fonts)
+  * PT Jeruklegi Software Fonts (EM113 Fonts)
 * Berryz Kobo Elevators Ltd. (EM113 Lifts) (sebelumnya bernama Berryz Kobo Elevators)
 # EM113 Core Fonts
 ## Private Use Area Roadmap
@@ -166,4 +158,13 @@ First|Last|Block|Status|Compatibility / Comments
 101400|1014FF|Mirrored Glyphs|Reserved|As in Catrinity
 10F800|10F9FF|Glyph Components|Reserved|As in Catrinity
 10FF10|10FF2F|Visual Font Metrics|Reserved|As in Nishiki-Teki and Catrinity
+# TV Digital
+* [TV Digital-1](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-1.md)
+* [TV Digital-2](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-2.md)
+* [TV Digital-3](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-3.md)
+* [TV Digital-4](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-4.md)
+* [TV Digital-5](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-5.md)
+* [TV Digital-6](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-6.md)
+* [TV Digital-7](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-7.md)
+* [TV Digital-8](https://github.com/TG635-alt126xA/ExtendedMaster113/blob/main/TV%20Digital-8.md)
 # [Wiki](https://github.com/TG635-alt126xA/ExtendedMaster113/wiki/)
