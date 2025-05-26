@@ -20,6 +20,7 @@ STANDARD (SD)
 18	TVR Parlemen
 19	Jakarta Globe
 21	Reformed 21
+22	Magna TV
 23	Kairos
 24	SPH Channel
 25	LIMA / Liga Mahasiswa
@@ -27,14 +28,11 @@ STANDARD (SD)
 27	DAAI TV
 29	EWTN
 30	Karaoke Channel
+32	Morning Musume
 33	Balai Kota Jakarta
 34	Balai Kota Bandung
 35	RTV
-36	RYUKENT
 37	Sindonews TV
-39	Morning Musume
-40	Magna TV
-43	ANGERME
 44	TV9 Nusantara
 45	Garuda TV
 47	Quran TV
@@ -44,13 +42,14 @@ STANDARD (SD)
 52	Animax
 53	GTV
 57	ROCK Action
-59	imase
+58	imase
 60	Euronews
 61	TBN Asia
 62	JAK-TV
 65	iNews
+66	ANGERME
 72	TLC
-75	QWER
+75	Kagome
 76	AFN
 80	IMC
 81	Fashion TV
@@ -113,6 +112,7 @@ STANDARD (SD)
 246	France 24 EN
 247	NHK World Premium
 251	ABC Australia
+254	QWER
 258	RAI Italia
 260	TV5 Monde Asie
 283	Warner TV
@@ -128,7 +128,6 @@ HIGH DEFINITION (HDTV)
 301	First Highlights
 302	Jakarta Globe
 303	First Lifestyle
-304	QWER
 305	HBO
 306	HBO Hits
 307	HBO Family
@@ -153,6 +152,7 @@ HIGH DEFINITION (HDTV)
 337	CinemaWorld
 338	ONE
 339	tvN
+340	QWER
 341	NHK World Japan
 342	Animax
 343	tvN Movies
@@ -227,8 +227,8 @@ OTHERS
 
 510	Catchplay - Preview
 700	Love Nature UHD*
-777	QWER UHD*
 900	First Highlights
+997	QWER UHD*
 999	First Warriors HD
 
 *) Channels cannot be displayed on HDTV set-top box (audio only)
