@@ -5,7 +5,7 @@ STANDARD (SD)
 3	First Lifestyle
 4	CNN Indonesia
 5	MDTV
-6	Nusantara TV / Magna TV
+6	Nusantara TV
 7	Metro TV
 8	TRANS 7
 9	TRANS TV
@@ -30,10 +30,10 @@ STANDARD (SD)
 33	Balai Kota Jakarta
 34	Balai Kota Bandung
 35	RTV
-36	Rosy Chronicle
+36	RYUKENT
 37	Sindonews TV
 39	Morning Musume
-40	OCHA NORMA
+40	Magna TV
 43	ANGERME
 44	TV9 Nusantara
 45	Garuda TV
@@ -44,13 +44,13 @@ STANDARD (SD)
 52	Animax
 53	GTV
 57	ROCK Action
-59	QWER
+59	imase
 60	Euronews
 61	TBN Asia
 62	JAK-TV
 65	iNews
 72	TLC
-75	imase
+75	QWER
 76	AFN
 80	IMC
 81	Fashion TV
@@ -128,6 +128,7 @@ HIGH DEFINITION (HDTV)
 301	First Highlights
 302	Jakarta Globe
 303	First Lifestyle
+304	QWER
 305	HBO
 306	HBO Hits
 307	HBO Family
@@ -226,10 +227,8 @@ OTHERS
 
 510	Catchplay - Preview
 700	Love Nature UHD*
+777	QWER UHD*
 900	First Highlights
-995	Juice=Juice
-996	Tsubaki Factory
-997	BEYOOOOONDS
 999	First Warriors HD
 
 *) Channels cannot be displayed on HDTV set-top box (audio only)
