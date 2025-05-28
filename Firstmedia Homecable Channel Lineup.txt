@@ -13,7 +13,7 @@ STANDARD (SD)
 11	IVM
 12	CNBC Indonesia
 13	ANTV
-14	ZH5000.net
+14	SinemArt
 15	Kompas TV
 16	TVRI1
 17	JTV SBY
@@ -32,6 +32,9 @@ STANDARD (SD)
 35	RTV
 37	Sindonews TV
 38	MNC TV
+39	Girls2
+40	GaruGaru Ch.
+43	Lucky2
 44	TV9 Nusantara
 45	Garuda TV
 46	RCTI
@@ -154,7 +157,6 @@ HIGH DEFINITION (HDTV)
 342	Animax
 343	tvN Movies
 347	DMAX
-348	imase
 349	Crime Investigation
 350	TV5 Monde Asie
 351	AFN
