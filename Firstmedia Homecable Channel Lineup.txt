@@ -13,14 +13,14 @@ STANDARD (SD)
 11	IVM
 12	CNBC Indonesia
 13	ANTV
-14	TVOne
+14	OMAKE CHANNEL
 15	Kompas TV
 16	TVRI1
 17	JTV SBY
 18	TVR Parlemen
 19	Jakarta Globe
 21	Reformed 21
-22	Magna TV
+22	BEYOOOOONDS
 23	Kairos
 24	SPH Channel
 25	LIMA / Liga Mahasiswa
@@ -33,6 +33,9 @@ STANDARD (SD)
 34	Balai Kota Bandung
 35	RTV
 37	Sindonews TV
+39	TVMU
+40	KONE
+43	EM113 TV
 44	TV9 Nusantara
 45	Garuda TV
 47	Quran TV
@@ -46,13 +49,16 @@ STANDARD (SD)
 60	Euronews
 61	TBN Asia
 62	JAK-TV
+63	TVOne
+64	ANGERME
 65	iNews
-66	ANGERME
+66	Juice=Juice
 72	TLC
-75	Kagome
+75	Tsubaki Factory
 76	AFN
 80	IMC
 81	Fashion TV
+82	KAGOME
 85	First Faith
 86	GMS Channel
 101	Discovery
@@ -112,7 +118,6 @@ STANDARD (SD)
 246	France 24 EN
 247	NHK World Premium
 251	ABC Australia
-254	QWER
 258	RAI Italia
 260	TV5 Monde Asie
 283	Warner TV
@@ -147,16 +152,19 @@ HIGH DEFINITION (HDTV)
 329	SPOTV
 330	SPOTV 2
 332	AXN
+334	QWER
 335	ROCK Ent.
 336	KIX
 337	CinemaWorld
 338	ONE
 339	tvN
-340	QWER
 341	NHK World Japan
 342	Animax
 343	tvN Movies
+344	JKT48
+345	AKB48
 347	DMAX
+348	OCHA NORMA
 349	Crime Investigation
 350	TV5 Monde Asie
 351	AFN
@@ -213,6 +221,19 @@ HIGH DEFINITION (HDTV)
 417	Kompas TV
 418	BTV
 419	BeritaSatu
+420	Rosy Chronicle
+421	ANTV
+422	TVOne
+423	MOJI
+424	Mentari TV
+427	VTV
+428	Nusantara TV
+429	iNews
+430	TVMU
+431	Satellite 1
+432	Satellite 2
+433	Satellite 3
+434	RTV
 
 RADIO
 
@@ -227,10 +248,10 @@ OTHERS
 
 510	Catchplay - Preview
 700	Love Nature UHD*
+777	QWER UHD*
 900	First Highlights
-997	QWER UHD*
 999	First Warriors HD
 
 *) Channels cannot be displayed on HDTV set-top box (audio only)
 
-UPDATED:	???
+UPDATED:	2025
