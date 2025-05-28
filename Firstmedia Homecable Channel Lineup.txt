@@ -5,7 +5,7 @@ STANDARD (SD)
 3	First Lifestyle
 4	CNN Indonesia
 5	MDTV
-6	Nusantara TV
+6	Nusantara TV / Magna TV
 7	Metro TV
 8	TRANS 7
 9	TRANS TV
@@ -32,9 +32,6 @@ STANDARD (SD)
 35	RTV
 37	Sindonews TV
 38	MNC TV
-39	Girls2
-40	GaruGaru Ch.
-43	Lucky2
 44	TV9 Nusantara
 45	Garuda TV
 46	RCTI
@@ -129,6 +126,7 @@ HIGH DEFINITION (HDTV)
 301	First Highlights
 302	Jakarta Globe
 303	First Lifestyle
+304	SinemArt
 305	HBO
 306	HBO Hits
 307	HBO Family
@@ -145,6 +143,7 @@ HIGH DEFINITION (HDTV)
 325	HITS Movies
 326	HITS
 327	First Football / SCTV
+328	Nusantara TV / Magna TV
 329	SPOTV
 330	SPOTV 2
 332	AXN
