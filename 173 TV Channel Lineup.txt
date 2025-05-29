@@ -1,21 +1,53 @@
-LOCAL & INHOUSE
+SDTV
 
-1	CNN Indonesia
-2	Nusantara TV
-3	TVOne
-4	imase
-5	Garuda TV
-6	KAGOME
-7	MDTV HD
-8	TRANS 7
-9	TRANS TV
-10	ANTV
-11	CNBC Indonesia
-13	Metro TV
-14	Kompas TV
-15	BTV
+1	Ryukent TV
+2	Reyvan TV
+3	Jak TV
+4	CNN Indonesia
+6	BTV
+7	Metro TV
+8	ANTV
+9	TRANS 7
+10	KAGOME
+11	Vit
+12	MDTV
+13	SCTV
+14	Indosiar
+15	Kompas TV
 16	TVRI1
-51	BeritaSatu
-58	Channel Info
+17	BeritaSatu
+19	JTV
+20	TRANS TV
+21	Reformed 21
+22	Bali TV
+23	SEA Today
+24	Elshinta TV
+26	MOJI
+27	DAAI TV
+29	EWTN
+30	TVMU
+31	Uyut TV
+32	Meninggal TV
+33	Buang Sampah TV
+34	RTV
+38	Nusantara TV
+39	iNews
+43	TVOne
+44	Jarawat TV
+45	Garuda TV
+117	Nick Jr
+119	Cartoonito
+120	Cartoon Network
+122	Zoomoo
+124	Dreamworks
+126	Mentari TV
+127	VTV
+129	Nick
+134	Belatung TV
+135	Talas TV
+136	Satellite_01 / TRG Lifts
+137	Channel Jowo
 
-Channels from Channel 4/5 (GaruGaku & Aprilian Reyvan Channel) & Channel 12 (MYTV) stopped broadcasting on '22-'23 due to internal corporate issues (mainly crisis hit)
+OTHERS
+
+999	imase HD
