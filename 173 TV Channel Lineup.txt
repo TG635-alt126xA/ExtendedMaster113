@@ -1,33 +1,43 @@
-LOCAL
+LOCAL & INHOUSE
 
-97	Morning Musume
-98	Chicken Crush
-99	TVRI1
+85	OCHA NORMA
+86	Nogizaka46
+87	SEA Today
+90	KAGOME
+91	Vit
+92	GTV
+93	SCTV
+94	RCTI
+95	TRANS TV
+96	Gosip TV
+97	Metro TV
+98	ANGERME
+99	Morning Musume
 100	Nusantara TV
-101	ANGERME
-102	KAGOME
-103	TVOne
-104	TRANS TV
-105	TRANS 7
-106	RCTI
-107	SCTV
+101	BN Channel
+102	CNN Indonesia
+103	imase
+104	Juice=Juice
+105	BEYOOOOONDS
+106	Lejel Home Shopping
+107	Tsubaki Factory
 108	ANTV
 109	IVM
-110	GTV
+110	TRANS 7
 111	Garuda TV
-112	MDTV
-113	Metro TV
+112	CNBC Indonesia
+113	Rosy Chronicle
 114	Kompas TV
 115	BTV
 116	JAK-TV
-117	Tauco TV
-118	RTV
+117	Channel Jowo
+118	TVRI1
 119	Bali TV
 120	DAAI TV
 121	Reformed 21
 123	JTV SBY
 124	Elshinta TV
-125	iNews
+125	MDTV
 126	MOJI
 127	VTV
 128	Daystar TV
@@ -36,9 +46,17 @@ LOCAL
 131	Tawaf TV
 133	JKT48
 134	AKB48
+135	RTV
+136	Mentari TV
 137	Sindonews TV
 138	MNC TV
-145	BeritaSatu
+139	BeritaSatu
+140	Magna TV
+141	Kroya TV
+142	Rodja TV
+143	TVOne
+144	TV9 Nusantara
+145	iNews
 147	Quran TV
 148	Sunna TV
 
