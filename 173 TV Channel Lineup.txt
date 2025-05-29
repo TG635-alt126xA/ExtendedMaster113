@@ -1,53 +1,51 @@
-SDTV
+LOCAL
 
-1	Ryukent TV
-2	Reyvan TV
-3	Jak TV
-4	CNN Indonesia
-6	BTV
-7	Metro TV
-8	ANTV
-9	TRANS 7
-10	KAGOME
-11	Vit
-12	MDTV
-13	SCTV
-14	Indosiar
-15	Kompas TV
-16	TVRI1
-17	BeritaSatu
-19	JTV
-20	TRANS TV
-21	Reformed 21
-22	Bali TV
-23	SEA Today
-24	Elshinta TV
-26	MOJI
-27	DAAI TV
-29	EWTN
-30	TVMU
-31	Uyut TV
-32	Meninggal TV
-33	Buang Sampah TV
-34	RTV
-38	Nusantara TV
-39	iNews
-43	TVOne
-44	Jarawat TV
-45	Garuda TV
-117	Nick Jr
-119	Cartoonito
-120	Cartoon Network
-122	Zoomoo
-124	Dreamworks
-126	Mentari TV
-127	VTV
-129	Nick
-134	Belatung TV
-135	Talas TV
-136	Satellite_01 / TRG Lifts
-137	Channel Jowo
+100	TRANS TV
+101	TRANS 7
+102	Basuri TV
+103	TVOne
+104	RCTI
+105	MNC TV
+106	GTV
+107	SCTV
+108	ANTV
+109	IVM
+110	Chitato TV
+111	Garuda TV
+112	RTV
+113	Metro TV
+114	Kompas TV
+115	BTV
+116	TVRI1
+117	Teriak-Teriak TV
+118	JAK-TV
+119	BeritaSatu
+120	MDTV
+121	Reformed 21
+122	Momusu
+123	JTV SBY
+124	Elshinta TV
+125	Perfume
+127	DAAI TV
+128	Daystar TV
+129	EWTN
+130	TVMU
+131	ANGERME
+133	JKT48
+134	AKB48
+135	MOJI
+136	Mentari TV
+137	VTV
+138	Nusantara TV
+139	BN Channel
+140	Magna TV
+141	Bali TV
+142	Rodja TV
+143	Quran TV
+144	Sunna TV
+145	iNews
 
 OTHERS
 
+777	Satellite_01 / TRG Lifts
 999	imase HD
