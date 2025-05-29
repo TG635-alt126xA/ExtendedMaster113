@@ -1,3 +1,21 @@
 LOCAL & INHOUSE
 
-1	Channel Info
+1	CNN Indonesia
+2	Nusantara TV
+3	TVOne
+4	imase
+5	Garuda TV
+6	KAGOME
+7	MDTV HD
+8	TRANS 7
+9	TRANS TV
+10	ANTV
+11	CNBC Indonesia
+13	Metro TV
+14	Kompas TV
+15	BTV
+16	TVRI1
+51	BeritaSatu
+58	Channel Info
+
+Channels from Channel 4/5 (GaruGaku & Aprilian Reyvan Channel) & Channel 12 (MYTV) stopped broadcasting on '22-'23 due to internal corporate issues (mainly crisis hit)
