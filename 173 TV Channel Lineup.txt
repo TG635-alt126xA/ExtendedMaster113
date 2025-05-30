@@ -54,7 +54,7 @@ STANDARD (SD)
 63	TVOne
 64	iNews
 65	TRANS 7
-66	EM113 District Medan
+66	imase
 
 OTHERS
 
