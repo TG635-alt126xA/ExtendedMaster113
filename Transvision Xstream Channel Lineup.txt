@@ -42,15 +42,7 @@ ENTERTAINMENT
 
 LOCAL & INHOUSE
 
-434	AKB48
-435	KAGOME
-436	Morning Musume
-444	Vit
-445	AOKA
-446	Hello! Project
-447	Inori Minase
-458	ANGERME
-459	Haruka Tomatsu
+444	Hello! Project
 470	Tamanegi TV
 471	Nusantara TV
 473	JKT48 TV
