@@ -40,6 +40,23 @@ ENTERTAINMENT
 391	TV5 Monde Asie
 395	One TV
 
+LOCAL & INHOUSE
+
+434	AKB48
+435	KAGOME
+436	Morning Musume
+444	Vit
+445	AOKA
+446	Hello! Project
+447	Inori Minase
+458	ANGERME
+459	Haruka Tomatsu
+470	Tamanegi TV
+471	Nusantara TV
+473	JKT48 TV
+474	Katamso TV
+475	iNews
+
 LIFESTYLE & MUSIC
 
 500	Travel TV
@@ -95,6 +112,7 @@ LOCAL
 817	MNC TV
 818	TVRI1
 820	JTV SBY
+822	MOJI
 823	BeritaSatu HD
 824	Garuda TV HD
 
@@ -117,5 +135,6 @@ Transvision Xstream using adaptive bitrate, so it may takes time to be able to d
 *) Available for catch-up within 7D
 
 Channels from VIVA group (ANTV & TVOne) stopped broadcasting on last April '25 due to internal corporate issues (mainly crisis hit)
+BN Channel (channel 472) stopped broadcasting on first May '25 due to internal corporate issues (mainly crisis hit)
 
-UPDATED:	MAY 2025
+UPDATED:	2025
