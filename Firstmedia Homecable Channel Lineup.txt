@@ -31,10 +31,8 @@ STANDARD (SD)
 34	Balai Kota Bandung
 35	RTV
 37	Sindonews TV
-38	MNC TV
 44	TV9 Nusantara
 45	Garuda TV
-46	RCTI
 47	Quran TV
 48	Sunna TV
 50	West Java Network
