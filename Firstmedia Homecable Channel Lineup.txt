@@ -13,14 +13,14 @@ STANDARD (SD)
 11	IVM
 12	CNBC Indonesia
 13	ANTV
-14	Momoiro Clover Z
+14	TVOne
 15	Kompas TV
 16	TVRI1
 17	JTV SBY
 18	TVR Parlemen
 19	Jakarta Globe
 21	Reformed 21
-22	Hello! Project
+22	Magna TV
 23	Kairos
 24	SPH Channel
 25	LIMA / Liga Mahasiswa
@@ -28,29 +28,43 @@ STANDARD (SD)
 27	DAAI TV
 29	EWTN
 30	Karaoke Channel
+31	Morning Musume
+32	IS:SUE
 33	Balai Kota Jakarta
 34	Balai Kota Bandung
 35	RTV
+36	Mentari TV
 37	Sindonews TV
+38	MNC TV
+39	QWER
+40	Juice=Juice
+43	ME:I
 44	TV9 Nusantara
 45	Garuda TV
+46	Kids TV
 47	Quran TV
 48	Sunna TV
+49	Tsubaki Factory
 50	West Java Network
 51	AXN
 52	Animax
 53	GTV
 57	ROCK Action
+58	OCHA NORMA
+59	Rosy Chronicle
 60	Euronews
 61	TBN Asia
 62	JAK-TV
-63	TVOne
-64	OMAKE CHANNEL
+63	VTV
+64	BEYOOOOONDS
 65	iNews
+66	OMAKE CHANNEL
 72	TLC
+75	ANGERME
 76	AFN
 80	IMC
 81	Fashion TV
+82	Momoiro Clover Z
 85	First Faith
 86	GMS Channel
 101	Discovery
@@ -87,6 +101,7 @@ STANDARD (SD)
 210	CGTN
 211	TVBS Asia
 212	TVBS News
+213	Hello! Project
 214	Hunan TV
 215	Dragon TV
 216	Jiangsu TV
