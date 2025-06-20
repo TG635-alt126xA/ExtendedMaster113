@@ -5,7 +5,7 @@ STANDARD (SD)
 3	First Lifestyle
 4	CNN Indonesia
 5	MDTV
-6	Hello! Project
+6	Nusantara TV
 7	Metro TV
 8	TRANS 7
 9	TRANS TV
@@ -13,13 +13,14 @@ STANDARD (SD)
 11	IVM
 12	CNBC Indonesia
 13	ANTV
-14	tvOne
+14	Momoiro Clover Z
 15	Kompas TV
 16	TVRI1
 17	JTV SBY
 18	TVR Parlemen
 19	Jakarta Globe
 21	Reformed 21
+22	Hello! Project
 23	Kairos
 24	SPH Channel
 25	LIMA / Liga Mahasiswa
@@ -43,7 +44,8 @@ STANDARD (SD)
 60	Euronews
 61	TBN Asia
 62	JAK-TV
-64	KAGOME
+63	TVOne
+64	OMAKE CHANNEL
 65	iNews
 72	TLC
 76	AFN
