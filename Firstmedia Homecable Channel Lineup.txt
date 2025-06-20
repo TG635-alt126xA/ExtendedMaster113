@@ -46,8 +46,7 @@ STANDARD (SD)
 52	Animax
 53	GTV
 57	ROCK Action
-58	OCHA NORMA
-59	Rosy Chronicle
+58	RYUKENT
 60	Euronews
 61	TBN Asia
 62	JAK-TV
