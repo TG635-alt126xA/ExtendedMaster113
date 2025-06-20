@@ -28,8 +28,6 @@ STANDARD (SD)
 27	DAAI TV
 29	EWTN
 30	Karaoke Channel
-31	Morning Musume
-32	IS:SUE
 33	Balai Kota Jakarta
 34	Balai Kota Bandung
 35	RTV
@@ -37,14 +35,12 @@ STANDARD (SD)
 37	Sindonews TV
 38	MNC TV
 39	QWER
-40	Juice=Juice
+40	Xdi8
 43	ME:I
 44	TV9 Nusantara
 45	Garuda TV
-46	Kids TV
 47	Quran TV
 48	Sunna TV
-49	Tsubaki Factory
 50	West Java Network
 51	AXN
 52	Animax
@@ -56,11 +52,10 @@ STANDARD (SD)
 61	TBN Asia
 62	JAK-TV
 63	VTV
-64	BEYOOOOONDS
+64	IS:SUE
 65	iNews
-66	OMAKE CHANNEL
+66	Kids TV
 72	TLC
-75	ANGERME
 76	AFN
 80	IMC
 81	Fashion TV
