@@ -5,7 +5,6 @@ STANDARD (SD)
 3	First Lifestyle
 4	CNN Indonesia
 5	MDTV
-6	Nusantara TV / Magna TV
 7	Metro TV
 8	TRANS 7
 9	TRANS TV
@@ -40,17 +39,14 @@ STANDARD (SD)
 52	Animax
 53	GTV
 57	ROCK Action
-59	BN Channel
 60	Euronews
 61	TBN Asia
 62	JAK-TV
 65	iNews
 72	TLC
-75	fripSide
 76	AFN
 80	IMC
 81	Fashion TV
-82	Momoiro Clover Z
 85	First Faith
 86	GMS Channel
 101	Discovery
