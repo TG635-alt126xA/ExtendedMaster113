@@ -30,6 +30,9 @@ STANDARD (SD)
 34	Balai Kota Bandung
 35	RTV
 37	Sindonews TV
+39	EM113 Sport 1
+40	NET.
+43	EM113 Sport 2
 44	TV9 Nusantara
 45	Garuda TV
 47	Quran TV
@@ -118,7 +121,7 @@ STANDARD (SD)
 HIGH DEFINITION (HDTV)
 
 300	First Atmos
-301	Morning Musume
+301	Ryurey House
 302	Jakarta Globe
 303	First Lifestyle
 305	HBO
@@ -145,7 +148,7 @@ HIGH DEFINITION (HDTV)
 337	CinemaWorld
 338	ONE
 339	tvN
-340	ANGERME
+340	NET.
 341	NHK World Japan
 342	Animax
 343	tvN Movies
