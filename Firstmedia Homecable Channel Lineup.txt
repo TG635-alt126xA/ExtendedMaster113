@@ -39,7 +39,6 @@ STANDARD (SD)
 52	Animax
 53	GTV
 57	ROCK Action
-60	Euronews
 61	TBN Asia
 62	JAK-TV
 65	iNews
@@ -83,7 +82,6 @@ STANDARD (SD)
 210	CGTN
 211	TVBS Asia
 212	TVBS News
-213	Hello! Project
 214	Hunan TV
 215	Dragon TV
 216	Jiangsu TV
@@ -107,6 +105,7 @@ STANDARD (SD)
 246	France 24 EN
 247	NHK World Premium
 251	ABC Australia
+254	Euronews
 258	RAI Italia
 260	TV5 Monde Asie
 283	Warner TV
@@ -119,7 +118,7 @@ STANDARD (SD)
 HIGH DEFINITION (HDTV)
 
 300	First Atmos
-301	First Highlights
+301	Morning Musume
 302	Jakarta Globe
 303	First Lifestyle
 305	HBO
@@ -146,6 +145,7 @@ HIGH DEFINITION (HDTV)
 337	CinemaWorld
 338	ONE
 339	tvN
+340	ANGERME
 341	NHK World Japan
 342	Animax
 343	tvN Movies
@@ -220,9 +220,9 @@ OTHERS
 
 510	Catchplay - Preview
 700	Love Nature UHD*
-900	First Highlights
+900	First Highlights HD
 999	First Warriors HD
 
 *) Channels cannot be displayed on HDTV set-top box (audio only)
 
-UPDATED:	2025
+UPDATED:	JUN 2025
