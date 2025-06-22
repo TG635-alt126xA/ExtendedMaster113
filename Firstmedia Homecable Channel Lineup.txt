@@ -5,7 +5,7 @@ STANDARD (SD)
 3	First Lifestyle
 4	CNN Indonesia
 5	MDTV
-6	Xdi8 / Shidinn
+6	Nusantara TV / Magna TV
 7	Metro TV
 8	TRANS 7
 9	TRANS TV
@@ -20,7 +20,6 @@ STANDARD (SD)
 18	TVR Parlemen
 19	Jakarta Globe
 21	Reformed 21
-22	Magna TV
 23	Kairos
 24	SPH Channel
 25	LIMA / Liga Mahasiswa
@@ -32,7 +31,6 @@ STANDARD (SD)
 34	Balai Kota Bandung
 35	RTV
 37	Sindonews TV
-40	NET.
 44	TV9 Nusantara
 45	Garuda TV
 47	Quran TV
@@ -47,7 +45,6 @@ STANDARD (SD)
 61	TBN Asia
 62	JAK-TV
 65	iNews
-66	Nusantara TV
 72	TLC
 75	fripSide
 76	AFN
