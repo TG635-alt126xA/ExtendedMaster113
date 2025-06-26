@@ -40,14 +40,10 @@ ENTERTAINMENT
 391	TV5 Monde Asie
 395	One TV
 
-LOCAL & INHOUSE
+FICTIONAL
 
-444	Hello! Project
-470	Tamanegi TV
-471	Nusantara TV
-473	JKT48 TV
-474	Katamso TV
-475	iNews
+400	Krayunia Channel
+403	EM113 TV
 
 LIFESTYLE & MUSIC
 
@@ -127,6 +123,5 @@ Transvision Xstream using adaptive bitrate, so it may takes time to be able to d
 *) Available for catch-up within 7D
 
 Channels from VIVA group (ANTV & TVOne) stopped broadcasting on last April '25 due to internal corporate issues (mainly crisis hit)
-BN Channel (channel 472) stopped broadcasting on first May '25 due to internal corporate issues (mainly crisis hit)
 
 UPDATED:	2025
