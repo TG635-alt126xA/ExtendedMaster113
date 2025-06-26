@@ -1,60 +1,25 @@
 STANDARD (SD)
 
-1	Potong TV
-2	Salin TV
-3	Pilih Semua TV
-4	CNN Indonesia
-5	NET.
-6	MDTV
-7	Metro TV
-8	BTV
-9	Mbah Kakung TV
-10	Uyut TV
-11	Mbah Uyut TV
-12	CNBC Indonesia
-13	ANTV
-14	IVM
-15	Kompas TV
-16	TVRI1
-17	TRANS TV
-18	Youka Ogawa
-19	SCTV
-20	Tempel TV
-21	Reformed 21
-22	Minami Hishida
-23	Hanasui Kota Channel
-24	Hanasui Kabupaten Channel
-26	MOJI
-27	DAAI TV
-32	Kurea Masuda
-34	RTV
-35	ROCK Ent.
-37	BeritaSatu
-38	Nusantara TV
-40	Channel Info
-41	ROCK Action
-42	Rodja TV
-44	TV9 Nusantara
-45	Garuda TV
-46	Ran Ishii
-47	Kira Yamaguchi
-48	Momoka Sumitani
-49	Dangdutz
-50	Yuzuha Oda
-51	Belatung TV
-52	Sholat Jum'at TV
-53	GTV
-54	AXN
-57	Animax
-58	tvN
-59	Toa Harada
-60	Misaki Tsuruya
-61	Tritih Lor TV
-62	JAK-TV
-63	TVOne
-64	iNews
-65	TRANS 7
-66	imase
+1	Tritih Lor TV
+2	JAK-TV
+3	RTV
+4	TRANS TV
+5	TRANS 7
+6	Magna TV
+7	SCTV
+8	IVM
+9	RCTI
+10	GTV
+11	ANTV
+12	SinemArt
+13	TVOne
+14	iNews
+15	Metro TV
+16	Kompas TV
+17	MNC TV
+18	TVRI
+23	MDTV
+24	BeritaSatu
 
 OTHERS
 
