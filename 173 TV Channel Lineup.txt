@@ -1,30 +1,11 @@
 STANDARD (SD)
 
-1	Tritih Lor TV
-2	JAK-TV
-3	RTV
-4	TRANS TV
-5	TRANS 7
-6	Magna TV
-7	SCTV
-8	IVM
-9	RCTI
-10	GTV
-11	ANTV
-12	SinemArt
-13	TVOne
-14	iNews
-15	Metro TV
-16	Kompas TV
-17	MNC TV
-18	TVRI
-23	MDTV
-24	BeritaSatu
+1	Morning Musume
+2	Chicken Crush
+3	Tritih Lor TV
+4	MDTV
 
 OTHERS
 
 777	Satellite_01 / TRG Lifts
-946	Nogizaka46
-948	AKB48
-949	Morning Musume
 999	imase HD
