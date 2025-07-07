@@ -5,6 +5,7 @@ STANDARD (SD)
 3	First Lifestyle
 4	CNN Indonesia
 5	MDTV
+6	EM113 TV
 7	Metro TV
 8	TRANS 7
 9	TRANS TV
@@ -31,7 +32,7 @@ STANDARD (SD)
 35	RTV
 37	Sindonews TV
 39	EM113 Sport 1
-40	NET.
+40	H!P
 43	EM113 Sport 2
 44	TV9 Nusantara
 45	Garuda TV
@@ -148,7 +149,7 @@ HIGH DEFINITION (HDTV)
 337	CinemaWorld
 338	ONE
 339	tvN
-340	NET.
+340	H!P
 341	NHK World Japan
 342	Animax
 343	tvN Movies
@@ -195,8 +196,8 @@ HIGH DEFINITION (HDTV)
 403	Al Jazeera EN
 404	KBS World
 405	CGTN Documentary
-406	TRANS 7
-407	TRANS TV
+406	TRANS TV
+407	TRANS 7
 408	CNBC Indonesia
 409	CNN Indonesia
 410	Citra Muslim
