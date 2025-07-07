@@ -20,6 +20,7 @@ STANDARD (SD)
 18	TVR Parlemen
 19	Jakarta Globe
 21	Reformed 21
+22	OMAKE CHANNEL
 23	Kairos
 24	SPH Channel
 25	LIMA / Liga Mahasiswa
@@ -31,9 +32,6 @@ STANDARD (SD)
 34	Balai Kota Bandung
 35	RTV
 37	Sindonews TV
-39	EM113 Sport 1
-40	H!P
-43	EM113 Sport 2
 44	TV9 Nusantara
 45	Garuda TV
 47	Quran TV
@@ -43,9 +41,11 @@ STANDARD (SD)
 52	Animax
 53	GTV
 57	ROCK Action
+60	ZH5000
 61	TBN Asia
 62	JAK-TV
 65	iNews
+66	Nusantara TV
 72	TLC
 76	AFN
 80	IMC
@@ -122,7 +122,7 @@ STANDARD (SD)
 HIGH DEFINITION (HDTV)
 
 300	First Atmos
-301	Ryurey House
+301	First UCSUR
 302	Jakarta Globe
 303	First Lifestyle
 305	HBO
@@ -149,7 +149,6 @@ HIGH DEFINITION (HDTV)
 337	CinemaWorld
 338	ONE
 339	tvN
-340	H!P
 341	NHK World Japan
 342	Animax
 343	tvN Movies
