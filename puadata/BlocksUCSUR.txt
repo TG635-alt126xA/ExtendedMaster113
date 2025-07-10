@@ -30,7 +30,7 @@ E5C0..E5DF; Gargoyle
 E5E0..E5FF; Ophidian
 E600..E62F; Ferengi
 E630..E64F; Seussian Latin Extensions
-E650..E67F; Sylabica
+E650..E67F; Sylabitsa
 E680..E6CF; Ewellic
 E6D0..E6EF; Amlin
 E6F0..E73F; Unifon Extended
