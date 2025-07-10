@@ -1,4 +1,6 @@
 E000..E07F; Tengwar
+E400..E42F; Niskloz
 F2000..F327F; Sadalian
+F28A0..F38DF; Zbalermorna
 F3000..F367F; Hello Project Symbols
 F3700..F37FF; Poyunese
