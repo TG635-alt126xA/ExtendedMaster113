@@ -1,6 +1,85 @@
 E000..E07F; Tengwar
+E080..E0FF; Cirth
+E100..E14F; Engsvanyali
+E150..E1AF; Kinya
+E1B0..E1CF; Ilianore
+E1D0..E1FF; Syai
+E200..E26F; Verdurian
+E270..E28F; Aui
+E290..E2BF; Amman-Iar
+E2C0..E2CF; Streich
+E2D0..E2FF; Xaini
+E300..E33F; Mizarian
+E340..E35F; Zirinka
+E360..E37F; Sarkai
+E380..E3AF; Thelwik
+E3B0..E3FF; Olaetyan
 E400..E42F; Niskloz
-F2000..F327F; Sadalian
-F28A0..F38DF; Zbalermorna
-F3000..F367F; Hello Project Symbols
+E430..E44F; Kazat Akkorou
+E450..E46F; Kazvarad
+E470..E48F; Zarkhand
+E490..E4BF; Rozhxh
+E4C0..E4EF; Serivelna
+E4F0..E4FF; Kelwathi
+E500..E51F; Saklor
+E520..E54F; Rynnan
+E550..E57F; Alzetjan
+E580..E59F; Telarasso
+E5A0..E5BF; Ssuraki
+E5C0..E5DF; Gargoyle
+E5E0..E5FF; Ophidian
+E600..E62F; Ferengi
+E630..E64F; Seussian Latin Extensions
+E650..E67F; Sylabica
+E680..E6CF; Ewellic
+E6D0..E6EF; Amlin
+E6F0..E73F; Unifon Extended
+E740..E76F; Unifon
+E770..E77F; Solresol
+E780..E7FF; Visible Speech
+E800..E82F; Monofon
+E830..E88F; Dni
+E890..E8DF; Aurebesh
+E8E0..E8FF; Tonal
+E900..E97F; Glaitha-A
+E980..E9FF; Glaitha-B
+EA00..EA9F; Lhenazi
+EAA0..EAFF; Wanya
+EB00..EB3F; Orokin
+EB40..EB5F; Standard Galactic
+EB60..EB9F; Braille Extended
+EBA0..EBDF; Cistercian Numerals
+EBE0..EBEF; Lapointe Hexadecimal Numerals
+EBF0..EBFF; Martin Hexadecimal Numerals
+EC00..EC2F; Cylenian
+EC30..EC6F; Syrrin
+EC70..ECEF; Graflect
+ECF0..ECFF; Whitaker Hexadecimal Numerals
+ED00..ED3F; Deini
+ED40..ED7F; Niji
+ED80..EDAF; Iranic
+EDB0..EDDF; Tassarunese
+EDE0..EDEF; Zese
+EDF0..EDFF; Grawlixes
+F4C0..F4EF; Ath
+F8A0..F8CF; Aiha
+F8D0..F8FF; Klingon
+F0000..F0E6F; Kinya Syllables
+F0E70..F16AF; Pikto
+F16B0..F16DF; Derani
+F1700..F18FF; Semtog
+F1900..F19FF; Sitelen Pona
+F1A00..F1AFF; Sitelen Pona Extended-A
+F1B00..F1C3F; Shidinn
+F1C40..F1C7F; Titi Pula
+F1C80..F1C9F; Sitelen Pona Radicals
+F1CA0..F1CFF; Tengwar Extended
+F1F00..F1FFF; Sitelen Pona Extended-B
+F2000..F267F; Sadalian
+F2680..F26AF; Quikscript
+F2700..F27FF; Hacm
+F2800..F282F; Liparxe
+F2830..F289F; Shaleian
+F28A0..F28DF; Zbalermorna
+F2900..F295F; Visible Speech Extended
 F3700..F37FF; Poyunese
