@@ -1,2 +1,0 @@
-E000..E07F; Tengwar
-F3700..F37FF; Poyunese

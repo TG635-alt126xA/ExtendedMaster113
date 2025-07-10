@@ -1,0 +1,4 @@
+E000..E07F; Tengwar
+F2000..F327F; Sadalian
+F3000..F367F; Hello Project Symbols
+F3700..F37FF; Poyunese
