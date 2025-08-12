@@ -67,6 +67,7 @@ F8D0..F8FF; Klingon
 F0000..F0E6F; Kinya Syllables
 F0E70..F16AF; Pikto
 F16B0..F16DF; Derani
+F16E0..F16FF; Braille Supplement
 F1700..F18FF; Semtog
 F1900..F19FF; Sitelen Pona
 F1A00..F1AFF; Sitelen Pona Extended-A
