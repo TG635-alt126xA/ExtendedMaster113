@@ -12,3 +12,4 @@ color drawing (with zihuzhe.com fill colors) (water in light blue color, sun in 
 https://deepai.org/gallery-item/01cc2604915d46f796133cee92727c30/rainbow-sky-blue-japanese-pink-light-green-light-yell.jpg.html
 https://deepai.org/gallery-item/350183e26b5c41ce99bf20084ef599a9/rainbow-sky-blue-japanese-pink-light-green-light-yell.jpg.html
 https://deepai.org/gallery-item/36f893ae364740179a3a5d4c016c7272/rainbow-sky-blue-japanese-pink-light-green-light-yell.jpg.html
+https://api.deepai.org/job-view-file/cbe5b2af-f506-48c9-845c-14af3363310f/outputs/output.jpg
