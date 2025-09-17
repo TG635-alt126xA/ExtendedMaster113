@@ -78,7 +78,6 @@ F1CA0..F1CFF; Tengwar Extended
 F1F00..F1FFF; Sitelen Pona Extended-B
 F2000..F267F; Sadalian
 F2680..F26AF; Quikscript
-F26B0..F26FF; Peixuyian
 F2700..F27FF; Hacm
 F2800..F282F; Liparxe
 F2830..F289F; Shaleian
