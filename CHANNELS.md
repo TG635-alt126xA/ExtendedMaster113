@@ -8,18 +8,22 @@
 * Metro TV
 * Kompas TV
 * Inews TV
+* Sin Po TV (PLANNED)
 * TVRI Nasional (FREE)
-* SCTV
-* Indosiar
+* SCTV (PLANNED)
+* Trans 7 (PLANNED)
+* Trans TV (PLANNED)
+* Indosiar (PLANNED)
 * ANTV
 * TV One
 * RTV
 * JAK TV (FREE)
-* MOJI TV
+* MOJI TV (PLANNED)
 * DAAI Indonesia
 * BTV
 * Beritasatu
 * Nusantara TV (FREE)
+* Tangerang TV (PLANNED)
 * JITV
 * KTV
 * JPM
@@ -27,66 +31,59 @@
 * Magna Channel
 * BN CHANNEL
 * Jakarta Globe
-* Sin Po TV
-* JKT48 (FREE)
-* Ryukent_19
-* Asmara Gen Z
-* TNG TV
 #### International
 * NHK World
 * Phoenix HK
 * DW TV Asia
 * France 24
 * ARIRANG World
-* CCTV 4
-* VOA (INACTIVE)
-* CETV 1
-* CGTN Documentary
+* VOA (PLANNED)
 * TV5 Monde
-* Nippon TV (INACTIVE)
+* Nippon TV (PLANNED)
 * KBS Korea
-* Russia 1
-* Yerevan
+* Russia 1 (PLANNED)
+#### Religi
+* Qur'an TV (FREE)
+* Salam TV
+* Rodja TV
+* DMI TV
+* U Channel
+* HOPE Channel
+* TvMU
+* Daystar TV (PLANNED)
 #### News
 * Al Jazeera (FREE)
 * TRT WORLD
 * Phoenix Chinese
 * Channel News Asia
 * Euro News
-* CGTN
-* TVBS
 * Bloomberg
 * CNBC
 * ABC AUSTRALIA
 * BBC NEWS
-* SORA
-* TXBiz (FREE)
-* Omniglot News
+* FOX NEWS (PLANNED)
 #### Sport
 * TVRI Sport
 * Dubai Sports 3
 * Red Bull TV
 * A Sports
-* SPOTV 1
-* SPOTV 2
 #### Entertainment
 * CDI (FREE)
 * Fashion TV
 * Channel V China
 * B4U Music
-* Shenzen Channel
-* Guangdong Channel
-* UPFRONT CHANNEL
-* Momoiro Clover Z
-* BISANETX Music
-* PassCode
-* QWER Korea
-* TV TOKYO
+* Hakkiri Shiyou Ze (PLANNED)
+* Momoiro Clover Z (PLANNED)
+* BISANETX Music (PLANNED)
+* QWER Korea (PLANNED)
+* Dlife Japan (PLANNED)
 #### Movie
 * InPlus Pakistan
 * Lotus Macau
-* Xing Kong China
 * B4U Movies (FREE)
+* BISANETX Movies (PLANNED)
+* Super! Drama TV (PLANNED)
+* Home Drama Channel (PLANNED)
 #### Kids
 * Mentari TV
 * VTV (FREE)
@@ -97,14 +94,15 @@
 * SpaceToon
 * JIAJIA Cartoon Channel
 * Kartoon Channel
-* ToonMax (INACTIVE)
+* ToonMax (PLANNED)
 * Youman Cartoon
-#### Religi
-* Qur'an TV (FREE)
-* Salam TV
-* Rodja TV
-* DMI TV
-* U Channel
-* HOPE Channel
-* TvMU
-* DAYSTAR
+#### Mandarin
+* Xing Kong China (MOVED FROM MOVIES)
+* Zhejiang TV (PLANNED)
+* CCTV 4 (MOVED FROM INTERNATIONAL)
+* CETV 1 (MOVED FROM INTERNATIONAL)
+* CGTN (MOVED FROM NEWS)
+* TVBS (MOVED FROM NEWS)
+* Shenzen Channel (MOVED FROM ENTERTAINMENT)
+* Guangdong Channel (MOVED FROM ENTERTAINMENT)
+* CGTN Documentary (MOVED FROM INTERNATIONAL)
