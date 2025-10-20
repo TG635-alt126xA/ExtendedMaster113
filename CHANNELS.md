@@ -1,22 +1,18 @@
-## Oxygen.ID Stream+/Channel List
+## Oxygen.ID Stream+ (Extended)
 ### Local
 * Oxygen.ID (FREE)
 * IDX Channel (FREE)
 * MDTV
-* CNN Indonesia (INACTIVE)
 * Metro TV
 * Kompas TV
 * Inews TV
 * TVRI Nasional (FREE)
-* SCTV (INACTIVE)
 * Trans 7 (INACTIVE)
 * Trans TV (INACTIVE)
-* Indosiar (INACTIVE)
 * ANTV
 * TV One
 * RTV
 * JAK TV (FREE)
-* MOJI TV (INACTIVE)
 * DAAI Indonesia
 * BTV
 * Beritasatu
@@ -28,32 +24,12 @@
 * Magna Channel
 * BN CHANNEL
 * Jakarta Globe
-* Global TV (PLANNED)
-* Sin Po TV (PLANNED)
-### Movie
-* InPlus Pakistan
-* Lotus Macau
-* Xing Kong China
-* B4U Movies (FREE)
-* BISANETX Movies (PLANNED)
-* Super! Drama TV (PLANNED)
-* Home Drama Channel (PLANNED)
-### Kids
-* Mentari TV
-* VTV (FREE)
-* Planet Fun
-* DEI KIDS TV
-* Kids Zone Plus
-* EBS Kids
-* SpaceToon
-* JIAJIA Cartoon Channel
-* Kartoon Channel
-* ToonMax (INACTIVE)
-* Youman Cartoon
-* BISANETX Cartoon (PLANNED)
-* CBeebies (PLANNED)
-* KIDS STATION (PLANNED)
-* Animax (PLANNED)
+* BMS TV (INACTIVE)
+* Dhoho TV (INACTIVE)
+* EM113 TV
+* Global TV
+* KSTV (INACTIVE)
+* Sin Po TV
 ### International
 * NHK World (HD)
 * Phoenix HK
@@ -67,8 +43,6 @@
 * TV5 Monde
 * Nippon TV (INACTIVE)
 * KBS Korea
-* Russia 1 (PLANNED)
-* Kanarazia TV 4 (PLANNED)
 ### Religi
 * Qur'an TV (FREE)
 * Salam TV
@@ -77,10 +51,9 @@
 * U Channel
 * HOPE Channel
 * TvMU
-* Daystar TV (PLANNED)
-* Angel TV Indonesia (PLANNED)
+* Daystar TV
+* Angel TV Indonesia
 ### News
-* CNBC Indonesia (INACTIVE)
 * Al Jazeera (FREE)
 * TRT WORLD
 * Phoenix Chinese
@@ -92,20 +65,45 @@
 * CNBC
 * ABC AUSTRALIA
 * BBC NEWS
-* FOX NEWS (PLANNED)
-### Entertainment
-* CDI (FREE)
-* Fashion TV
-* Channel V China
-* B4U Music
-* Shenzen Channel
-* Guangdong Channel
-* Momoiro Clover Z (PLANNED)
-* BISANETX Music (PLANNED)
-* QWER Korea (PLANNED)
-* Dlife Japan (PLANNED)
+* FOX News
 ### Sport
 * TVRI Sport
 * Dubai Sports 3
 * Red Bull TV
 * A Sports
+### Entertainment
+* Fashion TV
+* Shenzen Channel
+* Guangdong Channel
+* UPFRONT CHANNEL
+* LAPONE Entertainment
+### Movie
+* InPlus Pakistan
+* Lotus Macau
+* Xing Kong China
+* B4U Movies (FREE)
+### Music
+* CDI (FREE)
+* M-line Music
+* Channel V China
+* B4U Music
+* Momoiro Clover Z
+### Kids
+* Mentari TV
+* VTV (FREE)
+* Planet Fun
+* DEI KIDS TV
+* Kids Zone Plus
+* EBS Kids
+* SpaceToon
+* JIAJIA Cartoon Channel
+* Kartoon Channel
+* ToonMax (INACTIVE)
+* Youman Cartoon
+### Shopping Mall
+* Shop Channel Japan
+* QVC Japan
+* e-LineUP!Mall
+* iBerkah (INACTIVE)
+### In House
+* Oxygen.ID (FREE)
