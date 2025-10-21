@@ -7,12 +7,15 @@
 * Kompas TV
 * Inews TV
 * TVRI Nasional (FREE)
-* Trans 7 (INACTIVE)
-* Trans TV (INACTIVE)
+* SCTV (INACTIVE)
+* Trans 7
+* Trans TV
+* Indosiar (INACTIVE)
 * ANTV
 * TV One
 * RTV
 * JAK TV (FREE)
+* MOJI TV (INACTIVE)
 * DAAI Indonesia
 * BTV
 * Beritasatu
@@ -24,12 +27,23 @@
 * Magna Channel
 * BN CHANNEL
 * Jakarta Globe
-* BMS TV (INACTIVE)
-* Dhoho TV (INACTIVE)
-* EM113 TV
-* Global TV
-* KSTV (INACTIVE)
-* Sin Po TV
+### Movie
+* InPlus Pakistan
+* Lotus Macau
+* Xing Kong China
+* B4U Movies (FREE)
+### Kids
+* Mentari TV
+* VTV (FREE)
+* Planet Fun
+* DEI KIDS TV
+* Kids Zone Plus
+* EBS Kids
+* SpaceToon
+* JIAJIA Cartoon Channel
+* Kartoon Channel
+* ToonMax (INACTIVE)
+* Youman Cartoon
 ### International
 * NHK World (HD)
 * Phoenix HK
@@ -52,7 +66,6 @@
 * HOPE Channel
 * TvMU
 * Daystar TV
-* Angel TV Indonesia
 ### News
 * Al Jazeera (FREE)
 * TRT WORLD
@@ -66,44 +79,21 @@
 * ABC AUSTRALIA
 * BBC NEWS
 * FOX News
+### Entertainment
+* CDI (FREE)
+* Fashion TV
+* Channel V China
+* B4U Music
+* Insight TV (INACTIVE)
+* Shenzen Channel
+* Guangdong Channel
+* Limista Japan
+* Hakkiri Shiyou Ze (INACTIVE)
+* Momoiro Clover Z
 ### Sport
 * TVRI Sport
 * Dubai Sports 3
 * Red Bull TV
 * A Sports
-### Entertainment
-* Fashion TV
-* Shenzen Channel
-* Guangdong Channel
-* UPFRONT CHANNEL
-* LAPONE Entertainment
-### Movie
-* InPlus Pakistan
-* Lotus Macau
-* Xing Kong China
-* B4U Movies (FREE)
-### Music
-* CDI (FREE)
-* M-line Music
-* Channel V China
-* B4U Music
-* Momoiro Clover Z
-### Kids
-* Mentari TV
-* VTV (FREE)
-* Planet Fun
-* DEI KIDS TV
-* Kids Zone Plus
-* EBS Kids
-* SpaceToon
-* JIAJIA Cartoon Channel
-* Kartoon Channel
-* ToonMax (INACTIVE)
-* Youman Cartoon
-### Shopping Mall
-* Shop Channel Japan
-* QVC Japan
-* e-LineUP!Mall
-* iBerkah (INACTIVE)
 ### In House
 * Oxygen.ID (FREE)
