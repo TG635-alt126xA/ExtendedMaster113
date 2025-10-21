@@ -1,26 +1,24 @@
-## Oxygen.ID Stream+ (Extended)
+## Oxygen.ID (STREAM +)
+### Free Channels
+Oxygen.ID, IDX Channel, TVRI Nasional, JAK TV, Nusantara TV, VTV, B4U Movies, Russia 1, Qur'an TV, Al Jazeera, and CDI
 ### Local
-* Oxygen.ID (FREE)
-* IDX Channel (FREE)
-* MDTV
+* Oxygen.ID (In House)
+* IDX Channel (relay Vision+)
+* MDTV (formerly NET TV)
 * Metro TV
 * Kompas TV
-* Inews TV
-* TVRI Nasional (FREE)
-* SCTV (INACTIVE)
-* Trans 7
-* Trans TV
-* Indosiar (INACTIVE)
+* **Inews TV (now is moved from News)**
+* TVRI Nasional
 * ANTV
 * TV One
 * RTV
-* JAK TV (FREE)
-* MOJI TV (INACTIVE)
+* JAK TV
 * DAAI Indonesia
 * BTV
-* Beritasatu
-* Nusantara TV (FREE)
-* JITV
+* Beritasatu (formerly IDTV)
+* Nusantara TV
+* VTV (formerly Sport One)
+* JITV (via Magna Channel Yogyakarta)
 * KTV
 * JPM
 * Garuda TV
@@ -31,10 +29,11 @@
 * InPlus Pakistan
 * Lotus Macau
 * Xing Kong China
-* B4U Movies (FREE)
+* B4U Movies
+* ROCK Action
 ### Kids
 * Mentari TV
-* VTV (FREE)
+* ZooMoo
 * Planet Fun
 * DEI KIDS TV
 * Kids Zone Plus
@@ -42,7 +41,6 @@
 * SpaceToon
 * JIAJIA Cartoon Channel
 * Kartoon Channel
-* ToonMax (INACTIVE)
 * Youman Cartoon
 ### International
 * NHK World (HD)
@@ -51,23 +49,22 @@
 * France 24
 * ARIRANG World
 * CCTV 4
-* VOA (INACTIVE)
 * CETV 1
 * CGTN Documentary
 * TV5 Monde
-* Nippon TV (INACTIVE)
 * KBS Korea
+* Russia 1
 ### Religi
-* Qur'an TV (FREE)
+* Qur'an TV
 * Salam TV
 * Rodja TV
-* DMI TV
+* DMI TV (formerly Tawaf TV)
 * U Channel
 * HOPE Channel
 * TvMU
-* Daystar TV
 ### News
-* Al Jazeera (FREE)
+* **Inews TV (now is moved to Local)**
+* Al Jazeera
 * TRT WORLD
 * Phoenix Chinese
 * Channel News Asia
@@ -78,22 +75,17 @@
 * CNBC
 * ABC AUSTRALIA
 * BBC NEWS
-* FOX News
 ### Entertainment
-* CDI (FREE)
+* CDI
 * Fashion TV
 * Channel V China
 * B4U Music
-* Insight TV (INACTIVE)
 * Shenzen Channel
 * Guangdong Channel
-* Limista Japan
-* Hakkiri Shiyou Ze (INACTIVE)
+* ROCK Entertainment
 * Momoiro Clover Z
 ### Sport
 * TVRI Sport
 * Dubai Sports 3
 * Red Bull TV
 * A Sports
-### In House
-* Oxygen.ID (FREE)
