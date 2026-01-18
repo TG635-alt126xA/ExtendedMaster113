@@ -83,3 +83,4 @@ F2800..F282F; Liparxe
 F2830..F289F; Shaleian
 F28A0..F28DF; Zbalermorna
 F2900..F295F; Visible Speech Extended
+F3170..F31AF; Seiyuunese
